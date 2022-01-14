@@ -7,5 +7,5 @@ d:
 cd \UIK\Exchange_AliExpress\webdata
 git status
 git add .
-git commit -a -m "%year%.%mon%.%date% %hour%:%minute%:%sec%"
+git commit -a -m "%year%.%month%.%day% %hour%:%minute%:%second%"
 git push -u origin main
