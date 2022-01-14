@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog>
+	<shop>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="УТ-00001943">Ottie</category>
+		</categories>
+		<offers>
+			<offer id="0000000000000000000008327738" group_id="0000000000000000000008327738">
+				<name>015976 Тонер с платиной Ottie Platinum Aura Active Toner (120 мл)</name>
+				<description>С возрастом, от стрессов, неблагоприятных условий среды и других факторов в организме образуется избыточное количество активного кислорода.
+Он окисляет наш организм, разрушая клеточные мембраны.
+Это и является основной причиной старения кожи. 
+Платина  является мощным антиоксидантом.
+Она подавляет в организме окислительные процессы, замедляя процесс старения.
+Черная икра дает отличный эффект лифтинга.
+Как результат - существенно подтянувшаяся и омолодившаяся кожа.
+Контур овала лица становится более четким и ровным, уходят мелкие морщинки, цвет лица становится приятным и посвежевшим.
+Еще одним полезным свойством икры осетровых рыб является то, что она не только омолаживает кожу, но и укрепляет стенки сосудов.
+Слива какду самый безопасный витамин С в мире.
+Экстракт какаду помогает очистить кожу лица , осветлить веснушки и пигментацию и придать лицу потрясающее здоровое сияние.
+Platinum Aura Active Toner - инновационный тонер для ухода за кожей с возрастными изменениями.
+</description>
+				<vendor>Ottie</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">015976(710301)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для лица"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1359</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>2369</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001943</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Ottie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Тоник/тонер</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">168b5dfe-42da-11e8-e08a-9cdc71af0f48&amp;3edf995c-eab6-4e55-bbe7-95b4cc04f894&amp;3a22024e-802a-11e8-b78a-9cdc71af0f48&amp;6c0d9ca6-f49d-43be-aff9-ce4cf2247c7a&amp;10fdd4c6-2453-4e2b-9fba-4692799925c5&amp;6cf874e2-7e04-4eb2-9f3e-bebb6da98fe9&amp;49497682-0441-478d-993f-d4123c726aaa&amp;47bb906b-6372-4588-989d-ed312793b574&amp;dd975c40-3b54-11e9-9885-9cdc71af0f48&amp;59232118-863e-4d06-94e5-5342107c5a71&amp;133050a9-9476-40c0-92ea-35e0dbc3fae9&amp;6871aabe-3458-40e4-927a-332ffe32ce44&amp;83269872-0490-11ea-8ec5-9cdc71af0f49&amp;8c56fc61-1f24-4aad-854b-995f859aaf20&amp;41af6588-9fdc-40ce-81dd-ac15be4fb62e&amp;344f8424-af49-11e8-748d-9cdc71af0f48&amp;696d0b10-6a45-11e9-5d88-9cdc71af0f48&amp;4e61a9ca-6a45-11e9-5d88-9cdc71af0f48&amp;463f9374-6a45-11e9-5d88-9cdc71af0f48&amp;3fdd8f68-6a45-11e9-5d88-9cdc71af0f48&amp;38f611de-6a45-11e9-5d88-9cdc71af0f48&amp;8814bd18-93bf-11e8-5b85-9cdc71af0f48&amp;2b4adb10-a794-11e8-439d-9cdc71af0f48&amp;ee3d392c-2527-11e9-3990-9cdc71af0f48&amp;b65beb66-9bd9-11e8-249b-9cdc71af0f48</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Ottie,OTTIE,Отти,Оттие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">OTTIE</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Оттие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ottie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Отти</param>
+				<param name="product_id_n">0000000000000000000008327738</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>3</quantity>
+			</offer>
+			<offer id="0000000000000000000009327738" group_id="0000000000000000000009327738">
+				<name>015983 Эмульсия с платиной Ottie Platinum Aura Vital Balancing Emulsion (120 мл)</name>
+				<description>Стресс бывает разным.
+Недосып, напряженная работа или учеба, а если еще добавить неправильное питание и другие неприятные факторы, мы получаем негативное влияние на организм в целом и на кожу лица в частности. Если Вы замечаете, что лицо потускнело, кожа местами стала сухой и шелушится – это результат избытка активного кислорода в тканях. Разрушение клеточной мембраны эпидермиса и дермы при его окислении и приводит к преждевременному старению.
+Обеспечить антистресс-поддержку Вашему лицу поможет эмульсия с платиной Platinum Aura Vital Balancing Emulsion.
+Платина – это мощный антиоксидант.
+Металл нейтрализует свободные радикалы и минимизирует воздействие окружающей среды на кожу.
+Быстро регенерирует кожу.
+Укрепляет сосуды и стимулирует микроциркуляцию.
+Входящие в состав эмульсии экстракты черной икры, сливы какаду и гиалуроновая кислота помогут решить такие несовершенства кожи, как акне, неприятный жирный блеск, шелушения, обезвоженность.</description>
+				<vendor>Ottie</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">015983(710318)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для лица"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1360</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>2369</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001943</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Ottie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем/эмульсия</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4b246582-77eb-11e9-e989-9cdc71af0f48&amp;4362e288-77eb-11e9-e989-9cdc71af0f48&amp;42260436-77eb-11e9-e989-9cdc71af0f48&amp;16a6fb68-42da-11e8-e08a-9cdc71af0f48&amp;32668784-6b10-11e8-cf88-9cdc71af0f48&amp;34ab939e-f31a-11e8-ce8b-9cdc71af0f48&amp;24f21817-7f8f-4003-bfd5-d242722a6649&amp;f374d478-13d9-4fe5-bef2-e39465370622&amp;47403c03-e6dc-4c55-bedf-c564a83412df&amp;05440e2f-8e4b-40ee-bdaf-d6c95dca94ff&amp;ab488397-a7a6-40da-bd7a-0e193a519d5f&amp;c4e0a542-8350-11e8-bb87-9cdc71af0f48&amp;c4bcc28a-8350-11e8-bb87-9cdc71af0f48&amp;fc23847c-8344-11e8-bb87-9cdc71af0f48&amp;d99e1d65-d7b5-4177-bb01-6e87105d7d9d&amp;b8afe9d0-fc3f-4a2b-bab7-3f2400cde819&amp;a6884d62-78bc-4ce9-ba6a-805daebd7e9b&amp;5024f0de-e99c-4d4e-b9e3-b1013cbe5134&amp;ea6e5399-e5da-4c44-b9c1-c3b01f26e281&amp;0ba21d00-8dbc-11e9-b99d-9cdc71af0f48&amp;2908a554-6dad-45de-b97c-0226ca8eda18&amp;ceee73c4-bb7c-4ff5-b894-bfbb10d6e285&amp;158c249d-7473-4f88-b795-38fce74866b3&amp;3a4623ae-802a-11e8-b78a-9cdc71af0f48&amp;3a30034e-802a-11e8-b78a-9cdc71af0f48&amp;07c68279-75c0-408b-b588-92bf36fd5792&amp;aa6abcbb-d73d-4999-b4d6-cd363be0dd04</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Ottie,OTTIE,Отти,Оттие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Оттие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Отти</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ottie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">OTTIE</param>
+				<param name="product_id_n">0000000000000000000009327738</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>1</quantity>
+			</offer>
+			<offer id="0000000000000000000006327738" group_id="0000000000000000000006327738">
+				<name>015990 Cыворотка с платиной Ottie Platinum Aura Nutri-intensive Serum(40 мл)</name>
+				<description>Бороться с разными неприятными жизненными ситуациями можно, но не всегда успешно.
+Стресс, внешние негативные факторы с возрастом приводят к накоплению в тканях организма активного кислорода.
+Преждевременное старение организма – это результат окисления кислорода и разрушения клеточных мембран.
+Но если у нас не всегда получается правильно решить жизненные вопросы, то вопрос сохранения молодости лица мы всегда можем доверить антивозрастной сыворотке с платиной Platinum Aura Nutri-Intensive Serum.
+Являясь мощным антиоксидантом, платина подавляет процесс окисления и замедляет увядание кожи.
+Делает ее более упругой и эластичной.
+Высококонцентрированная сыворотка, проникая в глубокий слой эпидермиса, увлажняет, питает и стимулирует выработку коллагена и эластина клетками кожи.
+Входящие в состав сыворотки экстракты черной икры, сливы какаду, а так же ниацинамид и аденозин способствуют лифтинг-эффекту, сокращению морщин и образованию новых.</description>
+				<vendor>Ottie</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">015990(710332)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для лица"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1361</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>2501</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001943</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Ottie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Сыворотка/эссенция</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">86e24366-29cd-42f2-b575-051e1d4c80c1&amp;8484f663-0a40-4d5e-b438-a6acb4315879&amp;7b5696e2-a280-44c7-b32a-4663384ea55b&amp;4be06625-a561-4c6a-b1c0-cf8fd8ab5476&amp;6a0455ac-fe8e-4a51-b174-176f54d44fb0&amp;0f171c27-2451-45d2-b0f7-985d6ede063a&amp;de1abbbf-376e-4b15-b033-8efb816f0e70&amp;b2de08eb-c4f4-4607-afe8-fe98ea49aa65&amp;c54c0205-bd96-487b-ac76-bc0fc9ce7716&amp;6518c967-9827-4b55-abea-80f763cb30b8&amp;5880880b-f8fd-4122-ab8e-c200dd77bfc2&amp;4e9ec620-b880-4511-a762-5a5c3690316c&amp;f51095a9-cd6e-4ea6-a74c-e0bb70aadc91&amp;12e51540-1867-4074-a69d-ed6c0e799889&amp;e8dae171-8982-48e7-a647-50d76556beb8&amp;16b168b9-d806-41e2-a3c4-8d6b717a5cd3&amp;ee074976-9515-4f6d-a2c0-f45b8aa67a74&amp;5954515d-81bb-4bc7-a045-f11f9df1895b&amp;207ada9f-a63f-4593-9f97-ea64d9d22fc3&amp;f232cb60-75a7-4876-9d6a-c6d5aebd85e4&amp;48de45da-5504-478e-9cc1-7e6295ad7db3&amp;836047a6-3387-4d13-9a2e-a7fd5d888aa9&amp;82b8302c-f697-48cc-99e5-9d2450d081a1&amp;e27c4f86-3b54-11e9-9885-9cdc71af0f48&amp;73ab9ba7-17b6-4c91-9657-dc9f60283de2&amp;ab4e2b57-b1fd-401a-9568-30be042f0cdc&amp;d8cb1157-7bff-42b3-9160-d5361c9e730d</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Ottie,OTTIE,Отти,Оттие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">OTTIE</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Оттие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ottie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Отти</param>
+				<param name="product_id_n">0000000000000000000006327738</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
