@@ -8,4 +8,4 @@ cd \UIK\Exchange_AliExpress\webdata
 git status
 git add .
 git commit -a -m "%year%.%mon%.%date% %hour%:%minute%:%sec%"
-gits push -u origin main
+git push -u origin main
