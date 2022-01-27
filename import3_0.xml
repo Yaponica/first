@@ -5,24 +5,28 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
-			<category id="УТ-00001203">Frudia</category>
+			<category id="УТ000012427">Подарочные наборы</category>
+			<category id="УТ-00000708">Морской коллаген</category>
 			<category id="УТ-00000373">Крем La miso</category>
 			<category id="УТ-00001943">Ottie</category>
+			<category id="УТ-00000429">HADALABO</category>
 			<category id="УТ-00002202">TRIMAY Peptide</category>
 		</categories>
 		<offers>
-			<offer id="0000000000000000002085272438" group_id="0000000000000000002085272438">
-				<name>030171 Питательная сыворотка Frudia с гранатом, 50 мл</name>
-				<description>Главный герой сыворотки Frudia Pomegranate Nutri-Moisturizing Serum – его величество гранат.
-Средство на 64% состоит из экстракта, извлечённого из богатой полифенолами мякоти королевского фрукта.
-Полифенолы – одни из самых активных антиоксидантов, которые препятствуют старению кожи и буквально стирают с лица морщинки.
-Ещё один секрет молодости, таящийся в гранате – фитоэстроген.
-Не стоит пугаться названия: эти вещества не являются гормоном, однако наша кожа реагирует на них именно как на естественный эстроген, который активизирует выработку коллагена и запускает процессы клеточной регенерации.
-Кроме мякоти, в работе сыворотки Frudia Pomegranate Nutri-Moisturizing Serum участвуют и косточки граната: из них получают масло, которое смягчает и успокаивает сухую кожу. Благодаря натуральному составу средство не раздражает кожу.</description>
-				<vendor>Frudia</vendor>
+			<offer id="0000000000000000000000327439" group_id="0000000000000000000000327439">
+				<name>013532 Hyo Yeon  Jayang  Набор для лица уходовый Hyo Yeon Jayang Skin Care 3 ltems Set</name>
+				<description>Набор косметики Hyo Yeon с эксклюзивной антивозрастной формулой с содержанием более 100 видов ценных натуральных экстрактов и стволовых клеток лотоса, дарит коже жизненную энергию, повышает эластичность, тонус, разглаживает морщины.
+В набор входят: 
+- Тоник Hyo Yeon Jayang 160 мл + миниатюра 25 мл - очищает кожу от загрязнений, улучшает цвет лица.
+- Эмульсия Hyo Yeon Jayang 160 мл + миниатюра 25 мл - интенсивно борется с признаками старения, повышает тонус кожи, придает сияние и бархатистость.
+- Крем для лица Hyo Yeon Jayang 50 мл + миниатюра 15 мл - оказывает подтягивающее и выравнивающее действие, поддерживает оптимальный уровень увлажненности.
+- Крем для кожи вокруг глаз Hyo Yeon Jayang 15 мл - стимулирует процессы кровообращения, синтеза коллагена и клеточного обновления, устраняет темные круги и отеки под глазами.
+- Эссенция для лица Hyo Yeon Jayang (флакон с дозатором)  10 мл. - проникает в глубокие слои кожи и оказывает интенсивный антивозрастной эффект.
+</description>
+				<vendor>Welcos</vendor>
 				<country_of_origin>Южная Корея</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">030171</param>
+				<param name="Артикул">013532</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
@@ -36,13 +40,13 @@
 				<param name="ДлинаЧислитель">0</param>
 				<param name="ЕдиницаИзмерения">шт</param>
 				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
+				<param name="Качество">Новый</param>
 				<param name="КиЗГИСМ">Нет</param>
 				<param name="КиЗГИСМGTIN"/>
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">1133</param>
+				<param name="КодДляПоиска">1493</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -58,23 +62,36 @@
 				<param name="СрокГодности">0</param>
 				<param name="СтавкаНДС">Без НДС</param>
 				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>1511</price>
+				<param name="ТоварнаяКатегория">Косметика для лица</param>
+				<param name="ЦеноваяГруппа">Наборы для лица</param>
+				<price>6422</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001203</categoryId>
+				<categoryId>УТ000012427</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Frudia</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Сыворотка/эссенция</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">16b168b9-d806-41e2-a3c4-8d6b717a5cd3&amp;ee074976-9515-4f6d-a2c0-f45b8aa67a74&amp;5954515d-81bb-4bc7-a045-f11f9df1895b&amp;207ada9f-a63f-4593-9f97-ea64d9d22fc3&amp;f232cb60-75a7-4876-9d6a-c6d5aebd85e4&amp;48de45da-5504-478e-9cc1-7e6295ad7db3&amp;836047a6-3387-4d13-9a2e-a7fd5d888aa9&amp;82b8302c-f697-48cc-99e5-9d2450d081a1&amp;e27c4f86-3b54-11e9-9885-9cdc71af0f48&amp;73ab9ba7-17b6-4c91-9657-dc9f60283de2&amp;ab4e2b57-b1fd-401a-9568-30be042f0cdc&amp;d8cb1157-7bff-42b3-9160-d5361c9e730d&amp;4ea45f2f-c39a-4d30-912b-6146598cd328&amp;41297f23-f872-4a83-909d-c50a24b8381c&amp;deec58f3-124c-4d2b-8ff6-0e7c2a4d7f54&amp;012de519-9cc7-11e9-8ebc-9cdc71af0f49&amp;e6aec049-5b75-4402-8842-dfd354ad74f6&amp;8314e2ca-cad3-11e8-868a-9cdc71af0f48&amp;1f97b0c0-d656-45b9-8515-6de263a88612&amp;fdc5a618-47cb-4031-8387-a164242ba159&amp;1e1243a1-280f-4b13-8295-a7fdeddb9525&amp;0c665396-407f-4775-8021-d703ad303abe&amp;35fc617a-af49-11e8-748d-9cdc71af0f48&amp;813016e8-6a45-11e9-5d88-9cdc71af0f48&amp;4489bd34-6a45-11e9-5d88-9cdc71af0f48&amp;3ddb5394-6a45-11e9-5d88-9cdc71af0f48&amp;3780385c-6a45-11e9-5d88-9cdc71af0f48</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Frudia ,frudia ,фрудиа,фрудия,FRUDIA</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">frudia </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">FRUDIA</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фрудия</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фрудиа</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Frudia </param>
-				<param name="product_id_n">0000000000000000002085272438</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем/эмульсия</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Лифтинг/антивозрастной уход</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
+				<param name="Тип кожи (Косметика &quot;Для лица&quot;)">Для всех типов кожи</param>
+				<param name="Тип кожи (Косметика &quot;Для лица&quot;)">Зрелая</param>
+				<param name="Возраст (Косметика &quot;Для лица&quot;)">от 45 лет</param>
+				<param name="Зона нанесения (Косметика &quot;Для лица&quot;)">Лицо</param>
+				<param name="Зона нанесения (Косметика &quot;Для лица&quot;)">Область вокруг глаз</param>
+				<param name="Зона нанесения (Косметика &quot;Для лица&quot;)">Шея</param>
+				<param name="Особенность состава (Косметика &quot;Для лица&quot;)">Со стволовыми клетками</param>
+				<param name="Особенность состава (Косметика &quot;Для лица&quot;)">С растительными компонентами</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4b246582-77eb-11e9-e989-9cdc71af0f48&amp;4362e288-77eb-11e9-e989-9cdc71af0f48&amp;34ab939e-f31a-11e8-ce8b-9cdc71af0f48&amp;47403c03-e6dc-4c55-bedf-c564a83412df&amp;ab488397-a7a6-40da-bd7a-0e193a519d5f&amp;c4bcc28a-8350-11e8-bb87-9cdc71af0f48&amp;d99e1d65-d7b5-4177-bb01-6e87105d7d9d&amp;a6884d62-78bc-4ce9-ba6a-805daebd7e9b&amp;ea6e5399-e5da-4c44-b9c1-c3b01f26e281&amp;0ba21d00-8dbc-11e9-b99d-9cdc71af0f48&amp;09f6f34a-8dbc-11e9-b99d-9cdc71af0f48&amp;2908a554-6dad-45de-b97c-0226ca8eda18&amp;ceee73c4-bb7c-4ff5-b894-bfbb10d6e285&amp;ce85a6ce-dc67-40a6-b2b1-cd1e496affeb&amp;30b29468-5f7c-43e6-b1e8-148c8f329f68&amp;e8858766-fbb4-4a96-b08a-c8d3c226dafb&amp;c264e227-2c53-421b-ae8f-787f5153a48e&amp;0b40c913-984d-4ac4-ab60-c2399760aabe&amp;8c1f11d2-6bc2-4f13-a71d-05d9e668b2f0&amp;09efd75c-11e2-4fab-a5c4-5a6d31884145&amp;5db0ceae-147d-44db-a092-51d61be19d56&amp;192791b8-1fcf-11e9-a086-9cdc71af0f48&amp;c87826c3-ef14-4bc7-9fa6-1a3f6a5088c7&amp;55d0d2ce-80bf-4220-9f9a-471f8712da60&amp;6b58c8e8-50bf-4817-9f37-5e60921efcbf&amp;c7a7cc2b-55d1-4195-9c8e-a9cb5e39bb7c&amp;398cf7ff-cbb4-43e9-99dc-f9094ccd3429</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">argan</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">welcos</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велк</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велком</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велкос</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">argan,Welcos,welcos,велк,велком,велкос</param>
+				<param name="product_id_n">0000000000000000000000327439</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -85,13 +102,17 @@
 				<height>1</height>
 				<quantity>1</quantity>
 			</offer>
-			<offer id="0000000000000000000265272438" group_id="0000000000000000000265272438">
-				<name>031062 Питательный тоник Frudia с гранатом, 195 мл</name>
-				<description>С давних времён женщины использовали сок граната, чтобы сохранить красоту и молодость.Одна из самых известных поклонниц фрукта – царица Клеопатра.Судя по многочисленным легендам о её красоте, гранат выполнял свою работу на отлично.Специалисты корейской марки Frudia использовали современную технологию R Vita W, чтобы без потерь перенести все полезные свойства фрукта в яркую бутылочку тоника Pomegranate Nutri-Moisturizing Toner, который на 87% состоит из экстракта из мякоти граната.Его главные действующие вещества – это полифенолы, фитоэстроген, витамины С и К.Антиоксиданты полифенолы защищают лицо от действия свободных радикалов, фитоэстроген стимулирует выработку естественного коллагена и запускает процесс клеточной регенерации.Витамин С увлажняет кожу, а витамин К осветляет её и уменьшает сосудистые дефекты.За питание и смягчение отвечают витамин Е и комплекс растительных масел.Тоник Frudia Pomegranate Nutri-Moisturizing Toner с натуральным составом идеально подойдёт для сухой и чувствительной кожи.</description>
-				<vendor>Frudia</vendor>
+			<offer id="0000000000000000061762098678" group_id="0000000000000000061762098678">
+				<name>410320 Тоник с морским коллагеном  La Soyul Moist &amp; Lift Marine Collagen Toner, 150мл</name>
+				<description>Морской коллаген обладает выраженным лифтинг эффектом, увлажняет и поддерживает высокий уровень увлажненности кожи лица на протяжении 48 часов. 
+Низкомолекулярная гиалуроновая кислота интенсивно увлажняет и возвращает коже здоровое сияние. 
+Тоник интенсивно увлажняет и смягчает кожу лица, восстанавливая pH баланс после умывания. 
+Пантенол и растительные экстракты в составе средства успокаивают чувствительную кожу, снимают покраснения. 
+В состав серии Moist and Lift входит особая форма морского коллагена, которая имеет низкий молекулярный вес и содержит большое количество аминокислот (гидрокиспролин, гидроксилизин, глицин, пролин), благодаря чему средства лучше проникают в кожу лица и оказывают более интенсивное воздействие.</description>
+				<vendor>La Soyul</vendor>
 				<country_of_origin>Южная Корея</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">031062</param>
+				<param name="Артикул">410320</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
@@ -105,13 +126,13 @@
 				<param name="ДлинаЧислитель">0</param>
 				<param name="ЕдиницаИзмерения">шт</param>
 				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
+				<param name="Качество">Новый</param>
 				<param name="КиЗГИСМ">Нет</param>
 				<param name="КиЗГИСМGTIN"/>
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">1134</param>
+				<param name="КодДляПоиска">11121389</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -127,23 +148,23 @@
 				<param name="СрокГодности">0</param>
 				<param name="СтавкаНДС">Без НДС</param>
 				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
+				<param name="ТоварнаяКатегория">Косметика для лица</param>
 				<param name="ЦеноваяГруппа"/>
-				<price>1267</price>
+				<price>1049</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001203</categoryId>
+				<categoryId>УТ-00000708</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Frudia</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Тоник/тонер</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">168b5dfe-42da-11e8-e08a-9cdc71af0f48&amp;3edf995c-eab6-4e55-bbe7-95b4cc04f894&amp;08fbb91c-8dbc-11e9-b99d-9cdc71af0f48&amp;3a22024e-802a-11e8-b78a-9cdc71af0f48&amp;6c0d9ca6-f49d-43be-aff9-ce4cf2247c7a&amp;10fdd4c6-2453-4e2b-9fba-4692799925c5&amp;6cf874e2-7e04-4eb2-9f3e-bebb6da98fe9&amp;49497682-0441-478d-993f-d4123c726aaa&amp;47bb906b-6372-4588-989d-ed312793b574&amp;dd975c40-3b54-11e9-9885-9cdc71af0f48&amp;59232118-863e-4d06-94e5-5342107c5a71&amp;133050a9-9476-40c0-92ea-35e0dbc3fae9&amp;6871aabe-3458-40e4-927a-332ffe32ce44&amp;83269872-0490-11ea-8ec5-9cdc71af0f49&amp;8c56fc61-1f24-4aad-854b-995f859aaf20&amp;41af6588-9fdc-40ce-81dd-ac15be4fb62e&amp;344f8424-af49-11e8-748d-9cdc71af0f48&amp;696d0b10-6a45-11e9-5d88-9cdc71af0f48&amp;463f9374-6a45-11e9-5d88-9cdc71af0f48&amp;3fdd8f68-6a45-11e9-5d88-9cdc71af0f48&amp;38f611de-6a45-11e9-5d88-9cdc71af0f48&amp;8814bd18-93bf-11e8-5b85-9cdc71af0f48&amp;2b4adb10-a794-11e8-439d-9cdc71af0f48&amp;ee3d392c-2527-11e9-3990-9cdc71af0f48&amp;b65beb66-9bd9-11e8-249b-9cdc71af0f48</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Frudia ,frudia ,фрудиа,фрудия,FRUDIA</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фрудия</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фрудиа</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">frudia </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">FRUDIA</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Frudia </param>
-				<param name="product_id_n">0000000000000000000265272438</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">La Soyul</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">7b7ed0a0-e272-11e8-2e8a-9cdc71af0f48&amp;9ddab4be-f174-11e8-6396-9cdc71af0f48&amp;9fa609e2-f174-11e8-6396-9cdc71af0f48&amp;a019a7f8-f174-11e8-6396-9cdc71af0f48&amp;a084e0ea-f174-11e8-6396-9cdc71af0f48&amp;da5dc5ce-073e-4329-8a14-766001415f8b&amp;2eea2d14-8f16-4e84-8ffe-f54ec36ea002&amp;ed8b23be-f7b8-11e8-928b-9cdc71af0f48&amp;a8ce5345-5bf4-453a-9a96-fdf1ab81f063&amp;818e0889-794a-436f-bc19-89158428cc8e&amp;833c1b38-7556-11e8-c488-9cdc71af0f48&amp;0ba282d2-f3d8-11e8-ce8b-9cdc71af0f48&amp;36394ca6-f3d8-11e8-ce8b-9cdc71af0f48&amp;60be065a-f3d9-11e8-ce8b-9cdc71af0f48</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">La Soyul,la soyul,LaSoyul,Ла Соул,Ла Союл,ла союль,ля союль</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">La Soyul</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ла Соул</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ла Союл</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ла союль</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">la soyul</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ля союль</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">LaSoyul</param>
+				<param name="product_id_n">0000000000000000061762098678</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -152,7 +173,7 @@
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>1</quantity>
+				<quantity>4</quantity>
 			</offer>
 			<offer id="0000000000000000000000565875" group_id="0000000000000000000000565875">
 				<name>411143 LA MISO Ампульный крем с пептидами 50 мл</name>
@@ -209,7 +230,7 @@
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">La Miso</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем/эмульсия</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ac1cf89f-0c52-4276-a112-ef430de6ef20&amp;bb97e0ad-7644-4f9d-a0b7-5d3b9b4e8c7a&amp;5db0ceae-147d-44db-a092-51d61be19d56&amp;192791b8-1fcf-11e9-a086-9cdc71af0f48&amp;038a8063-6a74-494c-a038-0088abdc70f5&amp;c87826c3-ef14-4bc7-9fa6-1a3f6a5088c7&amp;55d0d2ce-80bf-4220-9f9a-471f8712da60&amp;6b58c8e8-50bf-4817-9f37-5e60921efcbf&amp;1e35c9fe-18ed-4dc7-9eb4-2b755af4153f&amp;c7a7cc2b-55d1-4195-9c8e-a9cb5e39bb7c&amp;398cf7ff-cbb4-43e9-99dc-f9094ccd3429&amp;e0b21226-3b54-11e9-9885-9cdc71af0f48&amp;dfc905b8-3b54-11e9-9885-9cdc71af0f48&amp;dec623b2-3b54-11e9-9885-9cdc71af0f48&amp;d0170e6f-b874-4c62-9880-41bef6525789&amp;613dfb69-a962-4b96-9825-89879ca9a2fc&amp;8249bf7f-c545-4b4a-96d5-cec7c755c68a&amp;a621d5cb-98b3-4483-96b3-dd2d31e52630&amp;4a42fb1a-f323-44e9-9675-2f63faeaae98&amp;41c95009-40da-11e0-95fd-00270e086b0b&amp;5cb9a79f-f445-4a6f-95d0-14fe2cd85d29&amp;bed62c24-c9a8-4be9-953f-a138b9eb8592&amp;b8ec3aef-2372-4aae-948e-cafa1e776205&amp;bbb8d652-2b85-4d94-9466-eb23701d33f6&amp;5c45912f-6607-4b47-9440-c3a0acc980c8&amp;868b8c1c-d729-4165-9298-b2f7e5d39ce0&amp;38e555b8-e6cb-412a-926f-120f221539e6</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4b246582-77eb-11e9-e989-9cdc71af0f48&amp;4362e288-77eb-11e9-e989-9cdc71af0f48&amp;42260436-77eb-11e9-e989-9cdc71af0f48&amp;16a6fb68-42da-11e8-e08a-9cdc71af0f48&amp;32668784-6b10-11e8-cf88-9cdc71af0f48&amp;34ab939e-f31a-11e8-ce8b-9cdc71af0f48&amp;24f21817-7f8f-4003-bfd5-d242722a6649&amp;f374d478-13d9-4fe5-bef2-e39465370622&amp;47403c03-e6dc-4c55-bedf-c564a83412df&amp;05440e2f-8e4b-40ee-bdaf-d6c95dca94ff&amp;ab488397-a7a6-40da-bd7a-0e193a519d5f&amp;c4e0a542-8350-11e8-bb87-9cdc71af0f48&amp;c4bcc28a-8350-11e8-bb87-9cdc71af0f48&amp;fc23847c-8344-11e8-bb87-9cdc71af0f48&amp;d99e1d65-d7b5-4177-bb01-6e87105d7d9d&amp;b8afe9d0-fc3f-4a2b-bab7-3f2400cde819&amp;a6884d62-78bc-4ce9-ba6a-805daebd7e9b&amp;5024f0de-e99c-4d4e-b9e3-b1013cbe5134&amp;ea6e5399-e5da-4c44-b9c1-c3b01f26e281&amp;0ba21d00-8dbc-11e9-b99d-9cdc71af0f48&amp;09f6f34a-8dbc-11e9-b99d-9cdc71af0f48&amp;2908a554-6dad-45de-b97c-0226ca8eda18&amp;ceee73c4-bb7c-4ff5-b894-bfbb10d6e285&amp;158c249d-7473-4f88-b795-38fce74866b3&amp;3a4623ae-802a-11e8-b78a-9cdc71af0f48&amp;3a30034e-802a-11e8-b78a-9cdc71af0f48&amp;07c68279-75c0-408b-b588-92bf36fd5792</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">La Miso,la miso,LaMiso,lamiso,mis,ла мисо,ламисо,мисо</param>
 				<param name="product_id_n">0000000000000000000000565875</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">мисо</param>
@@ -366,7 +387,7 @@
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Лифтинг/антивозрастной уход</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4b246582-77eb-11e9-e989-9cdc71af0f48&amp;4362e288-77eb-11e9-e989-9cdc71af0f48&amp;34ab939e-f31a-11e8-ce8b-9cdc71af0f48&amp;47403c03-e6dc-4c55-bedf-c564a83412df&amp;ab488397-a7a6-40da-bd7a-0e193a519d5f&amp;c4bcc28a-8350-11e8-bb87-9cdc71af0f48&amp;d99e1d65-d7b5-4177-bb01-6e87105d7d9d&amp;a6884d62-78bc-4ce9-ba6a-805daebd7e9b&amp;ea6e5399-e5da-4c44-b9c1-c3b01f26e281&amp;09f6f34a-8dbc-11e9-b99d-9cdc71af0f48&amp;2908a554-6dad-45de-b97c-0226ca8eda18&amp;ceee73c4-bb7c-4ff5-b894-bfbb10d6e285&amp;ce85a6ce-dc67-40a6-b2b1-cd1e496affeb&amp;30b29468-5f7c-43e6-b1e8-148c8f329f68&amp;5290bab5-e1b1-4d25-8212-24c864474318&amp;2405ec86-46ec-11e8-7f94-9cdc71af0f48&amp;9ddab4be-f174-11e8-6396-9cdc71af0f48&amp;6b1b32a2-6a45-11e9-5d88-9cdc71af0f48&amp;4a561dd4-6a45-11e9-5d88-9cdc71af0f48&amp;42e1d87c-6a45-11e9-5d88-9cdc71af0f48&amp;3c7fa75c-6a45-11e9-5d88-9cdc71af0f48&amp;2a225394-6b43-11e9-528d-9cdc71af0f48&amp;e1261bb4-2527-11e9-3990-9cdc71af0f48&amp;4c6e71cc-5ac1-11e9-179b-9cdc71af0f48&amp;f51ff922-68b8-11e8-109c-9cdc71af0f48&amp;e8858766-fbb4-4a96-b08a-c8d3c226dafb&amp;c264e227-2c53-421b-ae8f-787f5153a48e</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">759d1915-ae0c-11e9-8ebc-9cdc71af0f49&amp;b37be80e-5eaa-47ae-8e00-a1e6889b42b4&amp;758a8624-4ef5-4a9d-8d87-e071e182adfe&amp;bbc57f53-4cb1-4763-8c3d-a76b4b09295b&amp;af786788-ffb9-4767-88f5-1f82e6a7c232&amp;61c09219-902c-4105-879d-0899f4c1f143&amp;f00db4dc-9a3f-4856-8707-6e077a6caefc&amp;2ac1156c-0f0f-4d95-8594-b5700fa8d9b2&amp;bede97b7-2fa2-4b98-84df-ed150f301c06&amp;d1810b93-b2ce-4c5d-84a6-2f8768018ccb&amp;36d505d0-f044-4c64-8480-c3ca14d3b85d&amp;145bbd9a-d84c-406f-8462-f8d41b314793&amp;bef55d9c-8a6c-4602-8234-d713fb445a23&amp;5290bab5-e1b1-4d25-8212-24c864474318&amp;2405ec86-46ec-11e8-7f94-9cdc71af0f48&amp;9ddab4be-f174-11e8-6396-9cdc71af0f48&amp;6b1b32a2-6a45-11e9-5d88-9cdc71af0f48&amp;4a561dd4-6a45-11e9-5d88-9cdc71af0f48&amp;42e1d87c-6a45-11e9-5d88-9cdc71af0f48&amp;3c7fa75c-6a45-11e9-5d88-9cdc71af0f48&amp;2a225394-6b43-11e9-528d-9cdc71af0f48&amp;e1261bb4-2527-11e9-3990-9cdc71af0f48&amp;4c6e71cc-5ac1-11e9-179b-9cdc71af0f48&amp;f51ff922-68b8-11e8-109c-9cdc71af0f48&amp;4b246582-77eb-11e9-e989-9cdc71af0f48&amp;4362e288-77eb-11e9-e989-9cdc71af0f48&amp;34ab939e-f31a-11e8-ce8b-9cdc71af0f48</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ottie</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">OTTIE</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Отти</param>
@@ -383,6 +404,233 @@
 				<param name="Особенность состава (Косметика &quot;Для лица&quot;)">С пептидами</param>
 				<param name="Особенность состава (Косметика &quot;Для лица&quot;)">С растительными компонентами</param>
 				<param name="product_id_n">0000000000000000000081327738</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
+			</offer>
+			<offer id="0000000000000000000006327738" group_id="0000000000000000000006327738">
+				<name>710332 Cыворотка с платиной Ottie Platinum Aura Nutri-intensive Serum(40 мл)</name>
+				<description>Бороться с разными неприятными жизненными ситуациями можно, но не всегда успешно.
+Стресс, внешние негативные факторы с возрастом приводят к накоплению в тканях организма активного кислорода.
+Преждевременное старение организма – это результат окисления кислорода и разрушения клеточных мембран.
+Но если у нас не всегда получается правильно решить жизненные вопросы, то вопрос сохранения молодости лица мы всегда можем доверить антивозрастной сыворотке с платиной Platinum Aura Nutri-Intensive Serum.
+Являясь мощным антиоксидантом, платина подавляет процесс окисления и замедляет увядание кожи.
+Делает ее более упругой и эластичной.
+Высококонцентрированная сыворотка, проникая в глубокий слой эпидермиса, увлажняет, питает и стимулирует выработку коллагена и эластина клетками кожи.
+Входящие в состав сыворотки экстракты черной икры, сливы какаду, а так же ниацинамид и аденозин способствуют лифтинг-эффекту, сокращению морщин и образованию новых.</description>
+				<vendor>Ottie</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">710332(015990)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для лица"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1361</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>2501</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001943</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Ottie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Сыворотка/эссенция</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4678c7b2-77eb-11e9-e989-9cdc71af0f48&amp;97ba6698-42e6-11e8-e08a-9cdc71af0f48&amp;16978462-42da-11e8-e08a-9cdc71af0f48&amp;7c4b3df0-6b0f-11e8-cf88-9cdc71af0f48&amp;60d54492-f31a-11e8-ce8b-9cdc71af0f48&amp;dcb389da-2524-41dd-bda3-23a94bfa981d&amp;211bd954-ff54-4e12-bd7c-205098d0e087&amp;9a8bd334-9046-4b62-bc19-250d813762b6&amp;4ae69acc-0f40-4e46-b986-32a1dc4a8246&amp;3a1345ba-802a-11e8-b78a-9cdc71af0f48&amp;f32f0714-a35c-4c40-b57e-46e3cc843788&amp;86e24366-29cd-42f2-b575-051e1d4c80c1&amp;8484f663-0a40-4d5e-b438-a6acb4315879&amp;7b5696e2-a280-44c7-b32a-4663384ea55b&amp;4be06625-a561-4c6a-b1c0-cf8fd8ab5476&amp;6a0455ac-fe8e-4a51-b174-176f54d44fb0&amp;0f171c27-2451-45d2-b0f7-985d6ede063a&amp;de1abbbf-376e-4b15-b033-8efb816f0e70&amp;b2de08eb-c4f4-4607-afe8-fe98ea49aa65&amp;c54c0205-bd96-487b-ac76-bc0fc9ce7716&amp;6518c967-9827-4b55-abea-80f763cb30b8&amp;5880880b-f8fd-4122-ab8e-c200dd77bfc2&amp;4e9ec620-b880-4511-a762-5a5c3690316c&amp;f51095a9-cd6e-4ea6-a74c-e0bb70aadc91&amp;12e51540-1867-4074-a69d-ed6c0e799889&amp;e8dae171-8982-48e7-a647-50d76556beb8&amp;16b168b9-d806-41e2-a3c4-8d6b717a5cd3</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Ottie,OTTIE,Отти,Оттие</param>
+				<param name="product_id_n">0000000000000000000006327738</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">OTTIE</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Оттие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ottie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Отти</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
+			</offer>
+			<offer id="0000000000000000000041469935" group_id="0000000000000000000041469935">
+				<name>143436 HADALABO Gokujyun Антивозрастной универсальный гель "PERFECT GEL 3D" для лица 100 г</name>
+				<description>Антивозрастной крем- гель - это универсальное увлажняющее средство "все в одном" - лосьон + эмульсия + сыворотка + крем + маска, который подходит для всех типов кожи и любого возраста.Крем-гель с гиалуроновой кислотой и ресвератролом. Он содержит четыре вида гиалуроновой кислоты с различным размером молекул и силой удержания влаги, в том числе гиалуронат, который образует защитную пленку гиалуроновой кислоты на коже и защищает ее. Также в состав входит натуральное вещество ресвератрол-мощный антиоксидант, надежно защищающий кожу на клеточном уровне, эффективно препятствующий появлению первых признаков старения. Гель можно использовать как маску, если нанести его более толстым слоем, а затем через 15 минут удалить остатки. Крем-гель не содержит красителей, минеральных масел и компонентов животного происхождения. Гипоаллергенный.</description>
+				<vendor>Hadalabo</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">143436</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">4256</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>1049</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000429</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Hadalabo</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем/эмульсия</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Лифтинг/антивозрастной уход</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ff0cb934-789d-11e9-e989-9cdc71af0f48&amp;f7082f48-789d-11e9-e989-9cdc71af0f48&amp;16ec135e-a94e-4915-bdde-2b6dec483813&amp;c679a3d8-7ef4-4eb8-bc31-47e38e62c20a&amp;a63a9b00-6694-48ac-bbea-7a67b55ac01e&amp;6a642380-0e0f-41ab-bb1b-ff2213fa73e9&amp;e34d6add-9638-4795-ba6a-e7055e1ea67a&amp;2856a688-46b4-485a-b9d6-5f4aaf2fe7f2&amp;1f48587d-1d17-46ee-b7d5-77ba444e694d&amp;203b713b-1ec5-49d0-b75a-14560695d407&amp;e1337ab0-e98b-4176-b28e-307b6a2d4984&amp;54342e39-e74a-4088-afe9-c0bd002d2590&amp;a5bb6907-9ed7-4388-ae67-4151b8959a8d&amp;85dce2a3-a40f-4919-ae35-ea6c754e9179&amp;0e95c00f-0cab-4fd2-add3-ab014bc85a5e&amp;87a6704a-4db7-48d6-ad16-7e2a003763c0&amp;557212a9-89e2-4f79-ac18-4d7c5ffff3d0&amp;98a7d673-30f2-4bc4-a994-de2d655f8148&amp;131dd0a2-851d-4613-a7ae-0fa92b2dfaad&amp;195d6604-9b5d-4913-a3a4-a9fe2d2fd396&amp;a598a413-4255-41e3-a34f-1a906cc1c0cf&amp;b91f738c-7a0a-4f81-9be4-1cbc15be220c&amp;4b9ca00d-dcb1-4698-9a4c-2b53138a088f&amp;ba726002-4383-4082-970f-f852334fd370&amp;879a64aa-bcc3-41e0-918e-d9d071d5b8bd&amp;cea2cedd-1d37-4ec3-8fd5-99fd8b9bb2e8&amp;301ca29c-6d88-44a1-8f99-3a22e70f1b72</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">hada</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Hadalabo</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">hado</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Hado labo</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">хада</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">хада лаба</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Хадалабо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">хадо</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000000041469935</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>3</quantity>
+			</offer>
+			<offer id="0000000000000000000000546386" group_id="0000000000000000000000546386">
+				<name>860442 Тонер c комплексом пептидов TRIMAY Peptide 17 Toner(120 мл)</name>
+				<description>Тонер Trimay Peptid 17 Toner восстанавливает гидролипидный баланс кожи после очищения. Моментально впитывается в кожу, активно увлажняет и питает клетки, разглаживает микрорельеф, уменьшает выраженность возрастных изменений, придает коже мягкое здоровое сияние.
+Комплекс из 17 пептидов тонизирует, успокаивает и нормализует состояние кожи, насыщает клеткой влагой и удерживает ее в глубоких слоях. Улучшает тон, устраняет тусклость и усталость, оказывает мягкое осветляющее действие.
+Тонер содержит лактобионовую кислоту, которая является одной из самых щадящих PHA-кислот. Лактобионовая кислота регенерирует клетки кожи, не травматично, послойно проникает в кожу, имеет высокую биосовместимость с кожей, борется с фотостарением, является антиоксидантом, глубоко увлажняет и отшелушивает.
+Низкий pH тонера соответствует оптимальному уровню нашей кожи. </description>
+				<vendor>TRIMAY</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">860442</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">3964</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>2171</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00002202</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">TRIMAY</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Тоник/тонер</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">12de3f1c-78a0-11e9-e989-9cdc71af0f48&amp;13afdfd8-789e-11e9-e989-9cdc71af0f48&amp;0c1e4200-789e-11e9-e989-9cdc71af0f48&amp;07b735be-789e-11e9-e989-9cdc71af0f48&amp;fbe0b3fa-789d-11e9-e989-9cdc71af0f48&amp;fa9b126a-789d-11e9-e989-9cdc71af0f48&amp;f9676d62-789d-11e9-e989-9cdc71af0f48&amp;13c151f2-fe17-4f80-bf10-03ad2734c1a0&amp;7b1df10a-2c7a-4722-bd8a-a98c470e39e6&amp;2ffa640c-6c36-414b-ba47-35d2f963a259&amp;e8e011cf-378c-424b-b95e-8c027085c19b&amp;1f08a80b-92ac-4860-b7f8-e6512e887d93&amp;b96d3878-bb6f-4f47-b133-c740e562e927&amp;1d81795b-7b41-420f-b0d9-b90a351ca585&amp;835c133e-e665-4bd0-af8a-5393f843e2bf&amp;f17cb50e-85c2-4266-ae6e-c01e6ca2ca82&amp;29a99f9a-9c3d-469f-ac64-a1f402a00a30&amp;b2bd3e4f-5350-4b9b-aaa3-29153111514b&amp;e3326ea4-3a4a-4854-aa7d-29a352d30148&amp;39a44237-2a85-48d2-a9fb-61400715cb9c&amp;ceae3dcd-7a0e-4e46-a7cf-516f4dc359d7&amp;e51e53d3-c4ff-45cb-a0de-6e87a34fb044&amp;6c6df7dd-794e-40a2-9e0d-30a8d4c3fef7&amp;976c0ac7-93e6-4b7b-9de2-8fd39f05cfbd&amp;0199eb8c-31fa-44cd-9c34-0222cee5fb34&amp;7761e042-63d7-4d29-94e4-be69f3ce9999&amp;45024f84-d2d6-41fd-94c6-0e24491d2547</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">три мэй</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">TRI MAY</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">три май</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">may</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">май</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">трай мэй</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">TRIMAY</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">trimay</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Trimay</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000000000546386</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -457,6 +705,80 @@
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">три мэй</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
 				<param name="product_id_n">0000000000000167884860293119</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
+			</offer>
+			<offer id="0000000000000000000002523997" group_id="0000000000000000000002523997">
+				<name>860473 Сыворотка c комплексом пептидов TRIMAY Peptide 28 Ampoule(50 мл)</name>
+				<description>Антивозрастная сыворотка Trimay Peptid 28 Ampoule оказывает направленное антивозрастное действие на кожу и препятствует развитию возрастных процессов. Обладает лифтинг-эффектом, уменьшает выраженность морщин и кожных заломов, осветляет пигментные пятна, выравнивает тон лица и придает ему естественное мягкое сияние, разглаживает рельеф, возвращает коже гладкость и эластичность.
+Комплекс из 28 пептидов активно восстанавливает структуру эпидермиса, укрепляет волокна, стимулирует выработку коллагена и эластина и делает кожу более плотной. Выравнивает рельеф лица и препятствует провисанию кожи. Глубоко увлажняет и питает клетки, способствует удержанию влаги в глубоких слоях эпидермиса, не допускает обезвоженности и дегидратации, поддерживает упругость кожи. </description>
+				<vendor>TRIMAY</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">860473</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">3967</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>2237</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00002202</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">TRIMAY</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Сыворотка/эссенция</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">125abb80-789e-11e9-e989-9cdc71af0f48&amp;0f7346f8-789e-11e9-e989-9cdc71af0f48&amp;2abd1669-3add-43b7-bf15-acfd29d518e2&amp;06b14f22-c0a0-479a-bd89-ece312bc2e72&amp;23e80c88-310d-4b2e-bcee-43d308cd7e35&amp;ada77cfe-9ac8-4c46-bbdc-40e3a70d1f93&amp;997720b3-0d1d-481c-bb86-7a12db4693fc&amp;6ed00aa4-2f06-4842-b8c8-36bfd4628817&amp;09a9239d-9fd0-40df-b6c4-9c7dc920dc93&amp;df2d4240-908f-4911-af15-f8636031874c&amp;2bc14e97-6043-405f-ae73-81f8b276c6aa&amp;45aaa106-8a79-434b-ad72-94068a049859&amp;9d6c57b4-a50f-4ce4-a801-b5df5014d751&amp;ad191d7f-e63c-41ad-a595-30e1f10a972a&amp;cf4e478c-ed8c-475a-a52a-016585e256ad&amp;aa88d680-7f78-4ea1-a221-9c4ff2fdd858&amp;1b77d63f-2df2-4ae6-a1de-e6c9a2a6e5e4&amp;5b2de904-a804-49a5-9f32-cadc162f1fe2&amp;6432790d-935e-46b6-9bf5-254185518c9e&amp;6d722244-7e5d-43c9-9aca-b43c1d0d1556&amp;7c0af3e4-d7ba-4a38-9a4b-53594013b2a5&amp;e989c2bd-1fbc-442f-9a2f-3159e41ae6f1&amp;81a83530-bbf9-4358-99ab-ca93e96f966c&amp;f7b39037-7783-4a05-984b-ad14496017be&amp;47c30c7b-f2e2-499a-97d4-034676bdd127&amp;108c0402-3c50-4a06-950f-9a952c0fc49f&amp;cdbbf736-fedf-4aa1-9435-1579701cf47f</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">три май</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Trimay</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">три мэй</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">TRIMAY</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">май</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">trimay</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">трай мэй</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">may</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">TRI MAY</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000000002523997</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
