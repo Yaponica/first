@@ -5,9 +5,694 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
+			<category id="УТ000012491">Гелевые ароматизаторы воздуха</category>
+			<category id="УТ000008899">Таблетки для бачка унитаза</category>
+			<category id="УТ000008617">Спрей-освежители воздуха</category>
+			<category id="УТ000008887">Порошки ПРЕМИУМ от 600руб</category>
+			<category id="УТ-00000270">Спрей, жидкость</category>
+			<category id="УТ000008886">Порошки ТОП </category>
 			<category id="УТ-00002618">Япония</category>
+			<category id="УТ-00002983">Япония</category>
+			<category id="УТ-00002620">Япония</category>
+			<category id="УТ-00000292">СМЕННЫЙ БЛОК</category>
+			<category id="УТ-00002622">Япония</category>
+			<category id="УТ-00001326">Mukunghwa</category>
+			<category id="УТ-00000914">СУНСЭМ</category>
+			<category id="УТ-00001328">СУНСЭМ</category>
+			<category id="УТ011121428">Средства для посуды Корея</category>
 		</categories>
 		<offers>
+			<offer id="0000000000000000036939643325" group_id="0000000000000000036939643325">
+				<name>040836 Освежитель воздуха для комнаты "Black Berry", 150 г</name>
+				<description>Освежитель наполняет комнату ароматом сочной ежевики и фруктов, в котором к аромату сладких ягод добавлены нотки свежести.</description>
+				<vendor>KOBAYASHI</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">040836</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1847</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>429</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000012491</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">KOBAYASHI</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Освежители воздуха/поглотители неприятных запахов</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">97362450-42e6-11e8-e08a-9cdc71af0f48&amp;06db1d0c-f46b-11e8-ce8b-9cdc71af0f48&amp;595c090a-075d-4500-bf1a-31388c517246&amp;af5feaaa-6b66-471c-bac3-119cd96f17a2&amp;58b7ecc9-4ab1-491c-ba13-f7a2ec0fa44f&amp;e53500f0-b555-4676-b726-0ea265b0e56b&amp;a8465e06-34a8-482f-b681-33075eb85e79&amp;f5125a30-ee91-47aa-b299-9f6bd381227f&amp;df9b9dc8-6e2f-40fa-acd4-bbdbd8c56a24&amp;3b96e72e-21ef-4925-a9cd-82d641afbb99&amp;60e58e73-d803-11df-a86d-00241d24624d&amp;60e58e5f-d803-11df-a86d-00241d24624d&amp;60e58e5b-d803-11df-a86d-00241d24624d&amp;60e58e55-d803-11df-a86d-00241d24624d&amp;60e58e51-d803-11df-a86d-00241d24624d&amp;60e58e4f-d803-11df-a86d-00241d24624d&amp;60e58e4d-d803-11df-a86d-00241d24624d&amp;dade9a4d-3145-488d-a573-2367b0009e67&amp;fbfe67b8-228b-4f9e-9eaa-c77df71574a7&amp;8a10b4c9-ba24-4ae0-9e95-6d91f2fec083&amp;52fb6fe9-a3e7-4651-9dbc-b71ce51a7b0e&amp;339c87b9-7be8-4486-9a6f-2bbd98cc685c&amp;9ed3de5b-574f-4cbf-976d-0383ac998b02&amp;d00bfc21-c90f-445c-924f-83d847000381&amp;33ae2aef-013f-11ea-8ec5-9cdc71af0f49&amp;098c0fd0-013a-11ea-8ec5-9cdc71af0f49&amp;cd8f6cb5-0139-11ea-8ec5-9cdc71af0f49</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">KOBAYASHI,Kobayashi,kobayashi,кабаяши,кобаяши</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">KOBAYASHI</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kobayashi</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kobayashi</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">кабаяши</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">кобаяши</param>
+				<param name="product_id_n">0000000000000000036939643325</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="60e58edf-d803-11df-a86d-00241d24624d" group_id="60e58edf-d803-11df-a86d-00241d24624d">
+				<name>067468 "Bluelet Dobon W" Двойная очищающ и дезодорирующ таблетка д/бачка унитаза с аром мяты 120 гр</name>
+				<description>Благодаря ионным поверхностно-активным веществам двойная очищающая и дезодорирующая таблетка для бачка унитаза Bluelet Dobon W KOBAYASHI удаляет грязь и очищает бачок.
+Имеет увеличенный размер, поэтому служит в два раза дольше.
+Окрашивает воду в зеленый цвет и придает освежающий аромат трав.
+Таблетка служит около 1,5-2,5 месяцев в зависимости от температуры воды.
+Таблетку следует заменить, если вода стала бесцветной.</description>
+				<vendor>KOBAYASHI</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">067468</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">4279</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>363</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000008899</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">KOBAYASHI</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для туалета</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">28fbcb09-a7d4-49cf-be18-993031627514&amp;67fee636-2975-4915-bc5c-5c37be445c0c&amp;5c78b589-3a18-4848-ba9a-69bb3d161fed&amp;7968dbd0-860f-11e9-b99d-9cdc71af0f48&amp;a51ddb19-0526-43c9-b77b-a460a3a772df&amp;7115e8c1-0c2c-4a44-afa6-520f5c190179&amp;60e58ee5-d803-11df-a86d-00241d24624d&amp;60e58edd-d803-11df-a86d-00241d24624d&amp;e3250f9c-4725-40d7-a62f-9f0db08c4fdc&amp;beae8c4f-1191-4086-a0a3-0780eaf95ce0&amp;9aac2ad6-486a-4faf-999c-d80a524c2662&amp;78f3bc11-3a7b-498a-9884-e37b915bad6c&amp;f22804e2-bbc7-4cbc-901d-bf43913d6d2e&amp;a85cf718-1d44-42fe-805b-17da788ce5c4</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">KOBAYASHI,Kobayashi,kobayashi,кабаяши,кобаяши</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kobayashi</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kobayashi</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">KOBAYASHI</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">кабаяши</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">кобаяши</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
+			</offer>
+			<offer id="0000000000000000000000056852" group_id="0000000000000000000000056852">
+				<name>112272 Спрей-освежитель воздуха ST  “SHOSHURIKI” для туалета  "Без запаха" 330мл</name>
+				<description>Освежители воздуха для туалета, благодаря 3D распылению мгновенно улавливает и расщепляет неприятные запахи и освежает помещение.
+Входящий в состав катехин обладает антибактериальным действием и позволяет надолго содержать воздух туалета в чистоте.
+Удобный широкий распылитель гарантирует моментальный эффект, а 
+также лёгкость при использовании.
+Состав: растительные экстракты, ароматизаторы, дезинфицирующие средства (катехин), этанол.</description>
+				<vendor>ST</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">112272</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11121631</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>488</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000008617</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">ST</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Освежители воздуха/поглотители неприятных запахов</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">97362450-42e6-11e8-e08a-9cdc71af0f48&amp;06db1d0c-f46b-11e8-ce8b-9cdc71af0f48&amp;595c090a-075d-4500-bf1a-31388c517246&amp;58b7ecc9-4ab1-491c-ba13-f7a2ec0fa44f&amp;e53500f0-b555-4676-b726-0ea265b0e56b&amp;a8465e06-34a8-482f-b681-33075eb85e79&amp;f5125a30-ee91-47aa-b299-9f6bd381227f&amp;df9b9dc8-6e2f-40fa-acd4-bbdbd8c56a24&amp;6ae9b095-6303-4bfa-abd3-b73428418c45&amp;3b96e72e-21ef-4925-a9cd-82d641afbb99&amp;60e58e73-d803-11df-a86d-00241d24624d&amp;60e58e5f-d803-11df-a86d-00241d24624d&amp;60e58e5b-d803-11df-a86d-00241d24624d&amp;60e58e55-d803-11df-a86d-00241d24624d&amp;60e58e51-d803-11df-a86d-00241d24624d&amp;60e58e4f-d803-11df-a86d-00241d24624d&amp;60e58e4d-d803-11df-a86d-00241d24624d&amp;dade9a4d-3145-488d-a573-2367b0009e67&amp;fbfe67b8-228b-4f9e-9eaa-c77df71574a7&amp;8a10b4c9-ba24-4ae0-9e95-6d91f2fec083&amp;52fb6fe9-a3e7-4651-9dbc-b71ce51a7b0e&amp;339c87b9-7be8-4486-9a6f-2bbd98cc685c&amp;9ed3de5b-574f-4cbf-976d-0383ac998b02&amp;d00bfc21-c90f-445c-924f-83d847000381&amp;33ae2aef-013f-11ea-8ec5-9cdc71af0f49&amp;098c0fd0-013a-11ea-8ec5-9cdc71af0f49&amp;cd8f6cb5-0139-11ea-8ec5-9cdc71af0f49</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Shoushuriki,st,ST Shoushuriki,st shoushuriki,ст шоушурики,ст шошурики,шоушурики</param>
+				<param name="product_id_n">0000000000000000000000056852</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ст</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">st</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">СТ</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ST</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ЫЕ</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
+			</offer>
+			<offer id="0000000000000000047358710256" group_id="0000000000000000047358710256">
+				<name>112794 NS FaFа Порошок для стирки рабочей одежды Workers 1,5кг</name>
+				<description>Порошок для стирки сильнозагрязненного белья предназначен для стирки: комбинезонов, курток, брюк, шапок, рукавиц, бахил, белой одежды, джинсов в стиральных машинах.
+Эффективно отстирывает солидол, масла и грязь.
+Ферменты эффективно растворяют трудновыводимые пятна.
+Обновленная формула повышает эффективность стирки, гранулы меньшего размера быстрее растворяются и начинают воздействовать на загрязнения, что позволяет сократить время стирки и снизить интенсивность механического воздействия на ткани, дольше сохраняя качество вещей. Пена быстро оседает, что ускоряет полоскание. Одежда не требует многократных полосканий, поскольку порошок легко смывается.
+Содержит в составе компоненты, предотвращающие образование катышков, вещества для защиты цвета ткани.
+Стирку необходимо производить в холодной или тёплой воде при температуре не более 30С.</description>
+				<vendor>Fa Fa Nissan</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">112794(112770)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2473</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>1201</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000008887</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Fa Fa Nissan</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">d200edc8-63f1-11e8-fd8a-9cdc71af0f48&amp;d1829432-63f1-11e8-fd8a-9cdc71af0f48&amp;34a374f2-44a5-11e9-f498-9cdc71af0f48&amp;9d5ada90-44a4-11e9-f498-9cdc71af0f48&amp;d6216e22-b802-11e8-e18e-9cdc71af0f48&amp;afbd2722-b7fc-11e8-e18e-9cdc71af0f48&amp;981d72ba-42e6-11e8-e08a-9cdc71af0f48&amp;980b7b32-42e6-11e8-e08a-9cdc71af0f48&amp;ead1bade-4df9-11e8-ce9b-9cdc71af0f48&amp;ea8db988-4df9-11e8-ce9b-9cdc71af0f48&amp;464d9433-eece-4466-bfdb-5491efd78884&amp;172e375c-3641-42e7-bfce-99c92135b96a&amp;2d6bd856-84f9-43d1-bf70-e69bbebc7714&amp;6f5bdb4c-3e8e-4d1f-bed1-947c5f89fc6d&amp;66dd416a-4eab-4a9c-be40-e6cd084153c2&amp;410c39c6-8e21-4786-bd20-c7b5cd398493&amp;c459598a-5b98-40cd-bc71-da744485e3ce&amp;eec765df-c076-4e1c-bba4-12128e745d83&amp;e0529782-075b-4ebe-bb99-459179e4000d&amp;c51187c2-8350-11e8-bb87-9cdc71af0f48&amp;c46fcfa2-8350-11e8-bb87-9cdc71af0f48&amp;c428ad3e-8350-11e8-bb87-9cdc71af0f48&amp;dec8b62a-7472-4ece-bb19-0585b87898b6&amp;a53d3042-4079-44c3-bacb-b27fe05e2ae8&amp;c903b6ef-d80e-45df-baaa-f8e5a479bfc0&amp;7ced7f7f-1b14-4116-ba8c-b665c17fe164&amp;63cb2272-b897-4ebb-ba17-6307dbcdf7ef</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Fa Fa Nissan,фа фа ,фа фа ниссан,фа,fa</param>
+				<param name="product_id_n">0000000000000000047358710256</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">fa</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Fa Fa Nissan</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фа фа ниссан</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фа фа </param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>6</quantity>
+			</offer>
+			<offer id="0000000000000000307303278048" group_id="0000000000000000307303278048">
+				<name>142065 "Lion" Чистящее средство для печей "Чистый дом" (с пульверизатором) 400 г</name>
+				<description>Эффективное средство для удаления пятен от жира на печах, стенах, вентиляционных отверстиях, виниловых полах, алюминиевых, металлических поверхностях.
+Благодаря обильной пене, быстро очищает поверхность, делая уборку приятной и легкой.
+Оказывает антибактериальное воздействие и не оставляет запаха.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">142065</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">5003</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>561</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000270</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для кухни</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98cd309c-42e6-11e8-e08a-9cdc71af0f48&amp;98bb2eec-42e6-11e8-e08a-9cdc71af0f48&amp;e52cac5a-554c-11e9-cf86-9cdc71af0f48&amp;b6d713fe-554c-11e9-cf86-9cdc71af0f48&amp;8fb9f4ba-508b-491e-b6e5-012c1abe3de9&amp;6d010123-59fe-4086-b257-94579c94d7ec&amp;60e58e13-d803-11df-a86d-00241d24624d&amp;87a35abe-4877-46ad-a344-ea5ab27d7ddd&amp;e4ae7d41-845e-47f3-9ee7-4129b47f48e4&amp;c45bf205-f84e-402c-95ba-7060d0a7ff87&amp;c30c74f9-41b6-47d8-8e18-5841d164f7c8&amp;0dbb65a8-ed94-4782-8ce8-1ca630581e78&amp;eca8fb6d-2365-4e70-8362-442f3ed65233&amp;e70d4adc-be69-43ef-82fb-661e364a8b62</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="product_id_n">0000000000000000307303278048</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>6</quantity>
+			</offer>
+			<offer id="0000000000000000000000000393" group_id="0000000000000000000000000393">
+				<name>254775 Стиральный порошок  Lion "Top-сухое белье" антибакт.сушка в помещ.с цветоч.аромат 900 гр</name>
+				<description>Антибактериальный стиральный порошок, предотвращающий появление неприятного запаха при сушке белья в помещении. 
+Является экологически безопасным средством на основе натуральных компонентов.
+Походит для ручной и машинной стирки белья из хлопка, льна, шерсти и смешанных волокон. 
+Содержит ферментные активные вещества, обладающие антибактериальными свойствами и  устраняющие неприятный запах. 
+Благодаря этому белье, высушенное в помещении, приобретает чистоту и свежесть. 
+- Отлично отстирывает даже стойкие загрязнения. 
+- Подходит для стирки в холодной воде. 
+- Не содержит фосфатов (солей фосфорной кислоты).
+Обладает нежным цветочным ароматом.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">254775</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11107</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>521</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000008886</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">d200edc8-63f1-11e8-fd8a-9cdc71af0f48&amp;d1829432-63f1-11e8-fd8a-9cdc71af0f48&amp;34a374f2-44a5-11e9-f498-9cdc71af0f48&amp;9d5ada90-44a4-11e9-f498-9cdc71af0f48&amp;d6216e22-b802-11e8-e18e-9cdc71af0f48&amp;afbd2722-b7fc-11e8-e18e-9cdc71af0f48&amp;981d72ba-42e6-11e8-e08a-9cdc71af0f48&amp;980b7b32-42e6-11e8-e08a-9cdc71af0f48&amp;ead1bade-4df9-11e8-ce9b-9cdc71af0f48&amp;ea8db988-4df9-11e8-ce9b-9cdc71af0f48&amp;464d9433-eece-4466-bfdb-5491efd78884&amp;172e375c-3641-42e7-bfce-99c92135b96a&amp;2d6bd856-84f9-43d1-bf70-e69bbebc7714&amp;66dd416a-4eab-4a9c-be40-e6cd084153c2&amp;410c39c6-8e21-4786-bd20-c7b5cd398493&amp;c459598a-5b98-40cd-bc71-da744485e3ce&amp;eec765df-c076-4e1c-bba4-12128e745d83&amp;e0529782-075b-4ebe-bb99-459179e4000d&amp;c51187c2-8350-11e8-bb87-9cdc71af0f48&amp;c46fcfa2-8350-11e8-bb87-9cdc71af0f48&amp;c428ad3e-8350-11e8-bb87-9cdc71af0f48&amp;dec8b62a-7472-4ece-bb19-0585b87898b6&amp;a53d3042-4079-44c3-bacb-b27fe05e2ae8&amp;c903b6ef-d80e-45df-baaa-f8e5a479bfc0&amp;7ced7f7f-1b14-4116-ba8c-b665c17fe164&amp;63cb2272-b897-4ebb-ba17-6307dbcdf7ef&amp;d72dfd5a-43c9-11e9-b992-9cdc71af0f48</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="Тип средства (Средства &quot;Для дома&quot;)">Порошки</param>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="product_id_n">0000000000000000000000000393</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>9</quantity>
+			</offer>
+			<offer id="0000000000000000696675953964" group_id="0000000000000000696675953964">
+				<name>254805 Стиральный порошок Голубой бриллиант LION "Blue Diamond" 900 гр</name>
+				<description>Бесфосфатный японский стиральный порошок "Голубой бриллиант", с натуральной мыльной основой, отстирывает загрязнения в воде при температуре от 30 градусов. Его активные компоненты проникают между волокон тканей и выталкивают грязь наружу. Натуральные ферменты эффективно удаляют пятна белкового и жирового происхождения, а флуоресцирующий усилитель белизны дарит вещам чистоту и сияние. Экологически безопасная формула порошка позволяет использовать его в том числе и для стирки детских вещей. Порошок не вызывает раздражений даже самой чувствительной кожи. Во время стирки порошок удаляет с тканей неприятные запахи, после стирки белье приобретает аромат свежести. Порошок не вызывает деформирования структуры ткани, сохраняет цвет и форму вещей.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">254805</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11044</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>455</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000008886</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">8d45a2ca-4544-4bbd-9ae3-6b2ef0ee5c99&amp;4e956c5a-6f10-4104-9a54-6cd86400a625&amp;b5a16321-2f66-40a4-99a9-43fed7601c9f&amp;89f51a5c-8099-4bd9-98e9-ab760a25e27d&amp;c3ee1e02-31f7-4ba0-98c8-d8d6ed76f5f5&amp;e2d28208-25b8-43eb-9887-7715c4a02362&amp;c781eab5-28b6-464e-976e-14e6c2705a6b&amp;8f59e6fd-d865-41c3-9762-9906c45534de&amp;1f30bd61-3742-4d96-9608-9b3a4572fb17&amp;51f94065-6035-11e0-94ce-0015e9411353&amp;2b9d64f0-e753-472e-93c7-08bd9cb4f34b&amp;338fabd0-f2b1-4a5f-92e4-c24d0e80eede&amp;5e01bac8-fb27-40ad-9272-c485a0fb16f1&amp;3a100352-5cd8-40d3-9230-33c7d9e057fc&amp;81807e84-1624-413f-920e-2952909e1992&amp;537a4b71-495b-4433-9203-133b59e11db4&amp;c14be894-dc96-4174-90dc-688f0b87c4e9&amp;6281ba18-3ef8-4344-8fcb-e5dae0030509&amp;2c20790b-7943-49cd-8f2b-a2c730dc8ee3&amp;538d0367-8934-11ea-8ecf-9cdc71af0f49&amp;5c6ac9a7-21a2-11ea-8ec7-9cdc71af0f49&amp;fb98234d-c893-11e9-8ec2-9cdc71af0f49&amp;000cd5a7-c572-11e9-8ec1-9cdc71af0f49&amp;d286de15-c571-11e9-8ec1-9cdc71af0f49&amp;25de8bf4-981f-11e9-8ebc-9cdc71af0f49&amp;e935b13f-769b-4854-8eb6-438c9a6c9fa9&amp;4a2c977a-a70b-47bc-8d76-c896b62d87dc</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="product_id_n">0000000000000000696675953964</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>39</quantity>
+			</offer>
+			<offer id="0000000000000000000000304998" group_id="0000000000000000000000304998">
+				<name>256427 Спрей LION PLUS для ванной кафеля и сантехники аромат цветочного мыла бутылка с дозатором 500</name>
+				<description>Это совершенно новая технология, даже для Японии, основана она на нейтрализации кальция, содержание которого в водопроводной воде очень способствует оседанию и прилипанию грязи.
+Спрей не только удаляет уже существующую грязь, но и работает на профилактику ее дальнейшего прилипания к стенкам ванной. Принцип действия этого спрея: распылить на ванну, подождать и смыть. Распыление происходит широкой сплошной струёй, а не точечно, одно нажатие покрывает площадь около 1м2. Нанесли, подождали 60 секунд, смыли водой из душевого шланга.
+Спрей подкрашен голубым цветом, поэтому всегда четко видно куда вы его нанесли, а куда еще нет.
+С приятным ароматом цветочного мыла.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">256427</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2642</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>521</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000270</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для ванной</param>
+				<param name="Тип средства (Средства &quot;Для дома&quot;)">Спреи</param>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98a943a8-42e6-11e8-e08a-9cdc71af0f48&amp;aa7d1649-80db-4a3a-bc7e-09782f4967d5&amp;71d6e5f0-23fc-4907-b708-f5dc38978c8d&amp;be230f24-2e7c-424b-afbd-50179954576a&amp;f5b574e8-7ffb-4a08-af07-dd79e24a015f&amp;1e9bdaa4-453d-48ed-a4d2-4c38559532d9&amp;9ba9d3b7-7f66-4c56-9d2c-247ac2255b0a&amp;03e62c8a-b2f8-4b3b-9971-79bdc0564b73&amp;939e59f5-48b4-4d15-93c4-afb1a14d7584&amp;77dd46fe-5c36-4b9d-9295-6604b7e38563&amp;e64f80f0-09e2-11e0-9083-00034732cbd1&amp;8805bce3-26ff-11ea-8ec8-9cdc71af0f49&amp;a031e9eb-d3c0-11e9-8ec2-9cdc71af0f49&amp;4fbf871a-81fb-4773-8a31-e621ed456cca&amp;e518e3f0-5f7e-11e9-899b-9cdc71af0f48&amp;c18179ab-ad60-49fc-84e1-9a03035e48cd&amp;04053e84-8c9e-4195-8115-49cfe9057cd3&amp;356c1228-293d-11e9-1e87-9cdc71af0f48</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Лион,Лайон,Oct,Lion,lion,Лаон,Окт</param>
+				<param name="product_id_n">0000000000000000000000304998</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>7</quantity>
+			</offer>
+			<offer id="0000000000000000000000484954" group_id="0000000000000000000000484954">
+				<name>274841 LION Жидкое средство "Akron"для стирки деликатн.тканей «Аромат нежного мыла»  500 мл/24</name>
+				<description>Средство предназначено для стирки одежды из деликатных шерстяных, хлопчатобумажных, синтетических тканей и шелка.
+Надолго сохраняет внешний вид одежды даже при стирке в стиральной машине.
+Избавляет от складок, следов от отжима, растяжек, а также защищает от выцветания (содержит компонент ASP без флюоресцирующего отбеливателя, поддерживающий форму изделий), электростатичности, придаёт мягкость.
+Изысканный цветочный аромат надолго сохраняет приятное настроение.
+Подходит для стиральных машин с фронтальной загрузкой.
+Нежный аромат мыла.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">274841</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11121826</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>488</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00002618</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">d200edc8-63f1-11e8-fd8a-9cdc71af0f48&amp;d1829432-63f1-11e8-fd8a-9cdc71af0f48&amp;34a374f2-44a5-11e9-f498-9cdc71af0f48&amp;9d5ada90-44a4-11e9-f498-9cdc71af0f48&amp;d6216e22-b802-11e8-e18e-9cdc71af0f48&amp;afbd2722-b7fc-11e8-e18e-9cdc71af0f48&amp;981d72ba-42e6-11e8-e08a-9cdc71af0f48&amp;980b7b32-42e6-11e8-e08a-9cdc71af0f48&amp;ead1bade-4df9-11e8-ce9b-9cdc71af0f48&amp;ea8db988-4df9-11e8-ce9b-9cdc71af0f48&amp;464d9433-eece-4466-bfdb-5491efd78884&amp;172e375c-3641-42e7-bfce-99c92135b96a&amp;2d6bd856-84f9-43d1-bf70-e69bbebc7714&amp;6f5bdb4c-3e8e-4d1f-bed1-947c5f89fc6d&amp;66dd416a-4eab-4a9c-be40-e6cd084153c2&amp;410c39c6-8e21-4786-bd20-c7b5cd398493&amp;c459598a-5b98-40cd-bc71-da744485e3ce&amp;eec765df-c076-4e1c-bba4-12128e745d83&amp;e0529782-075b-4ebe-bb99-459179e4000d&amp;c51187c2-8350-11e8-bb87-9cdc71af0f48&amp;c46fcfa2-8350-11e8-bb87-9cdc71af0f48&amp;c428ad3e-8350-11e8-bb87-9cdc71af0f48&amp;dec8b62a-7472-4ece-bb19-0585b87898b6&amp;a53d3042-4079-44c3-bacb-b27fe05e2ae8&amp;c903b6ef-d80e-45df-baaa-f8e5a479bfc0&amp;7ced7f7f-1b14-4116-ba8c-b665c17fe164&amp;63cb2272-b897-4ebb-ba17-6307dbcdf7ef</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="product_id_n">0000000000000000000000484954</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
 			<offer id="0000000000000000027169959133" group_id="0000000000000000027169959133">
 				<name>274926 LION Жидкое средство "Akron" для стирки деликатных тканей «Аромат нежного мыла» МУ 400мл</name>
 				<description>Средство предназначено для стирки одежды из деликатных шерстяных, хлопчатобумажных, синтетических тканей и шелка.
@@ -83,6 +768,1012 @@
 				<width>1</width>
 				<height>1</height>
 				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000000000000012739" group_id="0000000000000000000000012739">
+				<name>282860 Жидкое средство для стирки ТОР-сила ферментов, аромат морской свеж. для бел. и цвет.900гр</name>
+				<description>Гель для стирки Топ «Сила Ферментов» предназначен для стирки изделий из хлопка, льна и синтетических тканей. Обладает легким цветочным ароматом.
+За одну стирку удаляет пятна от пищи и пота!
+Подходит для точечного отстирывания пятен.
+Идеален для стиральных машин с фронтальной загрузкой, так как содержит элемент, контролирующий пенообразование.
+Обеспечивает высокий отстирывающий эффект за счет компонентов растительного происхождения.
+Подходит для цветного белья , для ручной и машинной стирки.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">282860(224556)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1632</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>719</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00002983</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">d200edc8-63f1-11e8-fd8a-9cdc71af0f48&amp;d1829432-63f1-11e8-fd8a-9cdc71af0f48&amp;34a374f2-44a5-11e9-f498-9cdc71af0f48&amp;9d5ada90-44a4-11e9-f498-9cdc71af0f48&amp;d6216e22-b802-11e8-e18e-9cdc71af0f48&amp;afbd2722-b7fc-11e8-e18e-9cdc71af0f48&amp;981d72ba-42e6-11e8-e08a-9cdc71af0f48&amp;980b7b32-42e6-11e8-e08a-9cdc71af0f48&amp;ead1bade-4df9-11e8-ce9b-9cdc71af0f48&amp;ea8db988-4df9-11e8-ce9b-9cdc71af0f48&amp;464d9433-eece-4466-bfdb-5491efd78884&amp;172e375c-3641-42e7-bfce-99c92135b96a&amp;2d6bd856-84f9-43d1-bf70-e69bbebc7714&amp;6f5bdb4c-3e8e-4d1f-bed1-947c5f89fc6d&amp;66dd416a-4eab-4a9c-be40-e6cd084153c2&amp;410c39c6-8e21-4786-bd20-c7b5cd398493&amp;c459598a-5b98-40cd-bc71-da744485e3ce&amp;eec765df-c076-4e1c-bba4-12128e745d83&amp;e0529782-075b-4ebe-bb99-459179e4000d&amp;c51187c2-8350-11e8-bb87-9cdc71af0f48&amp;c46fcfa2-8350-11e8-bb87-9cdc71af0f48&amp;c428ad3e-8350-11e8-bb87-9cdc71af0f48&amp;dec8b62a-7472-4ece-bb19-0585b87898b6&amp;a53d3042-4079-44c3-bacb-b27fe05e2ae8&amp;c903b6ef-d80e-45df-baaa-f8e5a479bfc0&amp;7ced7f7f-1b14-4116-ba8c-b665c17fe164&amp;63cb2272-b897-4ebb-ba17-6307dbcdf7ef</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="Тип средства (Средства &quot;Для дома&quot;)">Гели и жидкости</param>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="product_id_n">0000000000000000000000012739</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
+			</offer>
+			<offer id="0000000000000000000069387678" group_id="0000000000000000000069387678">
+				<name>292388 LION Кондиционер для белья Soflan Aroma Rich Sarah (аромат цветов) МУ 400мл</name>
+				<description>В основу создания серии кондиционеров «Aroma Rich»
+удивительные образы женщин, которые навсегда вошли в историю - Скарлетт, Виолетта, Джульетта, София, Мария, Энни, Диана, Фея, Белла, теперь новинка 2020 года – Сара!
+Кондиционер «Sarah» олицетворяет романтический  женственный образ.
+Подходит для смягчения и дезинфекции одежды из хлопка, шерсти, шелка и синтетических тканей.
+В состав вошли натуральные масла, придающие белью нежный сладкий цветочный аромат.
+Кондиционер защищает белье от статического электричества, обладает антибактериальным эффектом.
+Содержит специальные микроэлементы, которые глубоко проникают в структуру ткани и надежно уничтожают стойкие неприятные запахи.
+Кондиционер смягчает и расправляет волокна ткани, уменьшая количество складок на одежде.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">292388</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2173</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>455</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00002620</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Сменный блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">60e58f3d-d803-11df-a86d-00241d24624d&amp;60e58f3b-d803-11df-a86d-00241d24624d&amp;60e58f39-d803-11df-a86d-00241d24624d&amp;60e58f35-d803-11df-a86d-00241d24624d&amp;60e58f07-d803-11df-a86d-00241d24624d&amp;60e58dcb-d803-11df-a86d-00241d24624d&amp;144ef234-82b7-40f4-a7f6-0587cf86efdf&amp;7baab43a-80a5-4753-a7b9-222603b46d3c&amp;c85d5d49-82df-490c-a7a5-ad7c289e5f26&amp;743be90e-832f-4a78-a783-c690279d7549&amp;c5dc4896-c3c3-445c-a704-da09f7f70747&amp;a91dfc77-2b63-4eb5-a5e3-e1fa48b85a77&amp;836781a3-36b2-43eb-a5c7-822af6cceccb&amp;559e7a82-90d3-47c2-a49c-a9f0e33554d0&amp;31ec84d1-598b-4a6c-a128-f116c52cb741&amp;55c54848-a68a-4363-a05b-7a12cc11c70d&amp;b870d8fe-3087-40b2-9fa2-4e1d1307f520&amp;dbd40d0c-ff08-41ca-9f5b-602052a660d5&amp;5b77e73e-afff-4c20-9e9c-27124f4581d4&amp;012baff6-a884-49ca-9dec-7bc8e14e2252&amp;cebcf876-9730-4ad0-9d50-9202169dc02b&amp;40f0ae1a-1774-438d-9c6c-fdf828ba7689&amp;0d5e39a4-f088-4c85-9c28-64da1fbdefc6&amp;9c5349c2-1998-40ec-9c22-48c9ba0c2d5d&amp;f2fd56f2-73ba-4487-9c13-39ad3e6c3962&amp;83733248-4e47-4b9f-9b80-d29fae727b77&amp;ec534884-8387-467f-9b18-10f51b00a613</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="product_id_n">0000000000000000000069387678</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>18</quantity>
+			</offer>
+			<offer id="0000000000000000006775879170" group_id="0000000000000000006775879170">
+				<name>292395 LION Кондиционер д/белья"Soflan Aroma Rich Belle"(дезод.с натур.ароматич.маслами) МУ 400 мл</name>
+				<description>В основу создания серии кондиционеров «Aroma Rich»
+удивительные образы женщин, которые навсегда вошли в историю - Скарлетт, Виолетта, Джульетта, София, Мария, Энни, Диана, Фея, Белла!
+Кондиционер «Belle» олицетворяет романтический  женственный образ.
+Подходит для смягчения и дезинфекции одежды из хлопка, шерсти, шелка и синтетических тканей.
+В состав вошли натуральные масла, придающие белью нежный сладкий цветочный аромат.
+Кондиционер защищает белье от статического электричества, обладает антибактериальным эффектом.
+Содержит специальные микроэлементы, которые глубоко проникают в структуру ткани и надежно уничтожают стойкие неприятные запахи.
+Кондиционер смягчает и расправляет волокна ткани, уменьшая количество складок на одежде.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">292395</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2170</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>455</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00002620</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Сменный блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">e935b13f-769b-4854-8eb6-438c9a6c9fa9&amp;4a2c977a-a70b-47bc-8d76-c896b62d87dc&amp;dca07ae2-efa2-4783-8c1d-d6f93a0f0b34&amp;342d5f8a-f591-44cb-8c00-76c5286dca49&amp;9d9d563e-28d9-4a4c-8b9e-4fdcb560f9b2&amp;55b6b6c0-e241-4c20-8b3b-8b8b95494ced&amp;34bdd034-c640-4665-8a71-c2a8385a571d&amp;e4235f52-5f7e-11e9-899b-9cdc71af0f48&amp;d92a902a-5f7e-11e9-899b-9cdc71af0f48&amp;d7990d18-5f7e-11e9-899b-9cdc71af0f48&amp;08b2fd5a-b14c-4e46-899a-07de2c197057&amp;c0445bc6-8b1f-4dfa-898f-f823660ccd50&amp;2cf5c1f0-2d92-4d46-886d-ac2ac23c734e&amp;7dafc1b6-ca65-41f3-86e5-696a6e798398&amp;0d7ba228-cad9-11e8-868a-9cdc71af0f48&amp;727549a4-ae63-4f5e-850d-70b1e5f5f544&amp;71bc0d29-3b90-4200-84cc-64d8869b3a1c&amp;62be78be-169c-468a-8465-839206c83976&amp;69076df5-523f-46b9-83fb-65f55418d935&amp;d6ce189e-c072-41ef-835b-c742d7957aed&amp;ca1ef867-cc05-4010-8147-807eaa7603c6&amp;0b29b5b9-3dfe-47b8-8119-ddccaad061b9&amp;f19a478e-93c0-11e8-5b85-9cdc71af0f48&amp;efd523ec-93c0-11e8-5b85-9cdc71af0f48&amp;ef5a7458-93c0-11e8-5b85-9cdc71af0f48&amp;eeee8a36-93c0-11e8-5b85-9cdc71af0f48&amp;ee818ca6-93c0-11e8-5b85-9cdc71af0f48</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="product_id_n">0000000000000000006775879170</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>5</quantity>
+			</offer>
+			<offer id="0000000000000000000428627738" group_id="0000000000000000000428627738">
+				<name>292425 LION Кондиционер для белья Soflan "Aroma Rich Skarlet (смородина,жасмин) МУ 400мл</name>
+				<description>Кондиционер для белья Lion «Soflan Aroma Rich Scarlett» с цветочно-фруктовым ароматом, подходит для смягчения и дезинфекции одежды из хлопка, шерсти и синтетических тканей.
+В состав вошли натуральные масла, придающие белью мягкость и нежный аромат.
+Кондиционер защищает белье от статического электричества, обладает антибактериальным эффектом.
+Содержит специальные микроэлементы, которые глубоко проникают в структуру ткани и надежно уничтожают стойкие неприятные запахи.
+Кондиционер смягчает и расправляет волокна ткани, уменьшая количество складок на одежде.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">292425(263043)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">214</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>455</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00002620</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">d200edc8-63f1-11e8-fd8a-9cdc71af0f48&amp;d1829432-63f1-11e8-fd8a-9cdc71af0f48&amp;34a374f2-44a5-11e9-f498-9cdc71af0f48&amp;9d5ada90-44a4-11e9-f498-9cdc71af0f48&amp;d6216e22-b802-11e8-e18e-9cdc71af0f48&amp;afbd2722-b7fc-11e8-e18e-9cdc71af0f48&amp;981d72ba-42e6-11e8-e08a-9cdc71af0f48&amp;980b7b32-42e6-11e8-e08a-9cdc71af0f48&amp;ead1bade-4df9-11e8-ce9b-9cdc71af0f48&amp;ea8db988-4df9-11e8-ce9b-9cdc71af0f48&amp;464d9433-eece-4466-bfdb-5491efd78884&amp;172e375c-3641-42e7-bfce-99c92135b96a&amp;2d6bd856-84f9-43d1-bf70-e69bbebc7714&amp;6f5bdb4c-3e8e-4d1f-bed1-947c5f89fc6d&amp;66dd416a-4eab-4a9c-be40-e6cd084153c2&amp;410c39c6-8e21-4786-bd20-c7b5cd398493&amp;c459598a-5b98-40cd-bc71-da744485e3ce&amp;eec765df-c076-4e1c-bba4-12128e745d83&amp;e0529782-075b-4ebe-bb99-459179e4000d&amp;c51187c2-8350-11e8-bb87-9cdc71af0f48&amp;c46fcfa2-8350-11e8-bb87-9cdc71af0f48&amp;c428ad3e-8350-11e8-bb87-9cdc71af0f48&amp;dec8b62a-7472-4ece-bb19-0585b87898b6&amp;a53d3042-4079-44c3-bacb-b27fe05e2ae8&amp;c903b6ef-d80e-45df-baaa-f8e5a479bfc0&amp;7ced7f7f-1b14-4116-ba8c-b665c17fe164&amp;63cb2272-b897-4ebb-ba17-6307dbcdf7ef</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="Тип средства (Средства &quot;Для дома&quot;)">Кондиционеры и ополаскиватели</param>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Сменный блок</param>
+				<param name="product_id_n">0000000000000000000428627738</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>7</quantity>
+			</offer>
+			<offer id="0000000000000000000690853866" group_id="0000000000000000000690853866">
+				<name>307792 LION Жидкое средство для стирки белья "Top" («Солнечная роза» / сушка в помещении) МУ 720 г</name>
+				<description>Жидкое средство для стирки с кондиционером.
+Прекрасно отстирывает загрязнения, удаляя неприятные запахи.
+Входящий в состав кондиционер с алоэ вера глубоко проникает в волокна ткани наполняя бельё нежным ароматом.
+Подходит для сушки в помещении.
+С антибактериальным эффектом.
+Защищает от появления неприятных запахов после сушки.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">307792</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2878</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>455</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000292</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Тип средства (Средства &quot;Для дома&quot;)">Гели и жидкости</param>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Сменный блок</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">d200edc8-63f1-11e8-fd8a-9cdc71af0f48&amp;d1829432-63f1-11e8-fd8a-9cdc71af0f48&amp;34a374f2-44a5-11e9-f498-9cdc71af0f48&amp;9d5ada90-44a4-11e9-f498-9cdc71af0f48&amp;d6216e22-b802-11e8-e18e-9cdc71af0f48&amp;afbd2722-b7fc-11e8-e18e-9cdc71af0f48&amp;981d72ba-42e6-11e8-e08a-9cdc71af0f48&amp;980b7b32-42e6-11e8-e08a-9cdc71af0f48&amp;ead1bade-4df9-11e8-ce9b-9cdc71af0f48&amp;ea8db988-4df9-11e8-ce9b-9cdc71af0f48&amp;464d9433-eece-4466-bfdb-5491efd78884&amp;172e375c-3641-42e7-bfce-99c92135b96a&amp;2d6bd856-84f9-43d1-bf70-e69bbebc7714&amp;6f5bdb4c-3e8e-4d1f-bed1-947c5f89fc6d&amp;66dd416a-4eab-4a9c-be40-e6cd084153c2&amp;410c39c6-8e21-4786-bd20-c7b5cd398493&amp;c459598a-5b98-40cd-bc71-da744485e3ce&amp;eec765df-c076-4e1c-bba4-12128e745d83&amp;e0529782-075b-4ebe-bb99-459179e4000d&amp;c51187c2-8350-11e8-bb87-9cdc71af0f48&amp;c46fcfa2-8350-11e8-bb87-9cdc71af0f48&amp;c428ad3e-8350-11e8-bb87-9cdc71af0f48&amp;dec8b62a-7472-4ece-bb19-0585b87898b6&amp;a53d3042-4079-44c3-bacb-b27fe05e2ae8&amp;c903b6ef-d80e-45df-baaa-f8e5a479bfc0&amp;7ced7f7f-1b14-4116-ba8c-b665c17fe164&amp;63cb2272-b897-4ebb-ba17-6307dbcdf7ef</param>
+				<param name="product_id_n">0000000000000000000690853866</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>10</quantity>
+			</offer>
+			<offer id="0000000000000000000948923486" group_id="0000000000000000000948923486">
+				<name>319962 LION Кондиционер для белья Soflan Aroma Natural с натуральным ароматом роз 550 мл</name>
+				<description>Новейшая разработка корпорации Lion - дезодорирующий нано-кондиционер Soflan Aroma Natural с натуральными эфирными маслами полевых цветов и садовой розы, которые дарят нежный стойкий аромат.
+Помимо привычных свойств, таких как смягчение, устранение запахов, удаление бактерий, кондиционер обладает непревзойденными дезодорирующими свойствами.
+Благодаря уникальным сверх мелким нано-частицам дезодорирующих веществ, он проникает глубоко в каждое волокно ткани, пропитывая ее полностью и придает белью длительное абсолютное ощущение чистоты и свежести.
+Кондиционер отлично смягчает, разглаживает складки, облегчает глажку.</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">319962(301042)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2639</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>521</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00002622</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">d200edc8-63f1-11e8-fd8a-9cdc71af0f48&amp;d1829432-63f1-11e8-fd8a-9cdc71af0f48&amp;34a374f2-44a5-11e9-f498-9cdc71af0f48&amp;9d5ada90-44a4-11e9-f498-9cdc71af0f48&amp;d6216e22-b802-11e8-e18e-9cdc71af0f48&amp;afbd2722-b7fc-11e8-e18e-9cdc71af0f48&amp;981d72ba-42e6-11e8-e08a-9cdc71af0f48&amp;980b7b32-42e6-11e8-e08a-9cdc71af0f48&amp;ead1bade-4df9-11e8-ce9b-9cdc71af0f48&amp;ea8db988-4df9-11e8-ce9b-9cdc71af0f48&amp;464d9433-eece-4466-bfdb-5491efd78884&amp;172e375c-3641-42e7-bfce-99c92135b96a&amp;2d6bd856-84f9-43d1-bf70-e69bbebc7714&amp;6f5bdb4c-3e8e-4d1f-bed1-947c5f89fc6d&amp;66dd416a-4eab-4a9c-be40-e6cd084153c2&amp;410c39c6-8e21-4786-bd20-c7b5cd398493&amp;c459598a-5b98-40cd-bc71-da744485e3ce&amp;eec765df-c076-4e1c-bba4-12128e745d83&amp;e0529782-075b-4ebe-bb99-459179e4000d&amp;c51187c2-8350-11e8-bb87-9cdc71af0f48&amp;c46fcfa2-8350-11e8-bb87-9cdc71af0f48&amp;c428ad3e-8350-11e8-bb87-9cdc71af0f48&amp;dec8b62a-7472-4ece-bb19-0585b87898b6&amp;a53d3042-4079-44c3-bacb-b27fe05e2ae8&amp;c903b6ef-d80e-45df-baaa-f8e5a479bfc0&amp;7ced7f7f-1b14-4116-ba8c-b665c17fe164&amp;63cb2272-b897-4ebb-ba17-6307dbcdf7ef</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Oct,lion,Lion,Лион,Лаон,Лайон,Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="product_id_n">0000000000000000000948923486</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000000006475027138" group_id="0000000000000000006475027138">
+				<name>364654 Высокоэффективный стиральный порошок с антибактериальным эффектом КAO "Attack" Power</name>
+				<description>Антибактериальный порошок KAO предназначен для стирки белья из хлопка, льна и синтетических волокон обладает уникальной отстирывающей способностью.
+Порошок эффективно и бережно отстирывает вещи.
+Частицы порошка очень быстро растворяются в воде и, благодаря специальным разработкам KAO, легко вымываются при однократном полоскании.
+Вы экономите электроэнергию, время и воду.
+Натуральный смягчитель жесткости воды способствует тому, что краски на вещах не линяют и минеральные остатки в тканях не остаются, так что вещи сохраняют первоначальный вид.
+За одну стирку порошок отстирывает большое количество белья, удаляя загрязнения и запахи с воротников и манжет.
+Входящие в состав оптические отбеливатели эффективно и деликатно отстирывают и выводят трудновыводимые пятна без изменения структуры ткани и цвета.
+Уничтожает бактерии, в том числе и те, которые вызывают неприятный запах при сушке в помещении.
+Белье приобретает приятный цветочный аромат.
+Не требует кондиционера, так как содержит смягчающие ткань компоненты.</description>
+				<vendor>Kao</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">364654(282309)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">355</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>653</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000008887</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kao</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ead1bade-4df9-11e8-ce9b-9cdc71af0f48&amp;ea8db988-4df9-11e8-ce9b-9cdc71af0f48&amp;464d9433-eece-4466-bfdb-5491efd78884&amp;172e375c-3641-42e7-bfce-99c92135b96a&amp;2d6bd856-84f9-43d1-bf70-e69bbebc7714&amp;6f5bdb4c-3e8e-4d1f-bed1-947c5f89fc6d&amp;66dd416a-4eab-4a9c-be40-e6cd084153c2&amp;410c39c6-8e21-4786-bd20-c7b5cd398493&amp;c459598a-5b98-40cd-bc71-da744485e3ce&amp;eec765df-c076-4e1c-bba4-12128e745d83&amp;e0529782-075b-4ebe-bb99-459179e4000d&amp;c51187c2-8350-11e8-bb87-9cdc71af0f48&amp;c428ad3e-8350-11e8-bb87-9cdc71af0f48&amp;dec8b62a-7472-4ece-bb19-0585b87898b6&amp;a53d3042-4079-44c3-bacb-b27fe05e2ae8&amp;c903b6ef-d80e-45df-baaa-f8e5a479bfc0&amp;7ced7f7f-1b14-4116-ba8c-b665c17fe164&amp;63cb2272-b897-4ebb-ba17-6307dbcdf7ef&amp;d72dfd5a-43c9-11e9-b992-9cdc71af0f48&amp;065cf9ec-a414-416e-b90e-32ac76a440c6&amp;c020909e-c022-41cd-b8fe-cbcc537ad33f&amp;07401997-ea5e-440a-b87a-f98263de4e4c&amp;8ce8b2e7-6db4-4beb-b7ea-4d12f48ef5fe&amp;2bf05608-79f3-4d7c-b6cb-7dba3d2c7d6c&amp;fbb71347-7965-45f8-b6bf-0bc14ea1eb3c&amp;f9bf8ef5-1955-4431-b677-ac583058cf15&amp;ad605158-1925-499a-b63f-01278d75b7c2</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">као,Biore,kao,КАЩ,КАО,Биоре,као,КAO</param>
+				<param name="product_id_n">0000000000000000006475027138</param>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">као</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Biore</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kao</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КАЩ</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КАО</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Биоре</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">као</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КAO</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>7</quantity>
+			</offer>
+			<offer id="0000000000000000000436996871" group_id="0000000000000000000436996871">
+				<name>376589 KAO "New Beads" Жидкое средство для стирки белья с кондиционером (аромат белых цветов) 780 гр</name>
+				<description>Гель предназначен для стирки изделий из хлопка, льна и синтетических волокон.
+Обладает выраженным и длительным дезодорирующим эффектом – даже при ношении вещи остаются свежими долгое время.
+Не требует использования кондиционера, содержит смягчающие ингредиенты, которые разглаживают волокна ткани. Средство отлично подходит для стирки белых вещей.
+Обладает нежным ароматом ландыша, полевых трав и цветов.
+Не содержит флуоресцентного отбеливателя.</description>
+				<vendor>Kao</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">376589</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2476</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>719</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00002983</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kao</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для стирки</param>
+				<param name="Тип средства (Средства &quot;Для дома&quot;)">Гели и жидкости</param>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">d200edc8-63f1-11e8-fd8a-9cdc71af0f48&amp;d1829432-63f1-11e8-fd8a-9cdc71af0f48&amp;34a374f2-44a5-11e9-f498-9cdc71af0f48&amp;9d5ada90-44a4-11e9-f498-9cdc71af0f48&amp;d6216e22-b802-11e8-e18e-9cdc71af0f48&amp;afbd2722-b7fc-11e8-e18e-9cdc71af0f48&amp;981d72ba-42e6-11e8-e08a-9cdc71af0f48&amp;980b7b32-42e6-11e8-e08a-9cdc71af0f48&amp;ead1bade-4df9-11e8-ce9b-9cdc71af0f48&amp;ea8db988-4df9-11e8-ce9b-9cdc71af0f48&amp;464d9433-eece-4466-bfdb-5491efd78884&amp;172e375c-3641-42e7-bfce-99c92135b96a&amp;2d6bd856-84f9-43d1-bf70-e69bbebc7714&amp;6f5bdb4c-3e8e-4d1f-bed1-947c5f89fc6d&amp;66dd416a-4eab-4a9c-be40-e6cd084153c2&amp;410c39c6-8e21-4786-bd20-c7b5cd398493&amp;c459598a-5b98-40cd-bc71-da744485e3ce&amp;eec765df-c076-4e1c-bba4-12128e745d83&amp;e0529782-075b-4ebe-bb99-459179e4000d&amp;c51187c2-8350-11e8-bb87-9cdc71af0f48&amp;c46fcfa2-8350-11e8-bb87-9cdc71af0f48&amp;c428ad3e-8350-11e8-bb87-9cdc71af0f48&amp;dec8b62a-7472-4ece-bb19-0585b87898b6&amp;a53d3042-4079-44c3-bacb-b27fe05e2ae8&amp;c903b6ef-d80e-45df-baaa-f8e5a479bfc0&amp;7ced7f7f-1b14-4116-ba8c-b665c17fe164&amp;63cb2272-b897-4ebb-ba17-6307dbcdf7ef</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">као</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КАО</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">као</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Biore</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Биоре</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КAO</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КАЩ</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kao</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">као,КАО,као,Biore,Биоре,КAO,КАЩ,kao</param>
+				<param name="product_id_n">0000000000000000000436996871</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>3</quantity>
+			</offer>
+			<offer id="0000000000000000000161268903" group_id="0000000000000000000161268903">
+				<name>603591 MKH Жидкость для мытья посуды «Mukunghwa» (с ароматом базилика и душистых трав) 1,2 л </name>
+				<description>Olive &amp; Basil Dishwashing Liquid.
+Средство для мытья посуды Олива и базилик экологически чистое, эффективно очищает поверхность посуды от жира, а его натуральные ингредиенты хорошо увлажняют и защищают кожу рук.
+В составе средства нет агрессивных химических компонентов, которые могут принести вред здоровью при использовании посуды после мытья.
+ПАВ растительного происхождения создает густую обильную пену, которая быстро и легко смывается.
+Пищевая сода удаляет остатки жира после готовки мяса и рыбы.
+Мягкая и безопасная формула для мытья овощей и фруктов, а также детских бутылочек.
+Экстракты розмарина, базилика, оливы и мяты и натуральный ароматизатор превосходно удаляют пищевые запахи и не оставляют навязчивого аромата на посуде.
+С освежающим ароматом базилика и душистых трав.
+Способ применения:
+Нанести несколько капель на губку и вымыть посуду, овощи или фрукты, затем тщательно ополоснуть водой.
+Объём: 1,2 мл</description>
+				<vendor>Mukunghwa</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">603591</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2678</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>409</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001326</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Mukunghwa</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">мукунгва,Mukunghwa,мукунва,микунгва</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">мукунгва</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Mukunghwa</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">мукунва</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">микунгва</param>
+				<param name="product_id_n">0000000000000000000161268903</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>6</quantity>
+			</offer>
+			<offer id="0000000000000032007700834505" group_id="0000000000000032007700834505">
+				<name>887226 Ср-во д/м посуды СУНСЭМ Бамбуковый уголь 1,2кг (запаска)</name>
+				<description>~ Бамбуковый уголь оказывает антимикробное и антибактериальное действия, удаляет неприятные запахи.
+~ Средство легко справляется даже с застывшим жиром.
+~ В состав входят эффективные и безопасные для кожи рук моющие компоненты. 
+~ Подходит для мытья стеклянной посуды, так как защищает стекло от образования пятен от капель после высыхания.
+~ Не содержит 3 опасных химических ингредиентов: искусственных красителей, фосфорной кислоты, консервантов, что делает его безопасным для здоровья человека и окружающей среды.
+~ Применяются природные очищающие компоненты, имеющие сертификат FDA GRAS (U.S. Food &amp; Drug  Administration - Управление по санитарному надзору за качеством пищевых продуктов и медикаментов США — Generally Recognized As Safe — Категория продуктов, полностью признанных безопасными) - считаются совершенно безопасными для мытья фруктов и овощей;
+~ Получило одобрение от Министерства Здравоохранения и Благосостояния Южной Кореи, является средством  для мытья посуды высшей категории.</description>
+				<vendor>Kerasys</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">887226</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">9896</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>455</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000914</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Сменный блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для мытья посуды</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">0114485c-e67a-11e8-c08d-9cdc71af0f48&amp;bda79692-4b19-4d92-bfeb-e169a2407a44&amp;512b1995-bc12-499f-bf4b-30a061a056a7&amp;9220b2bb-6f19-448d-bf05-dfdf30b66110&amp;a5908b64-7f57-4026-bdaf-98e5b5917c90&amp;e2a9920c-e2e9-4493-bb3b-d4ce4234b894&amp;ee257850-8eae-11e9-b99d-9cdc71af0f48&amp;9900f2a1-b466-4506-b850-a09345f00155&amp;74745903-948d-4dde-b7b3-c0ebc419c6ab&amp;138a25a0-5eea-405a-b520-bdd8fefa1bae&amp;881a5a42-542f-4291-b22c-a7dd5d6dd8f3&amp;f925f261-0058-44b1-b1ee-3a7866635f4f&amp;911b8eac-de28-4ceb-af89-ffbb6752a4b3&amp;b24c7fc5-705c-4b06-ac88-d2905f025a42&amp;d33c176c-e93b-471f-aa9f-99a8f64ee631&amp;7e6c89a9-96cd-4cbd-a9dd-25193decef3f&amp;3fefa1b4-adf3-4d75-a988-42e576d26e9f&amp;355a79e0-095e-11e0-a880-00241d24626c&amp;60e58f25-d803-11df-a86d-00241d24624d&amp;5bade13b-18fe-443a-a766-1bf75a95c9f3&amp;229cbf23-7199-4017-a677-8645f9b7f393&amp;9a5f5774-1688-4852-a604-593841f4588a&amp;78ebb8a7-fa38-4f4c-a5c6-aa5bc90fdaec&amp;2d2aa692-60a6-404f-a460-55c1a0be5545&amp;0da54f71-5e6a-46f1-a33a-ca0b1eb0ed5d&amp;252415e0-1404-4a1c-a2c3-6445ede43caf&amp;0eabe2d1-f028-499f-a28a-31b12db5b50c</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">керасис,kerasys,Kerasys</param>
+				<param name="product_id_n">0000000000000032007700834505</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kerasys</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасис</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасус</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>6</quantity>
+			</offer>
+			<offer id="0000000000000000000318965248" group_id="0000000000000000000318965248">
+				<name>892916 Ср-во д/м посуды СУНСЭМ Оливки 350мл</name>
+				<description>~ Модный и современный дизайн бутылки от всемирно известного Карима Рашида.
+~ Революция в области мытья посуды.
+~ Эффективно справляется даже с застывшим жиром.
+~ Легко смывается.
+~ Экономичное, 350 мл Пенки Сунсэм = 950 мл обычного средства.
+~ Не содержит красителей и консервантов. Состоит на 100% из растительных ингредиентов, что делает его безопасным для человека и окружающей среды.
+~ Имеет экологический сертификат «Экосерт» Франция (France’s ECOCERT), что подтверждает его соответствие самым строгим требованиям в области производства натуральных моющих средств.
+~ Получило одобрение от Министерства Здравоохранения и Благосостояния Южной Кореи, является средством для мытья посуды высшей категории. </description>
+				<vendor>Kerasys</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">892916</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">10364</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>475</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001328</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для мытья посуды</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">0114485c-e67a-11e8-c08d-9cdc71af0f48&amp;bda79692-4b19-4d92-bfeb-e169a2407a44&amp;512b1995-bc12-499f-bf4b-30a061a056a7&amp;9220b2bb-6f19-448d-bf05-dfdf30b66110&amp;a5908b64-7f57-4026-bdaf-98e5b5917c90&amp;e2a9920c-e2e9-4493-bb3b-d4ce4234b894&amp;ee257850-8eae-11e9-b99d-9cdc71af0f48&amp;9900f2a1-b466-4506-b850-a09345f00155&amp;74745903-948d-4dde-b7b3-c0ebc419c6ab&amp;138a25a0-5eea-405a-b520-bdd8fefa1bae&amp;881a5a42-542f-4291-b22c-a7dd5d6dd8f3&amp;f925f261-0058-44b1-b1ee-3a7866635f4f&amp;911b8eac-de28-4ceb-af89-ffbb6752a4b3&amp;b24c7fc5-705c-4b06-ac88-d2905f025a42&amp;d33c176c-e93b-471f-aa9f-99a8f64ee631&amp;7e6c89a9-96cd-4cbd-a9dd-25193decef3f&amp;3fefa1b4-adf3-4d75-a988-42e576d26e9f&amp;355a79e0-095e-11e0-a880-00241d24626c&amp;60e58f25-d803-11df-a86d-00241d24624d&amp;5bade13b-18fe-443a-a766-1bf75a95c9f3&amp;229cbf23-7199-4017-a677-8645f9b7f393&amp;9a5f5774-1688-4852-a604-593841f4588a&amp;78ebb8a7-fa38-4f4c-a5c6-aa5bc90fdaec&amp;2d2aa692-60a6-404f-a460-55c1a0be5545&amp;0da54f71-5e6a-46f1-a33a-ca0b1eb0ed5d&amp;252415e0-1404-4a1c-a2c3-6445ede43caf&amp;5bf109f8-4f2a-473e-a03e-61fe05a389b2</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kerasys</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасис</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасус</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys,kerasys,керасис,керасус</param>
+				<param name="Тип средства (Средства &quot;Для дома&quot;)">Гели и жидкости</param>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000000318965248</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>5</quantity>
+			</offer>
+			<offer id="0000000000000030485583280867" group_id="0000000000000030485583280867">
+				<name>892923 Ср-во д/м посуды СУНСЭМ Оливки 1000мл (запаска)</name>
+				<description>~ Модный и современный дизайн бутылки от всемирно известного Карима Рашида.
+~ Революция в области мытья посуды.
+~ Эффективно справляется даже с застывшим жиром.
+~ Легко смывается.
+~ Экономичное, 350 мл Пенки Сунсэм = 950 мл обычного средства.
+~ Не содержит красителей и консервантов. Состоит на 100% из растительных ингредиентов, что делает его безопасным для человека и окружающей среды.
+~ Имеет экологический сертификат «Экосерт» Франция (France’s ECOCERT), что подтверждает его соответствие самым строгим требованиям в области производства натуральных моющих средств.
+~ Получило одобрение от Министерства Здравоохранения и Благосостояния Южной Кореи, является средством для мытья посуды высшей категории. </description>
+				<vendor>Kerasys</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">892923</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Средства "Для дома"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">10129</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Бытовая химия</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>455</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000914</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Сменный блок</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для мытья посуды</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">0114485c-e67a-11e8-c08d-9cdc71af0f48&amp;bda79692-4b19-4d92-bfeb-e169a2407a44&amp;512b1995-bc12-499f-bf4b-30a061a056a7&amp;9220b2bb-6f19-448d-bf05-dfdf30b66110&amp;a5908b64-7f57-4026-bdaf-98e5b5917c90&amp;e2a9920c-e2e9-4493-bb3b-d4ce4234b894&amp;ee257850-8eae-11e9-b99d-9cdc71af0f48&amp;9900f2a1-b466-4506-b850-a09345f00155&amp;74745903-948d-4dde-b7b3-c0ebc419c6ab&amp;138a25a0-5eea-405a-b520-bdd8fefa1bae&amp;881a5a42-542f-4291-b22c-a7dd5d6dd8f3&amp;f925f261-0058-44b1-b1ee-3a7866635f4f&amp;911b8eac-de28-4ceb-af89-ffbb6752a4b3&amp;b24c7fc5-705c-4b06-ac88-d2905f025a42&amp;d33c176c-e93b-471f-aa9f-99a8f64ee631&amp;7e6c89a9-96cd-4cbd-a9dd-25193decef3f&amp;3fefa1b4-adf3-4d75-a988-42e576d26e9f&amp;355a79e0-095e-11e0-a880-00241d24626c&amp;60e58f25-d803-11df-a86d-00241d24624d&amp;5bade13b-18fe-443a-a766-1bf75a95c9f3&amp;229cbf23-7199-4017-a677-8645f9b7f393&amp;9a5f5774-1688-4852-a604-593841f4588a&amp;78ebb8a7-fa38-4f4c-a5c6-aa5bc90fdaec&amp;2d2aa692-60a6-404f-a460-55c1a0be5545&amp;0da54f71-5e6a-46f1-a33a-ca0b1eb0ed5d&amp;252415e0-1404-4a1c-a2c3-6445ede43caf&amp;0eabe2d1-f028-499f-a28a-31b12db5b50c</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys,kerasys,керасис,керасус</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасис</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасус</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kerasys</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000030485583280867</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
+			</offer>
+			<offer id="0000000000000000003872986911" group_id="0000000000000000003872986911">
+				<name>884733 PIGEON Средство PURE VIRGIN MOJITO для мытья посуды «Мохито» 1 л МУ с крышкой</name>
+				<description>Высокоэффективное средство для ручного мытья посуды, с освежающим ароматом коктейля мохито. Изготовлен на основе компонентов, классифицируемых как биоразлагаемые. Удаляет любые виды загрязнений и неприятные запахи с посуды даже в холодной воде. Полностью смывается с посуды. Быстро удаляет загрязнения и жир. Придает посуде блеск, не оставляет разводов. Содержит только безопасные растительные ингредиенты органического происхождения. Специальная формула защищает руки от пересыхания, делает их мягкими на ощупь. Экономично в использовании. Средство качественно отмоет посуду, подходит для очищения овощей и фруктов, после использования оставляет приятный аромат. Продукт мягко действует, удалит загрязнения с поверхности посуды и обеспечит её полную чистоту.</description>
+				<vendor>PIGEON</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">884733</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">4108</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>370</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ011121428</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">PIGEON</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для мытья посуды</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">8d12740f-58e8-4fcb-bb10-a53bb36d5d5e&amp;0e8c8958-368e-4c9d-b913-1a10d2b06e52&amp;6b688424-a483-410a-b59e-61fc79badbfa&amp;a9437b61-acb0-4fb9-a778-2d7bdab838de&amp;585abc87-1362-433e-a75a-a9bd1b267306&amp;6e4d45fb-e3c3-44ac-a642-82df344c379c&amp;43aab6d1-ad3a-4866-a5d0-a8dfcbb09248&amp;6c57cdf7-9c12-45cd-a0aa-f49120cb5432&amp;ce333fa8-3604-417a-9adc-f4f970bb1bb5&amp;6d7f9dbb-25b0-4de4-92b1-ef32dfc315d3&amp;a77376a4-c7aa-4478-8d9d-434037520351&amp;97fce666-b235-49a2-88a7-f14d3c67d088&amp;262e20d0-eee4-44ed-8487-22a2e87d41cd</param>
+				<param name="product_id_n">0000000000000000003872986911</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">пиджеон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">pigeon</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">PIGEON</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Пиджеон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Pigeon</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>5</quantity>
 			</offer>
 		</offers>
 	</shop>
