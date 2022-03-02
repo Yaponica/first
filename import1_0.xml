@@ -6,240 +6,10 @@
 		</currencies>
 		<categories>
 			<category id="УТ-00000277">Отбеливающие и от налета</category>
-			<category id="УТ-00000279">Освежающие</category>
 			<category id="УТ-00000278">Лечебно-профилактические</category>
-			<category id="УТ000012691">СПОНЖИ</category>
+			<category id="УТ-00000279">Освежающие</category>
 		</categories>
 		<offers>
-			<offer id="0000000000000000006446278338" group_id="0000000000000000006446278338">
-				<name>010543 Паста зубная премиум мята SUNSTAR Ora2 100 г</name>
-				<description>Имеет уникальную формулу, которая сделает ваши зубы белыми и сияющими.
-Специальные компоненты, входящие в состав пасты вычищают зубной налет наверх, растворяют его и подавляют дальнейшее его образование.
-Содержит сферические микрочастицы, которые заботясь об эмали, эффективно устраняют налёт и затрудняют его вторичное образование.
-Паста безопасна для зубной эмали, отбеливает зубы, предотвращает образование полостей в зубах, удаляет табачный налет и устраняет неприятный запах изо рта.
-</description>
-				<vendor>SUNSTAR</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">010543</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Личная гигиена"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">578</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа">Ora2</param>
-				<price>1190</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00000277</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">SUNSTAR</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Зубные пасты</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ffdcabfa-4407-11e9-f498-9cdc71af0f48&amp;d6ee4028-b802-11e8-e18e-9cdc71af0f48&amp;9898c71c-42e6-11e8-e08a-9cdc71af0f48&amp;eb429420-4df9-11e8-ce9b-9cdc71af0f48&amp;1aff987e-dc10-4af0-bff3-86c57bfc8d07&amp;c4857ff0-8350-11e8-bb87-9cdc71af0f48&amp;f46360a9-9fa2-453d-ba42-f3a3d3921a48&amp;92ba31c8-860b-11e9-b99d-9cdc71af0f48&amp;d3a5da2c-43c9-11e9-b992-9cdc71af0f48&amp;7eac3b1e-29b4-4d7a-b974-a37fa93decdd&amp;464baf85-946a-40e2-b7ef-d1d5fe7681de&amp;ef9747c8-68b7-467a-b740-fa4a32582de9&amp;973a01e9-074b-4bfd-b70c-c8cbc6f6e12f&amp;45bc990f-7a92-435d-b695-c5ac11260341&amp;cc591326-fe04-4c57-b57c-e209fea1155e&amp;117d8765-5322-40ec-b421-dbd96a7cb213&amp;ab2efb61-6939-4fac-b1c0-606b226f1707&amp;b41885f6-7225-49ac-b0f9-21553cc02b90&amp;033c3295-636a-47a9-b077-f40c03ffc779&amp;3025d8c5-f69f-4403-aeb4-6ab77949d892&amp;d4007ea7-e479-4aa9-ad18-e22e94081d66&amp;d2235f9c-9392-45c1-ac6d-194f475fb6e0&amp;56efc3a4-19fc-4051-ac5f-fc22a7f7d8cb&amp;0ad3d4b6-ca52-456c-ac30-3484a3678917&amp;51f1322c-42b3-4f39-ac02-47d705053c2c&amp;b9a901d3-d719-48de-a82c-bbc11f9a3bc2&amp;2b7d1ef8-d05d-11e8-a583-9cdc71af0f48</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">star,Sun,SUN STAR,SUNSTAR,sunstar,Sunstar,звезда,солнечная звезда</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">SUN STAR</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Sun</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">star</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">SUNSTAR</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">звезда</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">солнечная звезда</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">sunstar</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Sunstar</param>
-				<param name="product_id_n">0000000000000000006446278338</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>8</quantity>
-			</offer>
-			<offer id="0000000000000000000048127738" group_id="0000000000000000000048127738">
-				<name>011021 Зубная паста для чувствительных зубов Sunstar Ora2 Чай с Жасмином, 130 гр										</name>
-				<description>Отбеливающая зубная паста Ora2 Me Stain Clear Mild Toothpaste, представленная под маркой Sunstar, предназначена для бережного ухода за полостью рта.
-Средство для очищения зубов и десен содержит диоксид кремния, масло оливы, увлажняющие вещества.
-Формула включает натуральную добавку, придающую пасте аромат зеленого чая с жасмином и мятный вкус. 
-Соединения кремния эффективно и осторожно удаляют зубной налет, полирует эмаль, восстанавливая белизну зубов и осложняя оседание частиц пищи.
-При этом паста не повреждает ткани.
-Оливковое масло питает и защищает от раздражения, стимулирует естественную регенерацию, придает составу особую мягкость.
-</description>
-				<vendor>SUNSTAR</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">011021</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Личная гигиена"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">1349</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа">Ora2</param>
-				<price>1190</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00000277</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">SUNSTAR</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Зубные пасты</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ffdcabfa-4407-11e9-f498-9cdc71af0f48&amp;d6ee4028-b802-11e8-e18e-9cdc71af0f48&amp;9898c71c-42e6-11e8-e08a-9cdc71af0f48&amp;eb429420-4df9-11e8-ce9b-9cdc71af0f48&amp;1aff987e-dc10-4af0-bff3-86c57bfc8d07&amp;c4857ff0-8350-11e8-bb87-9cdc71af0f48&amp;f46360a9-9fa2-453d-ba42-f3a3d3921a48&amp;d3a5da2c-43c9-11e9-b992-9cdc71af0f48&amp;7eac3b1e-29b4-4d7a-b974-a37fa93decdd&amp;464baf85-946a-40e2-b7ef-d1d5fe7681de&amp;ef9747c8-68b7-467a-b740-fa4a32582de9&amp;973a01e9-074b-4bfd-b70c-c8cbc6f6e12f&amp;45bc990f-7a92-435d-b695-c5ac11260341&amp;cc591326-fe04-4c57-b57c-e209fea1155e&amp;117d8765-5322-40ec-b421-dbd96a7cb213&amp;ab2efb61-6939-4fac-b1c0-606b226f1707&amp;b41885f6-7225-49ac-b0f9-21553cc02b90&amp;033c3295-636a-47a9-b077-f40c03ffc779&amp;3025d8c5-f69f-4403-aeb4-6ab77949d892&amp;d4007ea7-e479-4aa9-ad18-e22e94081d66&amp;d2235f9c-9392-45c1-ac6d-194f475fb6e0&amp;56efc3a4-19fc-4051-ac5f-fc22a7f7d8cb&amp;0ad3d4b6-ca52-456c-ac30-3484a3678917&amp;51f1322c-42b3-4f39-ac02-47d705053c2c&amp;79f7c8e7-d803-11df-a86d-00241d24624d&amp;79f7c8a7-d803-11df-a86d-00241d24624d&amp;79f7c8a3-d803-11df-a86d-00241d24624d</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">star,Sun,SUN STAR,SUNSTAR,sunstar,Sunstar,звезда,солнечная звезда</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">sunstar</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Sunstar</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">солнечная звезда</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">star</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Sun</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">SUN STAR</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">SUNSTAR</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">звезда</param>
-				<param name="product_id_n">0000000000000000000048127738</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>9</quantity>
-			</offer>
-			<offer id="0000000000000000057459950496" group_id="0000000000000000057459950496">
-				<name>028468 Etiquette Зубная паста для профилактики неприятного запаха 130 г (в тубе)</name>
-				<description>Зубная паста освежающего действия для профилактики неприятного запаха.
-Причиной появления неприятного запаха изо рта являются остатки пищи, застрявшие между зубами и налет на языке и зубах, который образуется в результате соединения белка с бактериями.
-Чтобы Ваше дыхание вновь стало свежим, необходимо устранить причины неприятного запаха.
-Активные компоненты, входящие в состав пасты, очищают поверхность зубов и языка, благотворно воздействуют на состояние полости рта и препятствуют возникновению неприятного запаха.
-Надолго сохраняет свежесть дыхания.
-Предотвращает развитие кариеса.
-Обладает освежающим вкусом перечной мяты.
-Состав: силикаты мягкого абразивного действия, полифосфат 5Na, гидрокарбонат натрия, вода, сорбитол, пропиленгликоль, лаурилсульфат натрия, полиакрилат натрия, альгинат натрия, ксантановая смола, отдушка мяты перечной, сахарин натрия, гидрооксид натрия, бутилпарабен, метилпарабен, оксид титана</description>
-				<vendor>Etiquette</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">028468</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Личная гигиена"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">9241</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Гигиена</param>
-				<param name="ЦеноваяГруппа"/>
-				<price>490</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00000279</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Etiquette</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Зубные пасты</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ffdcabfa-4407-11e9-f498-9cdc71af0f48&amp;d6ee4028-b802-11e8-e18e-9cdc71af0f48&amp;9898c71c-42e6-11e8-e08a-9cdc71af0f48&amp;eb429420-4df9-11e8-ce9b-9cdc71af0f48&amp;1aff987e-dc10-4af0-bff3-86c57bfc8d07&amp;c4857ff0-8350-11e8-bb87-9cdc71af0f48&amp;f46360a9-9fa2-453d-ba42-f3a3d3921a48&amp;92ba31c8-860b-11e9-b99d-9cdc71af0f48&amp;d3a5da2c-43c9-11e9-b992-9cdc71af0f48&amp;7eac3b1e-29b4-4d7a-b974-a37fa93decdd&amp;464baf85-946a-40e2-b7ef-d1d5fe7681de&amp;ef9747c8-68b7-467a-b740-fa4a32582de9&amp;973a01e9-074b-4bfd-b70c-c8cbc6f6e12f&amp;45bc990f-7a92-435d-b695-c5ac11260341&amp;cc591326-fe04-4c57-b57c-e209fea1155e&amp;117d8765-5322-40ec-b421-dbd96a7cb213&amp;ab2efb61-6939-4fac-b1c0-606b226f1707&amp;b41885f6-7225-49ac-b0f9-21553cc02b90&amp;033c3295-636a-47a9-b077-f40c03ffc779&amp;3025d8c5-f69f-4403-aeb4-6ab77949d892&amp;d4007ea7-e479-4aa9-ad18-e22e94081d66&amp;d2235f9c-9392-45c1-ac6d-194f475fb6e0&amp;56efc3a4-19fc-4051-ac5f-fc22a7f7d8cb&amp;0ad3d4b6-ca52-456c-ac30-3484a3678917&amp;51f1322c-42b3-4f39-ac02-47d705053c2c&amp;79f7c8e7-d803-11df-a86d-00241d24624d&amp;79f7c8a7-d803-11df-a86d-00241d24624d</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Etiquette</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">етикиет</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">етикут</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Этикет</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Etiquette,етикиет,етикут,Этикет</param>
-				<param name="product_id_n">0000000000000000057459950496</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>7</quantity>
-			</offer>
 			<offer id="0000000000000000003403278048" group_id="0000000000000000003403278048">
 				<name>071861 Паста зубная отбеливающая и полирующая с углем и мятными травами, 100 гр</name>
 				<description>Если в древности японские красавицы чернили зубы углем, то теперь они используют его для отбеливания и красоты зубов! 
@@ -384,6 +154,83 @@
 				<width>1</width>
 				<height>1</height>
 				<quantity>45</quantity>
+			</offer>
+			<offer id="0000000000000000000000148134" group_id="0000000000000000000000148134">
+				<name>186427 Зубная паста с микрогранулами для защиты от кариеса, аромат мяты Lion Dentor Clear MAX,140гр</name>
+				<description>Зубная паста деликатно очищает зубы и защищает от образования кариеса. 
+Микрогранулы двух размеров - мелкие и очень мелкие - повышают эффективность удаления зубного налета и остатков пищи в труднодоступных местах, а также препятствуют образованию неприятного запаха. 
+Мелкие - полируют фронтальную поверхность зубов.
+Очень мелкие - благодаря своему размеру, проникают в межзубные пространства, прекрасно вычищая оттуда зубной налет, что делает зубы не только чистыми, но и гладкими. 
+Активный компонент - монофлюорофосфат натрия, содержащий фтор, укрепляет структуру зубов и препятствует возникновению кариеса. 
+Входящий в состав ментол приятно охлаждает десны, а аромат мяты надолго освежает дыхание. 
+</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">186427</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Личная гигиена"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11304</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Гигиена</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>390</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000278</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Зубные пасты</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ffdcabfa-4407-11e9-f498-9cdc71af0f48&amp;d6ee4028-b802-11e8-e18e-9cdc71af0f48&amp;9898c71c-42e6-11e8-e08a-9cdc71af0f48&amp;eb429420-4df9-11e8-ce9b-9cdc71af0f48&amp;1aff987e-dc10-4af0-bff3-86c57bfc8d07&amp;c4857ff0-8350-11e8-bb87-9cdc71af0f48&amp;f46360a9-9fa2-453d-ba42-f3a3d3921a48&amp;92ba31c8-860b-11e9-b99d-9cdc71af0f48&amp;d3a5da2c-43c9-11e9-b992-9cdc71af0f48&amp;7eac3b1e-29b4-4d7a-b974-a37fa93decdd&amp;464baf85-946a-40e2-b7ef-d1d5fe7681de&amp;ef9747c8-68b7-467a-b740-fa4a32582de9&amp;973a01e9-074b-4bfd-b70c-c8cbc6f6e12f&amp;45bc990f-7a92-435d-b695-c5ac11260341&amp;cc591326-fe04-4c57-b57c-e209fea1155e&amp;117d8765-5322-40ec-b421-dbd96a7cb213&amp;ab2efb61-6939-4fac-b1c0-606b226f1707&amp;b41885f6-7225-49ac-b0f9-21553cc02b90&amp;033c3295-636a-47a9-b077-f40c03ffc779&amp;d4007ea7-e479-4aa9-ad18-e22e94081d66&amp;d2235f9c-9392-45c1-ac6d-194f475fb6e0&amp;56efc3a4-19fc-4051-ac5f-fc22a7f7d8cb&amp;0ad3d4b6-ca52-456c-ac30-3484a3678917&amp;51f1322c-42b3-4f39-ac02-47d705053c2c&amp;79f7c8e7-d803-11df-a86d-00241d24624d&amp;79f7c8a7-d803-11df-a86d-00241d24624d&amp;79f7c8a3-d803-11df-a86d-00241d24624d</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="product_id_n">0000000000000000000000148134</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>29</quantity>
 			</offer>
 			<offer id="0000000000000000012187289802" group_id="0000000000000000012187289802">
 				<name>186441 з/паста Lion"Dentor Clear MAX Spearmint"с микропудрой от кариеса, мята,туба 140гр</name>
@@ -539,21 +386,92 @@
 				<height>1</height>
 				<quantity>21</quantity>
 			</offer>
-			<offer id="0000000000000000000032838857" group_id="0000000000000000000032838857">
-				<name>325321 Зубная паста антибактериальная DENTOR SYSTEMA (130 гр)</name>
-				<description>Зубная антибактериальная лечебная паста предназначена для эффективного предотвращения пародонтоза и периодонтита с помощью ипсилон - аминокапроновой кислоты (ε-АСА), входящей в ее состав, предотвращает возникновение кариеса, обеспечивает свежесть дыхания.
-Проникая между зубами, уничтожает все виды бактерий, вызывающих эти заболевания.
-Предотвращает опухание и кровоточивость дёсен как следствие развития пародонтоза, делает десны здоровыми.
-Останавливает снижение количества коллагена в тканях дёсен, возникающее в результате пародонтоза.
-Обладает вкусом перечной мяты, придаёт ощущение свежести после чистки.
-Антибактериальный компонент изопропилметилфенол (IPMP), проникая внутрь отложений на поверхности зубов, уничтожает бактерии, вызывающие воспаление десен и неприятный запах изо рта.
-Лаурилсульфат натрия уничтожает бактерии в полости рта, препятствует размножению новых бактерий.
-Фторид натрия укрепляет структуру зубов, препятствует возникновению кариеса.
-Это - нелекарственное средство.</description>
+			<offer id="0000000000000000000062927438" group_id="0000000000000000000062927438">
+				<name>231073 LION З/паста д/проф. болезней десен усил. формула со вк.трав "DS gums plus Strong" 95г</name>
+				<description>Серия зубных паст разработана для укрепления и поднятия слабых десен и защиты чувствительных зубов.
+- Активный компонент – нитрат калия – предотвращает передачу раздражений и болевые ощущения чувствительных зубов.
+- Витамин Е - ускоряет кровообращение, активизирует дёсны.
+- Противовоспалительное вещество высокого проникновения (транексамовая кислота) снимает отек, заживляет, предотвращает кровоточивость.
+- Дезинфицирующий компонент IPMP - проникает в заднюю часть зубодесенного (пародонтального) кармана и убивает бактерии, вызывающие пародонтит, способствует поднятию десен и закрытию пространств между тканью десны и зубом.
+Паста с усиленной формулой компонентов позволяет комплексно предотвратить заболевания пародонта благодаря трём лечебным свойствам
+Не является лекарственным средством.</description>
 				<vendor>Lion</vendor>
 				<country_of_origin>Япония</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">325321</param>
+				<param name="Артикул">231073</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Личная гигиена"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">974</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>1090</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000278</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Зубные пасты</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ffdcabfa-4407-11e9-f498-9cdc71af0f48&amp;d6ee4028-b802-11e8-e18e-9cdc71af0f48&amp;9898c71c-42e6-11e8-e08a-9cdc71af0f48&amp;eb429420-4df9-11e8-ce9b-9cdc71af0f48&amp;1aff987e-dc10-4af0-bff3-86c57bfc8d07&amp;c4857ff0-8350-11e8-bb87-9cdc71af0f48&amp;f46360a9-9fa2-453d-ba42-f3a3d3921a48&amp;92ba31c8-860b-11e9-b99d-9cdc71af0f48&amp;7eac3b1e-29b4-4d7a-b974-a37fa93decdd&amp;464baf85-946a-40e2-b7ef-d1d5fe7681de&amp;ef9747c8-68b7-467a-b740-fa4a32582de9&amp;973a01e9-074b-4bfd-b70c-c8cbc6f6e12f&amp;45bc990f-7a92-435d-b695-c5ac11260341&amp;cc591326-fe04-4c57-b57c-e209fea1155e&amp;117d8765-5322-40ec-b421-dbd96a7cb213&amp;ab2efb61-6939-4fac-b1c0-606b226f1707&amp;b41885f6-7225-49ac-b0f9-21553cc02b90&amp;033c3295-636a-47a9-b077-f40c03ffc779&amp;3025d8c5-f69f-4403-aeb4-6ab77949d892&amp;d4007ea7-e479-4aa9-ad18-e22e94081d66&amp;d2235f9c-9392-45c1-ac6d-194f475fb6e0&amp;56efc3a4-19fc-4051-ac5f-fc22a7f7d8cb&amp;0ad3d4b6-ca52-456c-ac30-3484a3678917&amp;51f1322c-42b3-4f39-ac02-47d705053c2c&amp;79f7c8e7-d803-11df-a86d-00241d24624d&amp;79f7c8a7-d803-11df-a86d-00241d24624d&amp;79f7c8a3-d803-11df-a86d-00241d24624d</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="product_id_n">0000000000000000000062927438</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
+			</offer>
+			<offer id="0000000000000000000007096387" group_id="0000000000000000000007096387">
+				<name>259312 Зубная паста отбеливающая с мятно-цитрусовым вкусом LION "Nonio", 130 г.</name>
+				<description>Зубная паста разработана для тройной защиты от неприятного запаха (за счет: тщательного удаления налета, подавления роста бактерий, освежающих компонентов длительного действия) и комплексного ухода за полостью рта (эффективное очищение полости рта, предотвращение появления и развития кариеса, отбеливание зубов).
+С ароматом лимона, апельсина, грейпфрута, перечной мяты и нотами специй.
+</description>
+				<vendor>Lion</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">259312</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
@@ -573,7 +491,7 @@
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">9204</param>
+				<param name="КодДляПоиска">11122890</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -591,14 +509,14 @@
 				<param name="ТипНоменклатуры">Товар</param>
 				<param name="ТоварнаяКатегория">Гигиена</param>
 				<param name="ЦеноваяГруппа"/>
-				<price>650</price>
+				<price>690</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00000278</categoryId>
+				<categoryId>УТ-00000277</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Зубные пасты</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ffdcabfa-4407-11e9-f498-9cdc71af0f48&amp;d6ee4028-b802-11e8-e18e-9cdc71af0f48&amp;9898c71c-42e6-11e8-e08a-9cdc71af0f48&amp;eb429420-4df9-11e8-ce9b-9cdc71af0f48&amp;1aff987e-dc10-4af0-bff3-86c57bfc8d07&amp;c4857ff0-8350-11e8-bb87-9cdc71af0f48&amp;f46360a9-9fa2-453d-ba42-f3a3d3921a48&amp;92ba31c8-860b-11e9-b99d-9cdc71af0f48&amp;d3a5da2c-43c9-11e9-b992-9cdc71af0f48&amp;7eac3b1e-29b4-4d7a-b974-a37fa93decdd&amp;464baf85-946a-40e2-b7ef-d1d5fe7681de&amp;ef9747c8-68b7-467a-b740-fa4a32582de9&amp;973a01e9-074b-4bfd-b70c-c8cbc6f6e12f&amp;45bc990f-7a92-435d-b695-c5ac11260341&amp;cc591326-fe04-4c57-b57c-e209fea1155e&amp;ab2efb61-6939-4fac-b1c0-606b226f1707&amp;b41885f6-7225-49ac-b0f9-21553cc02b90&amp;033c3295-636a-47a9-b077-f40c03ffc779&amp;3025d8c5-f69f-4403-aeb4-6ab77949d892&amp;d4007ea7-e479-4aa9-ad18-e22e94081d66&amp;d2235f9c-9392-45c1-ac6d-194f475fb6e0&amp;56efc3a4-19fc-4051-ac5f-fc22a7f7d8cb&amp;0ad3d4b6-ca52-456c-ac30-3484a3678917&amp;51f1322c-42b3-4f39-ac02-47d705053c2c&amp;79f7c8e7-d803-11df-a86d-00241d24624d&amp;79f7c8a7-d803-11df-a86d-00241d24624d&amp;79f7c8a3-d803-11df-a86d-00241d24624d</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ffdcabfa-4407-11e9-f498-9cdc71af0f48&amp;d6ee4028-b802-11e8-e18e-9cdc71af0f48&amp;9898c71c-42e6-11e8-e08a-9cdc71af0f48&amp;eb429420-4df9-11e8-ce9b-9cdc71af0f48&amp;c4857ff0-8350-11e8-bb87-9cdc71af0f48&amp;f46360a9-9fa2-453d-ba42-f3a3d3921a48&amp;92ba31c8-860b-11e9-b99d-9cdc71af0f48&amp;d3a5da2c-43c9-11e9-b992-9cdc71af0f48&amp;7eac3b1e-29b4-4d7a-b974-a37fa93decdd&amp;464baf85-946a-40e2-b7ef-d1d5fe7681de&amp;ef9747c8-68b7-467a-b740-fa4a32582de9&amp;973a01e9-074b-4bfd-b70c-c8cbc6f6e12f&amp;45bc990f-7a92-435d-b695-c5ac11260341&amp;cc591326-fe04-4c57-b57c-e209fea1155e&amp;117d8765-5322-40ec-b421-dbd96a7cb213&amp;ab2efb61-6939-4fac-b1c0-606b226f1707&amp;b41885f6-7225-49ac-b0f9-21553cc02b90&amp;033c3295-636a-47a9-b077-f40c03ffc779&amp;3025d8c5-f69f-4403-aeb4-6ab77949d892&amp;d4007ea7-e479-4aa9-ad18-e22e94081d66&amp;d2235f9c-9392-45c1-ac6d-194f475fb6e0&amp;56efc3a4-19fc-4051-ac5f-fc22a7f7d8cb&amp;0ad3d4b6-ca52-456c-ac30-3484a3678917&amp;51f1322c-42b3-4f39-ac02-47d705053c2c&amp;79f7c8e7-d803-11df-a86d-00241d24624d&amp;79f7c8a7-d803-11df-a86d-00241d24624d&amp;79f7c8a3-d803-11df-a86d-00241d24624d</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
@@ -607,7 +525,7 @@
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
-				<param name="product_id_n">0000000000000000000032838857</param>
+				<param name="product_id_n">0000000000000000000007096387</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -616,26 +534,29 @@
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>7</quantity>
+				<quantity>0</quantity>
 			</offer>
-			<offer id="0000000000000000000000693429" group_id="0000000000000000000000693429">
-				<name>301021 MARUSAN Smoth Type Cotton Косметические ватные подушечки с укреплёнными краями, 80 шт.</name>
-				<description>Selena "Smoth Type Cotton" Ватные паффы с укрупненными краями, 80шт.
-Ватные паффы Cotton Labo "Smooth type cotton" предназначены для удаления макияжа, снятия лака с ногтей, а также для удобного нанесения косметических средств. Размер 50 х 75мм
-Подушечка прекрасно сохраняет форму за счет скругленных запечатанных краев.
-Не оставляет волокон на коже.
-Состав: 100% хлопок.</description>
-				<vendor>MARUSAN</vendor>
+			<offer id="0000000000000000000523278238" group_id="0000000000000000000523278238">
+				<name>268925 Антибактериальная зубная паста для профилактики пародонтоза с мятно-травяным ароматом</name>
+				<description>Зубная паста обеспечивает тройную защиту от заболеваний полости рта.
+Бактерицидный компонент IPMP подавляет развитие бактерий и в сочетании с PG альгинатом создают антимикробный барьер, препятствующий попаданию микроорганизмов в зубодесневой карман.
+Лечебный ингредиент ε-ACA обладает выраженным противовоспалительным эффектом.
+Комплекс мягких ПАВ размягчает зубной налет, благодаря чему он легко очищается.
+Фтор в высокой концентрации благотворно влияет на зубную эмаль, восстанавливает ее структуру и способствует закреплению кальция.
+Ментол и мята надолго освежают дыхание.
+Способ применения: нанесите количество пасты размером с горошину на зубную щётку.
+Не надавливая, чистите зубы не менее трех минут, последовательно обрабатывая наружные, жевательные и внутренние поверхности всех зубов.</description>
+				<vendor>Lion</vendor>
 				<country_of_origin>Япония</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">301021</param>
+				<param name="Артикул">268925</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
 				<param name="ВесИспользовать">Нет</param>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
 				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ВидНоменклатуры">Косметика "Личная гигиена"</param>
 				<param name="ДлинаЕдиницаИзмерения"/>
 				<param name="ДлинаЗнаменатель">0</param>
 				<param name="ДлинаИспользовать">Нет</param>
@@ -648,7 +569,7 @@
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">4273</param>
+				<param name="КодДляПоиска">547</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -666,25 +587,21 @@
 				<param name="ТипНоменклатуры">Товар</param>
 				<param name="ТоварнаяКатегория"/>
 				<param name="ЦеноваяГруппа"/>
-				<price>450</price>
+				<price>750</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ000012691</categoryId>
+				<categoryId>УТ-00000278</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">MARUSAN</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Прочие средства ухода</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">5834623e-8429-4cea-bfc2-c36a64363025&amp;f62916af-6604-4c85-be77-3affbd19e5ed&amp;5f2f1083-7245-4749-be4b-fbefa3cad592&amp;7cf92d27-810a-4104-bd2f-5356b50b6e03&amp;3bbc3dd5-a0fa-4210-bc4c-e43b358fcc4e&amp;788a4a25-af84-4d26-b9a9-3d8a94d326be&amp;ac29277c-aa96-43c4-b815-4cfb759b4a3e&amp;09fe1604-1af5-4cb3-b6ca-a0fbdddd1ea1&amp;812bba7c-12aa-4852-b59a-09346026fd85&amp;9e165281-06b8-4e8a-b2bc-a3ba93b694d7&amp;b827d16e-fe54-4d07-b227-6daa33ad1d21&amp;b96093bb-7531-43d4-b15e-adb43464d325&amp;10939afb-ec1c-4aef-b130-97484c97f01c&amp;88d5c03c-b04f-4a04-b048-976c67764784&amp;39ba87f9-22c8-4b72-af56-a04ee5140f32&amp;e71e56cb-e00a-4ae0-ac82-e47c3511d97c&amp;f618c14c-6c31-493f-a99a-2943017402d2&amp;65db9599-9ae1-4946-a953-1b1ad565e7d6&amp;995b6ff5-6588-407e-a764-3cac23383cfd&amp;c1a40f3c-6a91-474c-a65b-b008da9cc22c&amp;64badf45-f26c-460c-a5d7-2f89ea230bca&amp;dd818b11-80a1-4e44-a5cb-d5e85e874527&amp;069d43c1-13d3-4273-a4a7-0b6084626c79&amp;220d2e05-af6f-4614-a319-38a750fcce35&amp;f0af7b67-48a3-4e41-9ee8-197dc7a77ce3&amp;afb73142-3672-49ba-9e6b-3dcddf1a5cca&amp;715656b3-e1fb-4e13-9bb5-667d498c3bb6</param>
-				<param name="product_id_n">0000000000000000000000693429</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">SAN</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Moruson</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Марусан</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">MORUSAN</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Marusan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">MARU SAN</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Мэрусэн</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">marusan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">MARUSAN</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">7f97dc7e-6962-11e8-109c-9cdc71af0f48&amp;22514ceb-02b5-49de-867a-8a8fcc65b50c&amp;7b322ce8-9fd7-41d8-86e3-1d3d2a73c726&amp;3788bfda-e436-41c4-8742-5c4eae8a005c&amp;b898e348-5644-4931-87b4-a4058aefedcb&amp;a2ca4989-062e-44e4-896e-881060c8b843&amp;b607557c-6890-4716-8988-04df869a7c82&amp;dd4494e4-5f7e-11e9-899b-9cdc71af0f48&amp;dfc5c3a0-5f7e-11e9-899b-9cdc71af0f48&amp;e13a6b78-5f7e-11e9-899b-9cdc71af0f48&amp;e3163f8a-5f7e-11e9-899b-9cdc71af0f48&amp;0fb88405-2857-47fc-8af4-6e73013eed61&amp;1f08b214-18d6-48a1-8c81-6ae7e7557dde&amp;820ff6c5-8173-431f-8e7c-451c9b651d20&amp;d8792478-e12a-11e9-8ec3-9cdc71af0f49&amp;53474b4b-0f60-11ea-8ec6-9cdc71af0f49&amp;ef94737d-a583-4ae6-934f-f9f2fd992246&amp;aa710491-fd71-4bdc-93a7-fe12900c2c87&amp;770bb8ee-11f0-4d43-95e1-1f4e2e16f76d&amp;46411b99-9678-402f-97b3-9ac1626a3c89&amp;76deecec-6bcd-416a-99ab-f863003f24c0&amp;956d7f24-d978-4cf7-9b05-35fd4d23895c&amp;5cd8b10d-fd9f-4d40-9d10-e95274c0b2d3&amp;444f6263-d1c6-4958-9da1-f326bb7b2539&amp;526755f1-4a17-4bd2-9daf-0b14e751ea0f&amp;102fb41e-2866-4d82-a183-35e21cca5e61&amp;a52a4f9a-2d21-4af1-a3b6-32cbef16b794&amp;fdc85d07-aa6e-42b6-a6b3-e</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="product_id_n">0000000000000000000523278238</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -693,7 +610,163 @@
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>8</quantity>
+				<quantity>5</quantity>
+			</offer>
+			<offer id="0000000000000000000687496824" group_id="0000000000000000000687496824">
+				<name>386182 KAO Clear Clean Зубная паста с фтором для профилактики кариеса и гингивита, мята 120г</name>
+				<description>Лечебно-профилактическая зубная паста Clear Clean Double Plus Light Mint с микрогранулами и ксилитом прекрасно защищает зубы от кариеса.
+Предотвращает неприятный запах изо рта.
+Имеет легкий мятный вкус.
+Способ применения: нанесите 1 см пасты на зубную щётку.
+Не надавливая, чистите зубы не менее трех-пяти минут, последовательно обрабатывая наружные,жевательные и внутренние поверхности всех зубов.
+Используйте 2-3 раза в день.</description>
+				<vendor>Kao</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">386182(289476)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Личная гигиена"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2089</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>490</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000278</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">КAO</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Зубные пасты</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ffdcabfa-4407-11e9-f498-9cdc71af0f48&amp;d6ee4028-b802-11e8-e18e-9cdc71af0f48&amp;9898c71c-42e6-11e8-e08a-9cdc71af0f48&amp;eb429420-4df9-11e8-ce9b-9cdc71af0f48&amp;1aff987e-dc10-4af0-bff3-86c57bfc8d07&amp;c4857ff0-8350-11e8-bb87-9cdc71af0f48&amp;f46360a9-9fa2-453d-ba42-f3a3d3921a48&amp;92ba31c8-860b-11e9-b99d-9cdc71af0f48&amp;d3a5da2c-43c9-11e9-b992-9cdc71af0f48&amp;7eac3b1e-29b4-4d7a-b974-a37fa93decdd&amp;464baf85-946a-40e2-b7ef-d1d5fe7681de&amp;ef9747c8-68b7-467a-b740-fa4a32582de9&amp;973a01e9-074b-4bfd-b70c-c8cbc6f6e12f&amp;45bc990f-7a92-435d-b695-c5ac11260341&amp;cc591326-fe04-4c57-b57c-e209fea1155e&amp;117d8765-5322-40ec-b421-dbd96a7cb213&amp;ab2efb61-6939-4fac-b1c0-606b226f1707&amp;b41885f6-7225-49ac-b0f9-21553cc02b90&amp;033c3295-636a-47a9-b077-f40c03ffc779&amp;3025d8c5-f69f-4403-aeb4-6ab77949d892&amp;d4007ea7-e479-4aa9-ad18-e22e94081d66&amp;d2235f9c-9392-45c1-ac6d-194f475fb6e0&amp;56efc3a4-19fc-4051-ac5f-fc22a7f7d8cb&amp;0ad3d4b6-ca52-456c-ac30-3484a3678917&amp;51f1322c-42b3-4f39-ac02-47d705053c2c&amp;79f7c8e7-d803-11df-a86d-00241d24624d&amp;79f7c8a7-d803-11df-a86d-00241d24624d</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Biore</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Биоре</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КАО</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">као</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КАЩ</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kao</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КAO</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">као</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Biore,Биоре,КАО,као,КАЩ,kao,КAO,као</param>
+				<param name="product_id_n">0000000000000000000687496824</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>6</quantity>
+			</offer>
+			<offer id="0000000000000000091387815299" group_id="0000000000000000091387815299">
+				<name>386199 KAO Clear Clean Зубная паста с фтором для профилактики кариеса и гингивита (цитрус.вкус) 120г</name>
+				<description>Лечебно-профилактическая зубная Clear Clean Nexdent Extra Fresh от японской компании KAO является очень качественным универсальным средством для ухода за зубами и ротовой полостью.
+При этом паста эффективно борется с кариесом и бактериями, а также устраняет неприятный запах изо рта.
+Паста мягко, бережно, но при этом качественно очищает зубы от налета и зубного камня.
+Содержащиеся в ее составе микрогранулы легко растворяют зубной налет даже в межзубных промежутках, в которые не достают щетинки зубной щетки.
+А два лечебных компонента — соединение фтора и бактерицидное средство, распространяясь по всей ротовой полости,   предотвращают развитие гингивита и кариеса, борются с бактериями, устраняют любые воспалительные процессы и залечивают ранки, а также убирают неприятный запах.
+После чистки зубов с этой пастой во рту остается очень приятный свежий цитрусовый вкус. 
+</description>
+				<vendor>КAO</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">386199</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Личная гигиена"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2903</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>490</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000279</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">КAO</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Зубные пасты</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ffdcabfa-4407-11e9-f498-9cdc71af0f48&amp;d6ee4028-b802-11e8-e18e-9cdc71af0f48&amp;9898c71c-42e6-11e8-e08a-9cdc71af0f48&amp;eb429420-4df9-11e8-ce9b-9cdc71af0f48&amp;1aff987e-dc10-4af0-bff3-86c57bfc8d07&amp;c4857ff0-8350-11e8-bb87-9cdc71af0f48&amp;f46360a9-9fa2-453d-ba42-f3a3d3921a48&amp;92ba31c8-860b-11e9-b99d-9cdc71af0f48&amp;d3a5da2c-43c9-11e9-b992-9cdc71af0f48&amp;7eac3b1e-29b4-4d7a-b974-a37fa93decdd&amp;464baf85-946a-40e2-b7ef-d1d5fe7681de&amp;ef9747c8-68b7-467a-b740-fa4a32582de9&amp;973a01e9-074b-4bfd-b70c-c8cbc6f6e12f&amp;45bc990f-7a92-435d-b695-c5ac11260341&amp;cc591326-fe04-4c57-b57c-e209fea1155e&amp;117d8765-5322-40ec-b421-dbd96a7cb213&amp;ab2efb61-6939-4fac-b1c0-606b226f1707&amp;b41885f6-7225-49ac-b0f9-21553cc02b90&amp;033c3295-636a-47a9-b077-f40c03ffc779&amp;3025d8c5-f69f-4403-aeb4-6ab77949d892&amp;d4007ea7-e479-4aa9-ad18-e22e94081d66&amp;d2235f9c-9392-45c1-ac6d-194f475fb6e0&amp;56efc3a4-19fc-4051-ac5f-fc22a7f7d8cb&amp;0ad3d4b6-ca52-456c-ac30-3484a3678917&amp;51f1322c-42b3-4f39-ac02-47d705053c2c&amp;79f7c8e7-d803-11df-a86d-00241d24624d&amp;79f7c8a7-d803-11df-a86d-00241d24624d</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kao</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">као</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КAO</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КАЩ</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КАО</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Биоре</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Biore</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">као</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000091387815299</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>9</quantity>
 			</offer>
 		</offers>
 	</shop>
