@@ -5,12 +5,108 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
+			<category id="УТ-00000296">Himawari / Для объема</category>
 			<category id="УТ-00001670">Moist Diane</category>
-			<category id="УТ-00000890"> MEDIPAM </category>
-			<category id="УТ-00001026">Floland</category>
-			<category id="УТ000012711">La Miso / с красным женьшенем</category>
 		</categories>
 		<offers>
+			<offer id="0000000000000000064622847738" group_id="0000000000000000064622847738">
+				<name>700667 "Dear Beaute" Шампунь для придания объема поврежденным волосам МУ 360мл </name>
+				<description>Шампунь для придания объема поврежденным волосам EX Dear Beaute с растительным комплексом Himawari Premium предназначен для мягких и тонких волос, не имеющих прикорневого объема. После использования волосы становятся мягкими и упругими на корнях и гладкими на кончиках.
+Растительный комплекс Himawari Premium EX распознает повреждения, вызванные нарушением гидролипидного баланса во внешней и внутренней части волоса.
+Входящие в состав компоненты устраняют дисбаланс, возвращая волосам здоровье и гладкость. 
+За восстановление структуры волоса отвечают органическое подсолнечное масло, органический экстракт побегов подсолнуха, а также экстракты семян и цветков подсолнуха. 
+Экстракты стебля и листьев подсолнечника богаты хлорогеновой кислотой, которая укрепляет и повышает упругость волос от самых корней.
+В составе средства отсутствуют силиконы и не используются ПАВы сульфатного происхождения. 
+</description>
+				<vendor>Kracie</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">700667(700131)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11122853</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>1290</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000296</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">34d3cc10-56ac-11e9-fa91-9cdc71af0f48&amp;5b10205a-4874-11e8-ce86-9cdc71af0f48&amp;e97dba80-6157-4a60-bf7b-139d92149ce9&amp;072af527-c39d-46bf-bed6-773d4587d0f3&amp;066af284-e9c8-42d1-becb-bb92f79dbb14&amp;ca5f7de2-fa3d-4d80-bdf9-0c19e7fd0ed5&amp;b399ac70-5df9-40ba-bd7a-195834e402a2&amp;93ca427f-c15c-440c-bc8e-953423d5c804&amp;b79be753-7dd0-4bc0-bad4-b51f7f53faad&amp;55a9e904-8eb9-4119-baab-5376756a27c2&amp;bb00c32c-ebdd-11e8-b982-9cdc71af0f48&amp;b681564a-ebdd-11e8-b982-9cdc71af0f48&amp;39eaf40c-802a-11e8-b78a-9cdc71af0f48&amp;679c2660-19be-4322-b710-96fd4469c4e9&amp;4420083c-e0aa-4438-b65c-eeb0f7dd7f0c&amp;08dfaab6-6745-4924-b63b-cee55c7d882c&amp;bbcd1f4e-27ed-40b4-b5ac-ea8297676e27&amp;d1dab349-aa8e-46de-b4e5-35680df271d9&amp;60e85e04-9fd4-4ffe-b4c3-bfd79527b9ed&amp;e4efd78f-c244-4cbf-b44a-b29ff579d9c9&amp;078b21ba-5460-4ee0-b3e8-fe3a753e2a12&amp;8b38e639-be39-4650-b2c3-05a0b3ad446c&amp;1974de4a-24ce-415b-b1bd-af6499cfef28&amp;83f23ef6-4598-487e-b0b0-ff19d11efe0a&amp;f45ad842-9c1b-486c-ae3a-a66a9436da57&amp;ee936980-7402-4c91-adfc-236d9e32f5ae&amp;4a271d94-5ab3-416b-ad61-44110cec9f8a</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Himawari ,Ichikami,ichikami,Kracie,kracie,UMI NO URUOISO,uminouruoiso,исиками,итиками,ичиками,краси,красие,уми но уруоисо,уми русо,уминоурусо,хамавари,химавари,химикари,шимавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">шимавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">итиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">исиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">найв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ичиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">uminouruoiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">наиве</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красиа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химикари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми русо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Himawari </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">хамавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми но уруоисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уминоурусо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">UMI NO URUOISO</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">нейв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Naive</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">краси</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">умино рисо</param>
+				<param name="product_id_n">0000000000000000064622847738</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
+			</offer>
 			<offer id="0000000000000000000052459987" group_id="0000000000000000000052459987">
 				<name>224828 Бальзам-маска кератиновая Moist Diane Perfect Beauty, 450 мл</name>
 				<description>Действие бальзама:
@@ -81,7 +177,7 @@ Nano Repair Matrix - это комбинация Amino beauty-кератинов
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Бальзам/кондиционер</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">978285db-9b11-4993-a490-24aeb45a67f2&amp;2659d524-2ebe-4b18-a3bb-0b3c4cac1024&amp;38534250-ddab-11e8-a397-9cdc71af0f48&amp;364560b0-ddab-11e8-a397-9cdc71af0f48&amp;797321dd-3fbc-4a3a-a301-399a24784ba2&amp;450b77e2-6dde-44e8-a270-2e5804937522&amp;222598dc-90c1-4bc6-a161-1dfeb4bd48ba&amp;6bbd7e7d-4bee-455d-9fb0-2731f62bb962&amp;c77824a0-742a-4616-9f6f-3aaa185dbb07&amp;5459d243-6cf1-48d7-9d35-bbc9d74db227&amp;0b5bc4e7-b51d-4543-9cf6-70509d4a6066&amp;99e201dd-aa83-4094-9c54-22b995d49a00&amp;5d121770-afa9-47d3-9c45-9e86ba7e28aa&amp;d803fa8b-7c3b-4f28-9be5-83f984a7d9f8&amp;99eaba47-8433-46a4-9a2e-f3bd77f81149&amp;bcc5cc44-97d1-4373-98f7-3e8586182597&amp;65e567c3-be2e-4b75-97bb-f978062d59c3&amp;294523d6-ace4-4844-93be-75f6c49c935a&amp;d870fde5-bd64-4a9c-93ae-4c7493ed0fe1&amp;0cc06362-ce22-4979-9310-d0f30e62e0d9&amp;9f4282b9-11af-11e0-9084-00034732cbd1&amp;8f301845-0b8d-11ea-8ec5-9cdc71af0f49&amp;3c2ef013-2f36-4f86-8d9f-13a6c1e4c7a0&amp;f28c4c3f-8935-41e1-8cc9-999718a51820&amp;ef738bf0-3bf7-4bcb-8b87-3bfd9bb54773&amp;0d2cbaa1-69ae-4f61-8b40-025cbd330d55&amp;31504b22-dfbc-466d-8adb-4552afa7971d</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">3574d614-56ac-11e9-fa91-9cdc71af0f48&amp;eb078902-4df9-11e8-ce9b-9cdc71af0f48&amp;eaf24402-4df9-11e8-ce9b-9cdc71af0f48&amp;5afcb290-4874-11e8-ce86-9cdc71af0f48&amp;307798e8-74b6-4f15-bfca-aaec722fe404&amp;151e5600-8f00-4422-bfa1-5a065de69c4b&amp;c6e6a760-79c4-47f0-bede-05096838e23d&amp;fc4d5366-0b48-4218-ba4d-d4c12c5ba514&amp;b5d53d92-ebdd-11e8-b982-9cdc71af0f48&amp;50707d3c-949f-4e41-b7c4-a13c83ce3e12&amp;9ac2bd3f-abc7-4dd8-b793-2fe768875582&amp;a4f68766-1d3b-4239-b6b9-9c594383547d&amp;53a92956-4a4b-487e-b642-6d1f5c614603&amp;caeeeb23-c0b7-47d8-b366-ff357deaa4d9&amp;f5829bd2-ac55-43dc-b2d3-fce586fac143&amp;106b523a-0de4-4d7a-b245-850e3df0c1dc&amp;3fc133ac-e462-492a-b159-e47870cef53e&amp;aef52302-eb44-4499-b100-242c4fb59735&amp;1ba37d21-950d-45bc-af74-839aef8863a2&amp;627d28cb-8ad9-4315-ae63-92774e402dcd&amp;f7939c30-6534-4426-ad91-6d336eb6ecb0&amp;506cf520-41ea-4f86-acb0-1485a4e2186f&amp;ffcff6c1-7dba-47d2-ab4a-841e0e491cc9&amp;05bdd085-1ddb-4405-aaee-886dc086d3b7&amp;e88e1b26-7aa1-48f5-aa8c-9e5666b73fd5&amp;f0e4255b-4ef6-40df-aa80-749ca3476e8e&amp;30dfad40-95f2-4b15-a9d4-e8c08af119e7</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Diane,Moist Diane,Диана</param>
 				<param name="product_id_n">0000000000000000000052459987</param>
 				<param name="Принципал"/>
@@ -92,170 +188,19 @@ Nano Repair Matrix - это комбинация Amino beauty-кератинов
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>4</quantity>
-			</offer>
-			<offer id="0000000000000000218080880676" group_id="0000000000000000218080880676">
-				<name>046394 MEDIPAM Укрепляющий шампунь от выпадения волос Medipam Clinic System Scalp-B Shampoo 500мл</name>
-				<description>Функциональный шампунь для бережного очищения волос, восстановления структуры и укрепления корней.
-Придает упругость и объем от самых корней.
-Шампунь имеет сбалансированную формулу, которая направлена на борьбу с выпадением волос.
-Проверено дерматологами. Подходит для ежедневного применения.
-Без минеральных масел и без силиконов.</description>
-				<vendor>Medipam</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">046394</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">4132</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>1590</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00000890</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Medipam</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Против выпадения / перхоти</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Очищение</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">629125d8-dacc-4ff4-881a-bde80428053b&amp;dd2b1aa5-d22f-4314-81ce-71860433a257&amp;c5cc124a-2a07-4a9c-800b-8a9fe7f67b11&amp;16fc8785-3424-48ce-bdbc-fa0133f6aa57&amp;2c56d24a-b9c1-4393-bb06-7a24edbf4784&amp;3d5a8868-ead3-4942-b867-669c005bcb7e&amp;8b3658d6-8d56-406b-b062-b97ec9ffb52d&amp;8f6f9eaa-b146-440c-add3-233d765949b3&amp;14e58a07-78b4-4d9a-a9b7-4bc0dc7c5ec5&amp;e59f6ae0-d81e-42c5-a589-caed4f24defb&amp;31708032-d5c7-4602-a537-96ad5dadfe35&amp;24fb9e5f-c546-44cc-a3b1-ea0e1af17f95&amp;6c97e386-3da9-40fe-a16d-0c5d845b8ba5&amp;54d1f086-4798-4223-91f9-4c5c5df8bae3&amp;8d5e6324-c8d8-11e9-8ec2-9cdc71af0f49</param>
-				<param name="product_id_n">0000000000000000218080880676</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
 				<quantity>3</quantity>
 			</offer>
-			<offer id="0000000000000000000002788833" group_id="0000000000000000000002788833">
-				<name>710271 Шампунь восстанавливающий с кератином Floland Premium Silk Keratin Shampoo (150 мл)</name>
-				<description>Восстанавливающий шампунь с кератином обеспечивает профессиональный уход за волосами в домашних условиях и выполняет 4 действия: очищает кожу головы и волосы от загрязнений; питает и укрепляет корни волос; повышает эластичность локонов; покрывает каждый волосок защитной пленкой, которая уменьшает ломкость.
-Шампунь имеет слабощелочной pH - 5,5.
-Благодаря этому средство не иссушает и не ослабляет волосы.
-Напротив, помогает восстановить их, сделать красивыми и здоровыми.
-Комплекс протеинов оказывают увлажняющее и укрепляющее действие.
-Комплекс аминокислот питает волосы и защищает от пагубного воздействия внешней среды.
-Комплекс масел оказывает смягчающее и восстанавливающее действие.
-Запатентованный комплекс HP-DCC направлен на комплексное оздоровление волос.
-Как использовать:
-Нанесите шампунь на влажные волосы, мягко помассируйте кожу головы, смойте водой.
-Подходит для ежедневного использования.</description>
-				<vendor>Floland</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
+			<offer id="0000000000000000798099919779" group_id="0000000000000000798099919779">
+				<name>224736 Moist Diane Perfect Beauty Шампунь кератиновый Свежесть 450 мл</name>
+				<description>Шампунь «Кератиновая Свежесть» Moist Diane Extra Fresh &amp; Hydrate обладает высокими очищающими свойствами.
+Кератины восстанавливают поврежденные участки, восполняют структуру волос.
+Масло арганы дарит увлажнение и питание, смягчает пряди. Extra Fresh &amp; Hydrate делает локоны гладкими, блестящими, послушными. Не все нано-частицы продукта от Moist Diane впитываются.
+Часть остается на поверхности и активируется во время воздействия феном для лучшей защиты локонов.
+Кератиновый шампунь подходит для жирных волос, обеспечивает длительное ощущение свежести.</description>
+				<vendor>Moist Diane</vendor>
+				<country_of_origin>Япония</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">710271</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">2974</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>690</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001026</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Floland</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">16fc8785-3424-48ce-bdbc-fa0133f6aa57&amp;d7f93433-b904-4a3f-bc44-48de9ca9ddb2&amp;2c56d24a-b9c1-4393-bb06-7a24edbf4784&amp;fa64501b-b108-4eb4-ba7c-561eef9455d7&amp;0c074cc1-ae5f-4b90-b89d-a16491e5f930&amp;3d5a8868-ead3-4942-b867-669c005bcb7e&amp;82c40f10-c4d7-4207-b84f-cccbc51340ab&amp;7a077b5b-c66b-4508-b813-c8cf2e4c1cbb&amp;1f1294fe-859f-4020-b62c-e3c1f83fa4da&amp;6f927b11-7275-4dde-b55c-15f2ea3bbeba&amp;287da6eb-0010-49b0-b179-04c07d04efa6&amp;8b3658d6-8d56-406b-b062-b97ec9ffb52d&amp;9ca86ab3-31f4-48cc-af31-08c18648823f&amp;8f6f9eaa-b146-440c-add3-233d765949b3&amp;14e58a07-78b4-4d9a-a9b7-4bc0dc7c5ec5&amp;b5308ad4-3987-4d65-a797-e21e26287519&amp;5ba2830f-2180-4011-a6a0-0691e9f75b06&amp;af6fb675-29e2-4435-a670-c1c7b0e11ea1&amp;e59f6ae0-d81e-42c5-a589-caed4f24defb&amp;31708032-d5c7-4602-a537-96ad5dadfe35&amp;24fb9e5f-c546-44cc-a3b1-ea0e1af17f95&amp;6c97e386-3da9-40fe-a16d-0c5d845b8ba5&amp;b9406fbd-525f-4f17-a066-f5c03448fe4f&amp;64f411bb-ad7f-489f-9e03-0d89b35c767b&amp;013e2221-702b-45cc-9c5e-9efa437c74ba&amp;c3b2cbb7-df2a-4069-99f2-4826a956ac14&amp;9b7dc810-ac42-4361-99ec-b1db18823742</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">floland</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">флоланд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фоланд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Floland</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="product_id_n">0000000000000000000002788833</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>6</quantity>
-			</offer>
-			<offer id="0000000000000000000681881318" group_id="0000000000000000000681881318">
-				<name>720166 La Miso Тоник против выпадения волос с экстрактом красного женьшеня 145мл</name>
-				<description>Тоник с красным женьшенем – высокоэффективное средство по уходу за волосами, позволяет решить проблему их ломкости и выпадения. 
-Кроме того, прекрасно освежает кожу головы, успокаиваети зуд и раздражения, регулирует работу сальных желез, благодаря чему волосы меньше жирнятся и дольше сохраняют свежий и ухоженный вид. 
-Экстракт корня красного корейского женьшеня насыщает кожу головы и волосы витаминами группы B, сапонинами, гликозидами, флавоноидам, энзимами, антиоксидантами, органическими кислотами и аминокислотами. 
-Благодаря своему уникальному химическому составу оказывает увлажняющее и питательное действие, повышает кожный иммунитет, тем самым препятствует выпадению волос и стимулирует рост, продлевает их жизненный цикл. 
-Также в составе тоника еще целый комплекс растительных экстрактов, которые усиливают благотворное влияние средства. 
-При регулярном применении тоника волосы станут сильными, упругими, блестящими, шелковистыми.
-</description>
-				<vendor>La Miso</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">720166</param>
+				<param name="Артикул">224736</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
@@ -269,13 +214,13 @@ Nano Repair Matrix - это комбинация Amino beauty-кератинов
 				<param name="ДлинаЧислитель">0</param>
 				<param name="ЕдиницаИзмерения">шт</param>
 				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
+				<param name="Качество"/>
 				<param name="КиЗГИСМ">Нет</param>
 				<param name="КиЗГИСМGTIN"/>
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11121597</param>
+				<param name="КодДляПоиска">2538</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -291,28 +236,18 @@ Nano Repair Matrix - это комбинация Amino beauty-кератинов
 				<param name="СрокГодности">0</param>
 				<param name="СтавкаНДС">Без НДС</param>
 				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для волос</param>
-				<param name="ЦеноваяГруппа"/>
-				<price>1650</price>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа">Moist Diane</param>
+				<price>1590</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ000012711</categoryId>
+				<categoryId>УТ-00001670</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">La Miso</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Тоник для волос</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">8ac182b5-4b11-488c-8f6f-3fea12b58a77&amp;e4dff8e6-90df-4315-b06e-0b97edfee329&amp;55a9e904-8eb9-4119-baab-5376756a27c2</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">La Miso,la miso,LaMiso,lamiso,mis,ла мисо,ламисо,мисо</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">LaMiso</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ла мисо</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">La Miso</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Gahwa</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ламисо</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">гахва</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lamiso</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">мисо</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">la miso</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">mis</param>
-				<param name="product_id_n">0000000000000000000681881318</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">34d3cc10-56ac-11e9-fa91-9cdc71af0f48&amp;5b10205a-4874-11e8-ce86-9cdc71af0f48&amp;072af527-c39d-46bf-bed6-773d4587d0f3&amp;066af284-e9c8-42d1-becb-bb92f79dbb14&amp;ca5f7de2-fa3d-4d80-bdf9-0c19e7fd0ed5&amp;b399ac70-5df9-40ba-bd7a-195834e402a2&amp;93ca427f-c15c-440c-bc8e-953423d5c804&amp;b79be753-7dd0-4bc0-bad4-b51f7f53faad&amp;55a9e904-8eb9-4119-baab-5376756a27c2&amp;bb00c32c-ebdd-11e8-b982-9cdc71af0f48&amp;b681564a-ebdd-11e8-b982-9cdc71af0f48&amp;39eaf40c-802a-11e8-b78a-9cdc71af0f48&amp;679c2660-19be-4322-b710-96fd4469c4e9&amp;4420083c-e0aa-4438-b65c-eeb0f7dd7f0c&amp;08dfaab6-6745-4924-b63b-cee55c7d882c&amp;bbcd1f4e-27ed-40b4-b5ac-ea8297676e27&amp;d1dab349-aa8e-46de-b4e5-35680df271d9&amp;60e85e04-9fd4-4ffe-b4c3-bfd79527b9ed&amp;e4efd78f-c244-4cbf-b44a-b29ff579d9c9&amp;c4b1a421-6191-4308-b3f2-2e53f87f0fa8&amp;078b21ba-5460-4ee0-b3e8-fe3a753e2a12&amp;8b38e639-be39-4650-b2c3-05a0b3ad446c&amp;1974de4a-24ce-415b-b1bd-af6499cfef28&amp;83f23ef6-4598-487e-b0b0-ff19d11efe0a&amp;f45ad842-9c1b-486c-ae3a-a66a9436da57&amp;ee936980-7402-4c91-adfc-236d9e32f5ae&amp;4a271d94-5ab3-416b-ad61-44110cec9f8a</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane,Diane,Диана</param>
+				<param name="product_id_n">0000000000000000798099919779</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -321,7 +256,7 @@ Nano Repair Matrix - это комбинация Amino beauty-кератинов
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>0</quantity>
+				<quantity>3</quantity>
 			</offer>
 		</offers>
 	</shop>
