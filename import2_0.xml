@@ -5,27 +5,32 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
-			<category id="УТ-00001875">DAENG GI MEO RI </category>
+			<category id="УТ-00000297">Himawari/Для поврежденных</category>
+			<category id="УТ000012429">Umi No Uruoi Sou</category>
+			<category id="УТ000009652">WELCOS</category>
 		</categories>
 		<offers>
-			<offer id="0000000000000000000146951605" group_id="0000000000000000000146951605">
-				<name>080033 ДГМ Ki Gold Шампунь Ki Gold Premium Shampoo, 500 мл</name>
-				<description>Daeng Gi Meo Ri Ki Gold Premium Шампунь оживляет сухие, тусклые, ломкие и ослабленные волосы, вдыхая в них новую жизнь, предотвращая выпадение, питая корни и луковицы на клеточном уровне, улучшает структуру волос, оживляет цвет.
-Представляет собой один из лучших продуктов эксклюзивной линии косметических средств Daeng Gi Meo Ri, которые созданы для ежедневного ухода и укрепления корней волос. Шампунь бережно очищает волосы и кожу головы, оказывает стойкий омолаживающий эффект. В основе средства лежит уникальная формула отвара целебных трав.
-
-Интенсивное применение шампуня активизирует процессы регенерации. Благодаря этому волосы быстрее и эффективнее восстанавливаются, набираются силы, энергии, приобретают шелковистость и упругость.
-Состав: хризантема, корейский женьшень, ремания клейкая, жгун-корень, софора желтая, аир тростниковый, экстракт листьев зеленого чая, ментол, пантенол.</description>
-				<vendor>Daeng Gi Meo Ri</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
+			<offer id="0000000000000000000222733138" group_id="0000000000000000000222733138">
+				<name>700728 Dear Beaut Шампунь для восстановления блеска поврежденных волос Himawari OilPremiumEX,360 МУ</name>
+				<description>С давних времен на всех континентах для поддержания молодости и здоровья волос и кожи головы люди использовали растительные масла, в том числе – масло подсолнечника.
+В состав растительного масла подсолнечника входит целый комплекс полезных для здоровья минералов и витаминов.
+Оно богато жирными полиненасыщенными кислотами (витамином F) и жирорастворимым витамином Е.
+По содержанию витамина Е подсолнечное масло превосходит оливковое в 12 раз!
+Шампунь имеет улучшенную формулу контроля искривления волос при высокой влажности, что особенно актуально осенью и во время дождей.
+Благодаря меду и маслам в составе средств, сохраняется здоровый гидролипидный баланс волос.
+Поэтому при любой погоде волосы остаются прямыми и ровными.
+Все средства серии Dear Beauté Himawari не содержат ПАВов сульфатного происхождения, а из их состава исключен силикон.</description>
+				<vendor>Kracie</vendor>
+				<country_of_origin>Япония</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">080033</param>
+				<param name="Артикул">700728(700568)</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
 				<param name="ВесИспользовать">Нет</param>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
 				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
 				<param name="ДлинаЕдиницаИзмерения"/>
 				<param name="ДлинаЗнаменатель">0</param>
 				<param name="ДлинаИспользовать">Нет</param>
@@ -38,7 +43,7 @@
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">3834</param>
+				<param name="КодДляПоиска">515</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -56,232 +61,53 @@
 				<param name="ТипНоменклатуры">Товар</param>
 				<param name="ТоварнаяКатегория"/>
 				<param name="ЦеноваяГруппа"/>
-				<price>1590</price>
+				<price>1350</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001875</categoryId>
+				<categoryId>УТ-00000297</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Daeng Gi Meo Ri</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">16fc8785-3424-48ce-bdbc-fa0133f6aa57&amp;d7f93433-b904-4a3f-bc44-48de9ca9ddb2&amp;2c56d24a-b9c1-4393-bb06-7a24edbf4784&amp;fa64501b-b108-4eb4-ba7c-561eef9455d7&amp;0c074cc1-ae5f-4b90-b89d-a16491e5f930&amp;82c40f10-c4d7-4207-b84f-cccbc51340ab&amp;7a077b5b-c66b-4508-b813-c8cf2e4c1cbb&amp;1f1294fe-859f-4020-b62c-e3c1f83fa4da&amp;6f927b11-7275-4dde-b55c-15f2ea3bbeba&amp;287da6eb-0010-49b0-b179-04c07d04efa6&amp;8b3658d6-8d56-406b-b062-b97ec9ffb52d&amp;9ca86ab3-31f4-48cc-af31-08c18648823f&amp;8f6f9eaa-b146-440c-add3-233d765949b3&amp;14e58a07-78b4-4d9a-a9b7-4bc0dc7c5ec5&amp;b5308ad4-3987-4d65-a797-e21e26287519&amp;5ba2830f-2180-4011-a6a0-0691e9f75b06&amp;af6fb675-29e2-4435-a670-c1c7b0e11ea1&amp;e59f6ae0-d81e-42c5-a589-caed4f24defb&amp;31708032-d5c7-4602-a537-96ad5dadfe35&amp;24fb9e5f-c546-44cc-a3b1-ea0e1af17f95&amp;6c97e386-3da9-40fe-a16d-0c5d845b8ba5&amp;aef309ac-44e5-4e0f-a0a2-a68bb0d6ed7b&amp;b9406fbd-525f-4f17-a066-f5c03448fe4f&amp;64f411bb-ad7f-489f-9e03-0d89b35c767b&amp;013e2221-702b-45cc-9c5e-9efa437c74ba&amp;c3b2cbb7-df2a-4069-99f2-4826a956ac14&amp;9b7dc810-ac42-4361-99ec-b1db18823742</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">daeng gi meo ri</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">DAENG GI MEO RI</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">деанжи мори</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="product_id_n">0000000000000000000146951605</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>0</quantity>
-			</offer>
-			<offer id="0000000000000000000004686375" group_id="0000000000000000000004686375">
-				<name>085557 ДГМ Ki Gold Шампунь для волос Energizing Shampoo, 500мл</name>
-				<description>Шампунь предназначен для волос любого типа, которые нуждаются в бережном натуральном уходе и оздоровлении. Шампунь мягко очищает волосы и кожу головы, тонизирует, укрепляет корни, препятствует выпадению волос, предотвращает зуд и появление перхоти, защищает волосы и делает их эластичными, гладкими и шелковистыми. Средство бережно очищает кожу головы и укрепляет корни волос. Благодаря содержанию экстрактов лечебных растений,в том числе жень-шеня ,шампунь борется с перхотью и зудом головы,контролирует секрецию сальных желез. Не содержит красителей.
-
-Уникальная косметическая продукция Тенги Мори производится на основе экстрактов восточных лечебных трав по технологии, основанной на народных рецептах изготовления косметики в Корее.</description>
-				<vendor>Daeng Gi Meo Ri</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">085557</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">3955</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>1690</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001875</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Daeng Gi Meo Ri</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">16fc8785-3424-48ce-bdbc-fa0133f6aa57&amp;d7f93433-b904-4a3f-bc44-48de9ca9ddb2&amp;2c56d24a-b9c1-4393-bb06-7a24edbf4784&amp;fa64501b-b108-4eb4-ba7c-561eef9455d7&amp;0c074cc1-ae5f-4b90-b89d-a16491e5f930&amp;3d5a8868-ead3-4942-b867-669c005bcb7e&amp;82c40f10-c4d7-4207-b84f-cccbc51340ab&amp;7a077b5b-c66b-4508-b813-c8cf2e4c1cbb&amp;1f1294fe-859f-4020-b62c-e3c1f83fa4da&amp;6f927b11-7275-4dde-b55c-15f2ea3bbeba&amp;287da6eb-0010-49b0-b179-04c07d04efa6&amp;8b3658d6-8d56-406b-b062-b97ec9ffb52d&amp;9ca86ab3-31f4-48cc-af31-08c18648823f&amp;14e58a07-78b4-4d9a-a9b7-4bc0dc7c5ec5&amp;b5308ad4-3987-4d65-a797-e21e26287519&amp;5ba2830f-2180-4011-a6a0-0691e9f75b06&amp;af6fb675-29e2-4435-a670-c1c7b0e11ea1&amp;e59f6ae0-d81e-42c5-a589-caed4f24defb&amp;31708032-d5c7-4602-a537-96ad5dadfe35&amp;24fb9e5f-c546-44cc-a3b1-ea0e1af17f95&amp;6c97e386-3da9-40fe-a16d-0c5d845b8ba5&amp;aef309ac-44e5-4e0f-a0a2-a68bb0d6ed7b&amp;b9406fbd-525f-4f17-a066-f5c03448fe4f&amp;64f411bb-ad7f-489f-9e03-0d89b35c767b&amp;013e2221-702b-45cc-9c5e-9efa437c74ba&amp;c3b2cbb7-df2a-4069-99f2-4826a956ac14&amp;9b7dc810-ac42-4361-99ec-b1db18823742</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">DAENG GI MEO RI</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">daeng gi meo ri</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">деанжи мори</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="product_id_n">0000000000000000000004686375</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>0</quantity>
-			</offer>
-			<offer id="0000000000000000000005059375" group_id="0000000000000000000005059375">
-				<name>094252 ДГМ Шампунь для жирных волос с кофеином Hair Loss Care Caffein Shampoo For Oily Hair, 400 мл</name>
-				<description>Шампунь с кофеином для жирной кожи головы со свежим запахом морской воды и океана.
-Шампунь глубоко очищает кожу головы, освежает и охлаждает.
-Содержит экстракт лечебных трав для улучшения кровообращения и антибактериальной функции.
-Экстракты  женьшеня, ниацинамид, декспантенол и салициловая кислота стимулируют рост волос и регулируют производство кожного сала. 
-Предотвращает появление седых волос.
-Способ применения: Смочите волосы и кожу головы теплой водой и массируйте их, чтобы образовалась густая пена. Тщательно промыть водой.
-Объем: 400мл</description>
-				<vendor>Daeng Gi Meo Ri</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">094252</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">4189</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>1690</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001875</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Daeng Gi Meo Ri</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">16fc8785-3424-48ce-bdbc-fa0133f6aa57&amp;d7f93433-b904-4a3f-bc44-48de9ca9ddb2&amp;2c56d24a-b9c1-4393-bb06-7a24edbf4784&amp;fa64501b-b108-4eb4-ba7c-561eef9455d7&amp;0c074cc1-ae5f-4b90-b89d-a16491e5f930&amp;3d5a8868-ead3-4942-b867-669c005bcb7e&amp;82c40f10-c4d7-4207-b84f-cccbc51340ab&amp;7a077b5b-c66b-4508-b813-c8cf2e4c1cbb&amp;1f1294fe-859f-4020-b62c-e3c1f83fa4da&amp;6f927b11-7275-4dde-b55c-15f2ea3bbeba&amp;287da6eb-0010-49b0-b179-04c07d04efa6&amp;8b3658d6-8d56-406b-b062-b97ec9ffb52d&amp;9ca86ab3-31f4-48cc-af31-08c18648823f&amp;8f6f9eaa-b146-440c-add3-233d765949b3&amp;b5308ad4-3987-4d65-a797-e21e26287519&amp;5ba2830f-2180-4011-a6a0-0691e9f75b06&amp;af6fb675-29e2-4435-a670-c1c7b0e11ea1&amp;e59f6ae0-d81e-42c5-a589-caed4f24defb&amp;31708032-d5c7-4602-a537-96ad5dadfe35&amp;24fb9e5f-c546-44cc-a3b1-ea0e1af17f95&amp;6c97e386-3da9-40fe-a16d-0c5d845b8ba5&amp;aef309ac-44e5-4e0f-a0a2-a68bb0d6ed7b&amp;b9406fbd-525f-4f17-a066-f5c03448fe4f&amp;64f411bb-ad7f-489f-9e03-0d89b35c767b&amp;013e2221-702b-45cc-9c5e-9efa437c74ba&amp;c3b2cbb7-df2a-4069-99f2-4826a956ac14&amp;9b7dc810-ac42-4361-99ec-b1db18823742</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">деанжи мори</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">daeng gi meo ri</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">DAENG GI MEO RI</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="product_id_n">0000000000000000000005059375</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>0</quantity>
-			</offer>
-			<offer id="0000000000000000000007087303" group_id="0000000000000000000007087303">
-				<name>095570 ДГМ GLAMO Маска для волос DAENG GI MEO RI GLAMO Keratin Treatment 400</name>
-				<description>Кондиционер для восстановления поврежденных и секущихся кончиков и увлажнения волос, содержит лекарственные травы, кератин и черные продукты, такие как черная фасоль, черный кунжут, водоросли. Кондиционер обеспечивает глубокое питание от корней до кончиков, придает объем, делая волосы густыми, мягкими и блестящими. Применение: Смочив волосы теплой водой, нанесите необходимое количество средства на ладонь, нанесите от корня волос и промойте теплой водой.</description>
-				<vendor>Daeng Gi Meo Ri</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">095570</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">4190</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>1150</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001875</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Daeng Gi Meo Ri</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Бальзам/кондиционер</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Блеск</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Против секущихся кончиков</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">119960f1-a238-40ed-afc8-1be0ba4780ff&amp;5a9a6f7f-2dc3-4bde-a38e-6cd728ac724e&amp;e6f0f7b7-1101-4be8-a050-2789a57745d8&amp;57343f9c-8e9a-4950-9ca6-9225a54095c3&amp;17c85b12-8ba4-4fc2-98c3-398c7cc60f2b&amp;02ebbbad-3dc8-40c0-94d6-d25a9b3725ee</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">деанжи мори</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">daeng gi meo ri</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">DAENG GI MEO RI</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="product_id_n">0000000000000000000007087303</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">34d3cc10-56ac-11e9-fa91-9cdc71af0f48&amp;5b10205a-4874-11e8-ce86-9cdc71af0f48&amp;e97dba80-6157-4a60-bf7b-139d92149ce9&amp;066af284-e9c8-42d1-becb-bb92f79dbb14&amp;ca5f7de2-fa3d-4d80-bdf9-0c19e7fd0ed5&amp;bbcd1f4e-27ed-40b4-b5ac-ea8297676e27&amp;e4efd78f-c244-4cbf-b44a-b29ff579d9c9&amp;c4b1a421-6191-4308-b3f2-2e53f87f0fa8&amp;8b38e639-be39-4650-b2c3-05a0b3ad446c&amp;1974de4a-24ce-415b-b1bd-af6499cfef28&amp;f45ad842-9c1b-486c-ae3a-a66a9436da57&amp;9a2ae20c-6d3a-4261-aac5-b7a4ebb84f1c&amp;c311dea1-43b7-4394-a961-c160c140785e&amp;1edcf209-37c6-4d63-a7da-cf539d78e4d9&amp;36f4d66c-ddab-11e8-a397-9cdc71af0f48&amp;3760381b-0eff-4ec0-9b28-dba8269bd1c3&amp;75130a1d-1e87-4dff-8eac-48143d0ecad4&amp;3e696881-37ca-4d7e-8abf-dd856dd4c229&amp;e1063f85-caac-4720-81b8-9f91ebe41ced&amp;5d5c38d4-b7f6-11e8-3186-9cdc71af0f48</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Himawari </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">UMI NO URUOISO</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">uminouruoiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">исиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">итиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ичиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">краси</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми но уруоисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми русо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уминоурусо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">хамавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химикари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">шимавари</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Himawari ,Ichikami,ichikami,Kracie,kracie,UMI NO URUOISO,uminouruoiso,исиками,итиками,ичиками,краси,красие,уми но уруоисо,уми русо,уминоурусо,хамавари,химавари,химикари,шимавари</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Окрашенные/поврежденные</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Сухие</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Нормальные</param>
+				<param name="Особенность состава (Косметика &quot;Для волос&quot;)">Без силикона</param>
+				<param name="Особенность состава (Косметика &quot;Для волос&quot;)">Без сульфатов</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Naive</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">найв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">наиве</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красиа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">нейв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">умино рисо</param>
+				<param name="product_id_n">0000000000000000000222733138</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -291,6 +117,287 @@
 				<width>1</width>
 				<height>1</height>
 				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000000000212733138" group_id="0000000000000000000212733138">
+				<name>700735 Dear Beaute Бальзам для восстановления блеска поврежденных волос Himawari, 360МУ</name>
+				<description>Ухоженные шелковистые волосы, струящиеся водопадом или ниспадающие локонами, отливающие природным блеском – изысканный аксессуар для любой женщины.
+Вместе с безукоризненным макияжем и шармом утонченного парфюма он способен любую леди превратить в настоящую «богиню красоты».
+Но сезонный авитаминоз, летний зной и зимний холод, чрезмерная сухость в отапливаемых помещениях, сушка высокотемпературными девайсами, а также другие внешние или внутренние «гангстеры» красоты женских волос негативно влияют на их состояние.
+Тусклые пряди с безжизненными сухими кончиками – не лучшее украшение для любой дамы.
+Бальзам Dear Beaute с экстрактом семян, побегов и цветов подсолнуха, впитавших много солнечной энергии, так необходимой для роста волос, надолго защищает волосы от потери родных аминокислот и поддерживает их гладкость от корней до самых кончиков.
+Все средства серии Dear Beauté Himawari не содержат ПАВов сульфатного происхождения, а из их состава исключен силикон.</description>
+				<vendor>Kracie</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">700735(700575)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">516</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>1190</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000297</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Бальзам/кондиционер</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">3574d614-56ac-11e9-fa91-9cdc71af0f48&amp;eb078902-4df9-11e8-ce9b-9cdc71af0f48&amp;eaf24402-4df9-11e8-ce9b-9cdc71af0f48&amp;5afcb290-4874-11e8-ce86-9cdc71af0f48&amp;307798e8-74b6-4f15-bfca-aaec722fe404&amp;151e5600-8f00-4422-bfa1-5a065de69c4b&amp;c6e6a760-79c4-47f0-bede-05096838e23d&amp;fc4d5366-0b48-4218-ba4d-d4c12c5ba514&amp;b5d53d92-ebdd-11e8-b982-9cdc71af0f48&amp;50707d3c-949f-4e41-b7c4-a13c83ce3e12&amp;9ac2bd3f-abc7-4dd8-b793-2fe768875582&amp;b8112d8d-9530-4fb3-b6ed-df823936af47&amp;a4f68766-1d3b-4239-b6b9-9c594383547d&amp;53a92956-4a4b-487e-b642-6d1f5c614603&amp;caeeeb23-c0b7-47d8-b366-ff357deaa4d9&amp;f5829bd2-ac55-43dc-b2d3-fce586fac143&amp;106b523a-0de4-4d7a-b245-850e3df0c1dc&amp;3fc133ac-e462-492a-b159-e47870cef53e&amp;aef52302-eb44-4499-b100-242c4fb59735&amp;1ba37d21-950d-45bc-af74-839aef8863a2&amp;627d28cb-8ad9-4315-ae63-92774e402dcd&amp;f7939c30-6534-4426-ad91-6d336eb6ecb0&amp;506cf520-41ea-4f86-acb0-1485a4e2186f&amp;ffcff6c1-7dba-47d2-ab4a-841e0e491cc9&amp;05bdd085-1ddb-4405-aaee-886dc086d3b7&amp;e88e1b26-7aa1-48f5-aa8c-9e5666b73fd5&amp;f0e4255b-4ef6-40df-aa80-749ca3476e8e</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Himawari ,Ichikami,ichikami,Kracie,kracie,UMI NO URUOISO,uminouruoiso,исиками,итиками,ичиками,краси,красие,уми но уруоисо,уми русо,уминоурусо,хамавари,химавари,химикари,шимавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Naive</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">хамавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">найв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">нейв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уминоурусо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">UMI NO URUOISO</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">uminouruoiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ичиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">исиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химикари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красиа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми русо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">наиве</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">шимавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми но уруоисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">итиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">краси</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Himawari </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">умино рисо</param>
+				<param name="product_id_n">0000000000000000000212733138</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000000000303278048" group_id="0000000000000000000303278048">
+				<name>759269 UMI NO URUOISO Шампунь-ополаск (2 в 1) увлажняющ с экстракт морских водоросл 400 мл МУ</name>
+				<description>Уникальное сочетание компонентов питает и увлажняет волосы, делая их здоровыми и блестящими! 
+Средство разглаживает поверхность волоса, устраняет повреждения и дарит глубокое увлажнение. 
+Результат – сияющие и шелковистые на ощупь волосы!
+В составе: 
+11 экстрактов бурых, красных и зелёных водорослей – глубоко увлажняют повреждённые волосы. 
+Вода морских глубин – восстанавливает слабые волосы, удерживая в них влагу.
+Эссенция Красоты из глубины моря (морской сквалан, жир атлантического большеголова, морской коллаген) – проникает в структуру волоса, усиливая питательные и увлажняющие свойства других компонентов средства. 
+Шампунь мягко воздействует на волосы, благодаря обильной пене. Имеет освежающий цветочно-морской аромат.</description>
+				<vendor>Umi No Uruoi Sou</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">759269</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">4794</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000012429</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Окрашенные/поврежденные</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Сухие</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Смешанные</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Нормальные</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Блеск</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
+				<param name="Особенность состава (Косметика &quot;Для волос&quot;)">Подходит для ежедневного применения</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">1edcf209-37c6-4d63-a7da-cf539d78e4d9&amp;36f4d66c-ddab-11e8-a397-9cdc71af0f48&amp;acd8057e-914f-4edc-9e94-ede636b026f2&amp;75130a1d-1e87-4dff-8eac-48143d0ecad4&amp;72a95ffe-40ff-4fe6-8de1-de79a362e659&amp;3e696881-37ca-4d7e-8abf-dd856dd4c229&amp;8b5bac0a-9af1-11e8-828a-9cdc71af0f48&amp;e1063f85-caac-4720-81b8-9f91ebe41ced&amp;5d5c38d4-b7f6-11e8-3186-9cdc71af0f48&amp;5b3d0c22-b7f6-11e8-3186-9cdc71af0f48&amp;34d3cc10-56ac-11e9-fa91-9cdc71af0f48&amp;5b10205a-4874-11e8-ce86-9cdc71af0f48&amp;e97dba80-6157-4a60-bf7b-139d92149ce9&amp;066af284-e9c8-42d1-becb-bb92f79dbb14&amp;ca5f7de2-fa3d-4d80-bdf9-0c19e7fd0ed5&amp;b399ac70-5df9-40ba-bd7a-195834e402a2&amp;93ca427f-c15c-440c-bc8e-953423d5c804&amp;b79be753-7dd0-4bc0-bad4-b51f7f53faad&amp;bbcd1f4e-27ed-40b4-b5ac-ea8297676e27&amp;e4efd78f-c244-4cbf-b44a-b29ff579d9c9&amp;c4b1a421-6191-4308-b3f2-2e53f87f0fa8&amp;8b38e639-be39-4650-b2c3-05a0b3ad446c&amp;1974de4a-24ce-415b-b1bd-af6499cfef28&amp;f45ad842-9c1b-486c-ae3a-a66a9436da57&amp;9a2ae20c-6d3a-4261-aac5-b7a4ebb84f1c&amp;c311dea1-43b7-4394-a961-c160c140785e&amp;6d65233d-d803-11df-a86d-00241d24624d</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Himawari </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">UMI NO URUOISO</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">uminouruoiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">исиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">итиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ичиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">краси</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми но уруоисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми русо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уминоурусо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">хамавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химикари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">шимавари</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">уми русо,уминоурусо,хамавари,химавари,Himawari ,Ichikami,ichikami,Kracie,kracie,UMI NO URUOISO,uminouruoiso,исиками,итиками,ичиками,краси,красие,уми но уруоисо,химикари,шимавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">нейв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Naive</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">наиве</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красиа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">найв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">умино рисо</param>
+				<param name="product_id_n">0000000000000000000303278048</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
+			</offer>
+			<offer id="0000000000000000000107885354" group_id="0000000000000000000107885354">
+				<name>005667 ВЛК Confume Спрей для волос двухфазный Confume Two-Phase Treatment  250мл</name>
+				<description>Активное насыщение полезными веществами ломких и травмированных локонов обеспечит 2-фазный спрей Natural Two – Phase.
+Невесомая структура средства нежно обволакивает все волосинки и моментально насыщает и бодрит их.
+Крошечные частицы аэрозоля заполняют волосинки внутри, тем самым запускают процесс их регенерирования.
+В составе средства грамотно подобраны составляющие фитокератинов, бета – глюкана, вытяжка фускопории и биокерамиды, каждый из которых целебно сказывается на «заживлении» поврежденных волос.
+После применения двухфазного средства от Welcos волосы станут легче в расчесывании, намного послушнее и эластичнее.
+Спрей предохранит Ваши волосы от потери влаги, защитит от агрессивного действия утюжков, фенов, УФ - излучения солнца.
+При постоянном использовании аэрозоля волосы приобретут прежнюю упругость, блеск и эластичность.</description>
+				<vendor>Welcos</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">005667(886460)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1455</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>630</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000009652</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Спрей для волос</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">c1f9fa3c-0fb6-4d44-b886-59a0deb0b75f&amp;25f852a3-c46d-49d5-abde-d94d7f2130a6&amp;39c9ca00-ddab-11e8-a397-9cdc71af0f48&amp;8b663d09-dc50-475f-8f78-9d7bae27816e&amp;f1bcc418-f175-11e8-6396-9cdc71af0f48</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велк</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велком</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">welcos</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велкос</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">argan</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000000107885354</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
 			</offer>
 		</offers>
 	</shop>
