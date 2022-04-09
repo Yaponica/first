@@ -5,9 +5,118 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
+			<category id="УТ-00000296">Himawari / Для объема</category>
 			<category id="УТ-00002927">RYO</category>
 		</categories>
 		<offers>
+			<offer id="0000000000000000000035790323" group_id="0000000000000000000035790323">
+				<name>700650 "Dear Beaute" Бальзам-ополаскиватель для придания объема поврежденным волосам  500 мл</name>
+				<description>Вся серия c комплексом Himawari Premium EX носит название Dear Beauté.
+В переводе с английского первое слово означает «дорогая, любимая».
+Второе – с французского, «красота» или «красивый человек».
+А Химавари – это подсолнух.
+На языке цветов он означает обожание, почитание и даже горячую любовь!
+Разработчики серии проводят параллель между образами гармоничной,привлекательной и любимой женщины и ярким, жизнестойким и удивительно позитивным цветком подсолнечника.
+В составе бальзама главный компонент – комплекс Himawari Premium EX.
+Это микс экстрактов и масел премиум класса, который богат омега-жирными кислотами и имеет высокую проникающую способность.
+Он проникает в самую глубину волоса, разбивая в нем скопления затвердевших компонентов и восстанавливая гидролипидный баланс, благодаря чему волосы выглядят гладкими и здоровыми.
+Все средства серии Dear Beauté Himawari не содержат ПАВов сульфатного происхождения, а из их состава исключен силикон.</description>
+				<vendor>Kracie</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">700650(700124)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11122854</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>1692</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000296</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Бальзам/кондиционер</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Объем</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Блеск</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">151e5600-8f00-4422-bfa1-5a065de69c4b&amp;fc4d5366-0b48-4218-ba4d-d4c12c5ba514&amp;9ac2bd3f-abc7-4dd8-b793-2fe768875582&amp;b8112d8d-9530-4fb3-b6ed-df823936af47&amp;53a92956-4a4b-487e-b642-6d1f5c614603&amp;106b523a-0de4-4d7a-b245-850e3df0c1dc&amp;3fc133ac-e462-492a-b159-e47870cef53e&amp;aef52302-eb44-4499-b100-242c4fb59735&amp;506cf520-41ea-4f86-acb0-1485a4e2186f&amp;450b77e2-6dde-44e8-a270-2e5804937522&amp;6bbd7e7d-4bee-455d-9fb0-2731f62bb962&amp;c77824a0-742a-4616-9f6f-3aaa185dbb07&amp;294523d6-ace4-4844-93be-75f6c49c935a&amp;32be1a0d-5169-47ad-89a2-4799423a6265&amp;f1a98d68-825a-4ce8-88b6-0c47ce550660&amp;5fb2fd20-b7f6-11e8-3186-9cdc71af0f48&amp;5e0e1e0a-b7f6-11e8-3186-9cdc71af0f48</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Himawari </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">UMI NO URUOISO</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">uminouruoiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">исиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">итиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ичиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">краси</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми но уруоисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми русо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уминоурусо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">хамавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химикари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">шимавари</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Himawari ,Ichikami,ichikami,Kracie,kracie,UMI NO URUOISO,uminouruoiso,исиками,итиками,ичиками,краси,красие,уми но уруоисо,уми русо,уминоурусо,хамавари,химавари,химикари,шимавари</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Нормальные</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Для всех типов волос</param>
+				<param name="Особенность состава (Косметика &quot;Для волос&quot;)">Без сульфатов</param>
+				<param name="Особенность состава (Косметика &quot;Для волос&quot;)">Без силикона</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">нейв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Naive</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красиа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">найв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">наиве</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">умино рисо</param>
+				<param name="product_id_n">0000000000000000000035790323</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
+			</offer>
 			<offer id="0000000000000000476799376442" group_id="0000000000000000476799376442">
 				<name>005294 Сыворотка для волос с аргановым маслом Char Char Argan Oil Hair Serum 200мл</name>
 				<description>Сыворотка Char Char Argan Oil Hair Serum от бренда Evas Cosmetics
@@ -337,7 +446,7 @@
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Против выпадения / перхоти</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Объем</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">54d1f086-4798-4223-91f9-4c5c5df8bae3&amp;8d5e6324-c8d8-11e9-8ec2-9cdc71af0f49&amp;629125d8-dacc-4ff4-881a-bde80428053b&amp;dd2b1aa5-d22f-4314-81ce-71860433a257&amp;c5cc124a-2a07-4a9c-800b-8a9fe7f67b11&amp;2c56d24a-b9c1-4393-bb06-7a24edbf4784&amp;3d5a8868-ead3-4942-b867-669c005bcb7e&amp;8b3658d6-8d56-406b-b062-b97ec9ffb52d&amp;8f6f9eaa-b146-440c-add3-233d765949b3&amp;14e58a07-78b4-4d9a-a9b7-4bc0dc7c5ec5&amp;e59f6ae0-d81e-42c5-a589-caed4f24defb&amp;31708032-d5c7-4602-a537-96ad5dadfe35&amp;24fb9e5f-c546-44cc-a3b1-ea0e1af17f95&amp;6c97e386-3da9-40fe-a16d-0c5d845b8ba5</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">2c56d24a-b9c1-4393-bb06-7a24edbf4784&amp;3d5a8868-ead3-4942-b867-669c005bcb7e&amp;8b3658d6-8d56-406b-b062-b97ec9ffb52d&amp;8f6f9eaa-b146-440c-add3-233d765949b3&amp;14e58a07-78b4-4d9a-a9b7-4bc0dc7c5ec5&amp;e59f6ae0-d81e-42c5-a589-caed4f24defb&amp;31708032-d5c7-4602-a537-96ad5dadfe35&amp;24fb9e5f-c546-44cc-a3b1-ea0e1af17f95&amp;6c97e386-3da9-40fe-a16d-0c5d845b8ba5&amp;54d1f086-4798-4223-91f9-4c5c5df8bae3&amp;8d5e6324-c8d8-11e9-8ec2-9cdc71af0f49&amp;629125d8-dacc-4ff4-881a-bde80428053b&amp;dd2b1aa5-d22f-4314-81ce-71860433a257&amp;c5cc124a-2a07-4a9c-800b-8a9fe7f67b11</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
