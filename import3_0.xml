@@ -5,33 +5,28 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
-			<category id="УТ000012407">КРЕМЫ, ЛОСЬОНЫ ДЛЯ ТЕЛА</category>
+			<category id="УТ-00002930">Mukunghwa</category>
+			<category id="УТ-00001568">COW</category>
 		</categories>
 		<offers>
-			<offer id="0000000000000000000000845204" group_id="0000000000000000000000845204">
-				<name>043935 ВЛК Around Me Крем-масло для тела Around me Cicatreecare Body Oil Cream</name>
-				<description>Крем-масло для тела - расслабляющий уход для тела с натуральными экстрактами.
-
-Прекрасно ухаживает за кожей, предоставляет ей увлажнение и питание.
-
-Способ применения: наносите средство ежедневно на очищенную кожу.
-
-Объем: 200 мл.
-
-Состав:
-Purified water, glycerin, butylene glycol, caprylic/capric triglyceride,
-</description>
-				<vendor>Welcos</vendor>
+			<offer id="0000000000000000061053969689" group_id="0000000000000000061053969689">
+				<name>701280 MKH Жидкое мыло для тела «Mukunghwa» ("Ароматерапия - Свежесть океана") 500мл</name>
+				<description>Гель для душа Jeju Dead Sea Mineral Salts Shower Body Soap южнокорейской марки Mukunghwa входит в состав линейки гелей-эксфолиантов с высокоэффективной формулой, обогащённой минералами, солью мёртвого моря, АНА-кислотами, вулканической лавой Чеджу и натуральными маслами.
+Каждый продукт серии подходит для ежедневного использования, прекрасно очищает кожу от загрязнений и ороговевшего слоя эпидермиса, стимулирует регенерацию клеток и существенно улучшает состояние кожи в целом.
+Благодаря наличию в составе формулы органических масел, гель питает, смягчает и увлажняет эпидермис, убирает шелушение и сухость кожи.
+АНА кислоты из фруктов эффективно отшелушивают ороговевшие клетки, делают кожу более гладкой и ровной, слегка выравнивают её тон, стимулируют процесс регенерации клеток.
+В состав продукта Jeju Dead Sea Mineral Salts Shower Body Soap входит также соль мёртвого моря — основной её компонент, который активно очищает эпидермис, участвует в процессе обновления кожи, стимулирует кровообращение.</description>
+				<vendor>Mukunghwa</vendor>
 				<country_of_origin>Южная Корея</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">043935</param>
+				<param name="Артикул">437035(701280)</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
 				<param name="ВесИспользовать">Нет</param>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
 				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
 				<param name="ДлинаЕдиницаИзмерения"/>
 				<param name="ДлинаЗнаменатель">0</param>
 				<param name="ДлинаИспользовать">Нет</param>
@@ -44,7 +39,7 @@ Purified water, glycerin, butylene glycol, caprylic/capric triglyceride,
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">4187</param>
+				<param name="КодДляПоиска">2891</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -62,26 +57,20 @@ Purified water, glycerin, butylene glycol, caprylic/capric triglyceride,
 				<param name="ТипНоменклатуры">Товар</param>
 				<param name="ТоварнаяКатегория"/>
 				<param name="ЦеноваяГруппа"/>
-				<price>638</price>
+				<price>833</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ000012407</categoryId>
+				<categoryId>УТ-00002930</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">23285738-8e44-41a9-bfc8-b13e57561548&amp;1fc7154b-e128-488f-be5c-630468c7909e&amp;91130a6b-ec96-4055-bda2-a48b4584b1af&amp;7bf85eb7-4178-4ed7-bd7e-acaf3bce1b8a&amp;9d3a196c-2415-4811-bd0b-16dd9f1adb8d&amp;8bf98369-fc7a-4047-bc7f-d2c2fa67ccaf&amp;8d0db2e9-0e0b-4450-bc18-886449c858ce&amp;e10aa437-5cd2-4215-bbe4-6fae62c27319&amp;2b2f5600-f0be-4440-bb26-27c427ba10ed&amp;160d5fb9-90dc-46d5-bb02-02d5e537e5c8&amp;9556542e-d058-4cf6-ba14-497461f424d3&amp;238578a9-3e65-4f60-b776-4bffc5efe432&amp;711ad562-dda2-476c-b4b6-e428c332b6e3&amp;b04295d2-41c7-432a-b33f-ce673384c9e5&amp;d6e3e376-bc51-4758-b2bf-0c33b4e1ff47&amp;32b7dc69-f529-4f15-b1ae-71db4ea56e1a&amp;bfdb52f6-a768-4ca9-b14a-e36a73dafd4f&amp;d32156ae-eedf-4694-a7ee-d8fc5b4f5104&amp;b41f4573-a872-42f8-a3b8-1ec7f9cb5b29&amp;c038d75d-fb4b-4b7e-a3af-43290e4985ed&amp;478dbb0b-ba10-4e07-a2d6-c64a16db3f36&amp;1de45bc6-fec7-49f0-a2ac-71f4df7969db&amp;4ebaf09f-ffdb-446a-a0c8-d8cc5c4e15ba&amp;4e5c6a30-8d05-41cc-9f97-1b4bcb04e7c6&amp;e9e60585-e95b-4a4a-9d12-8d61acce49cf&amp;12c465ee-efbb-4bfa-9cb9-fc153de42232&amp;6f8bb94b-35b7-45b8-9c0b-6fffbd04b1be</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">argan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велком</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велкос</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велк</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">welcos</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Mukunghwa</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d</param>
+				<param name="product_id_n">0000000000000000061053969689</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Mukunghwa</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">мукунва</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">мукунгва</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">микунгва</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="product_id_n">0000000000000000000000845204</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -90,7 +79,85 @@ Purified water, glycerin, butylene glycol, caprylic/capric triglyceride,
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>0</quantity>
+				<quantity>2</quantity>
+			</offer>
+			<offer id="0000000000000000002949197928" group_id="0000000000000000002949197928">
+				<name>004923 COW Лечебное дезод. мыло DE2 от постор.запахов - medicinal refreshing deodorant soap 125гр</name>
+				<description>Дезодорирующее мыло от знаменитого производителя молочного мыла Cow Brand, содержит танин из хурмы, который предотвращает излишнее потоотделение и устраняет более 95% всех отчетливых запахов, в том числе нейтрализует действие ноненалов, выдающих наш возраст, то есть это вариант идеального мыла с точки зрения японцев.
+Кроме этого, мыло содержит растительные экстракты чая, ириса, гвоздики и алтея, которые обладают успокаивающим и антиоксидантным эффектом.
+Активный ингредиент IPMP - предотвращает размножение бактерий вызывающих характерный неприятный запах пота.
+Мыло предназначено для ежедневного ухода, с освежающим цитрусово-цветочным ароматом.</description>
+				<vendor>Cow Brand</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">004923</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11121629</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для тела</param>
+				<param name="ЦеноваяГруппа">Мыло для тела (кусковое)</param>
+				<price>1012</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001568</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мыло кусковое</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Очищение</param>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">7e90fff4-e67b-11e8-c08d-9cdc71af0f48&amp;6375f322-7af1-4554-be64-66ede1e9aafc&amp;c1933799-daeb-461e-aa0f-1a885ed91aef&amp;6d6522e7-d803-11df-a86d-00241d24624d&amp;112d1356-b528-11e9-8ebd-9cdc71af0f49&amp;dbe1b898-5f7e-11e9-899b-9cdc71af0f48</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand ,cow brand ,CowBrand ,ков бренд ,Ков бренд,ковбренд,боунсиа</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
+				<param name="product_id_n">0000000000000000002949197928</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ков бренд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ковбренд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ков бренд </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">боунсиа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">cow brand </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">CowBrand </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand </param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>1</quantity>
 			</offer>
 		</offers>
 	</shop>
