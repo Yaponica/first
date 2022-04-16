@@ -5,9 +5,605 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
+			<category id="УТ-00001670">Moist Diane</category>
+			<category id="УТ-00000301">Ichikami / Разглаживающий_горная сакура</category>
+			<category id="УТ-00000605">ROSEE Эко Алоэ</category>
 			<category id="УТ-00002927">RYO</category>
+			<category id="УТ011121424">Confume Argan</category>
+			<category id="УТ000011236">Daeng Gi Meo Ri</category>
+			<category id="УТ000012541">ECOPURE</category>
+			<category id="УТ000012711">La Miso / с красным женьшенем</category>
+			<category id="УТ-00002836">MAS</category>
+			<category id="УТ000009661">Восстановления волос</category>
+			<category id="УТ011121379">La Miso</category>
+			<category id="УТ-00001026">Floland</category>
 		</categories>
 		<offers>
+			<offer id="0000000000000000798099919779" group_id="0000000000000000798099919779">
+				<name>224736 Moist Diane Perfect Beauty Шампунь кератиновый Свежесть 450 мл</name>
+				<description>Шампунь «Кератиновая Свежесть» Moist Diane Extra Fresh &amp; Hydrate обладает высокими очищающими свойствами.
+Кератины восстанавливают поврежденные участки, восполняют структуру волос.
+Масло арганы дарит увлажнение и питание, смягчает пряди. Extra Fresh &amp; Hydrate делает локоны гладкими, блестящими, послушными. Не все нано-частицы продукта от Moist Diane впитываются.
+Часть остается на поверхности и активируется во время воздействия феном для лучшей защиты локонов.
+Кератиновый шампунь подходит для жирных волос, обеспечивает длительное ощущение свежести.</description>
+				<vendor>Moist Diane</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">224736</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2538</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа">Moist Diane</param>
+				<price>1511</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001670</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">222f9ee0-a66e-460f-a5a4-eba9d9f928b5&amp;36f4d66c-ddab-11e8-a397-9cdc71af0f48&amp;35157ae0-ddab-11e8-a397-9cdc71af0f48&amp;bb9afe8e-47a1-4811-a2e8-dec58870b80d&amp;e493bd1e-e218-49d9-a238-286169505253&amp;f3b38b56-1792-40cb-a1a6-4faab52f33d4&amp;bcac3847-910a-49ac-a19a-a5dff09972ca&amp;4b25ea62-b3a0-4ef8-a16b-bfb466686e03&amp;31c65df6-ce68-49a1-a0e8-1bbdb1da03f2&amp;566cbc61-40a8-4c79-9fec-82bf93d1daf4&amp;0d13460b-9b29-4a22-9ec9-c7e288856b09&amp;ebafb4b5-d3dc-4627-9ec9-276baa553143&amp;acd8057e-914f-4edc-9e94-ede636b026f2&amp;5aa1c732-a297-418d-9dce-0e51d16d67f7&amp;6cb98de5-4064-4096-9d42-5b0f27434301&amp;3760381b-0eff-4ec0-9b28-dba8269bd1c3&amp;61a9cf99-d17c-42a4-9a3d-e690d786ffd8&amp;1149d4e0-d664-4489-99fa-86b6afe9e263&amp;5639ec01-8e91-4ef7-9778-5c68969cdfa0&amp;cdd02fc2-1978-4d2c-95b8-b10941987067&amp;01969015-fcc7-4dc5-93cc-b45bb2680783&amp;0fca923e-a01b-4bd1-9333-1d4ae7d2fc24&amp;15a0287e-0d92-470e-8fc4-fb99ab70d27c&amp;7d7aeab2-006b-480b-8fa0-3354d7ed029f&amp;4e8d0942-bf56-11ea-8ed1-9cdc71af0f49&amp;33a8387f-7b37-11ea-8ece-9cdc71af0f49&amp;a7f9c9b8-cfbc-11e9-8ec2-9cdc71af0f49</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane,Diane,Диана</param>
+				<param name="product_id_n">0000000000000000798099919779</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
+			</offer>
+			<offer id="0000000000000002514841029692" group_id="0000000000000002514841029692">
+				<name>224743 Moist Diane Perfect Beauty Бальзам-маска кератиновая Свежесть 450 мл</name>
+				<description>Сохраняет свежесть волос до 48 часов  (Nano Repair EL) - инновационная технология, которая противодействует повреждениям, вызванным термовоздействием (например, сушка феном).
+Часть ингредиентов не проникает глубоко в слои волоса, пока он влажный, начиная реагировать только от воздействия тепла (фен, плойка). (Nano Repair Matrix) - комбинация Waterfowl beauty-кератинов и нано-частиц арганового масла делает волосы блестящими, гладкими и здоровыми.
+Содержит:
+- 10 органических масел - Гидролизованный кератин - 47 растительных экстрактов.
+</description>
+				<vendor>Moist Diane</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">224743</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">2539</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа">Moist Diane</param>
+				<price>1511</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001670</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Бальзам/кондиционер</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">3574d614-56ac-11e9-fa91-9cdc71af0f48&amp;eb078902-4df9-11e8-ce9b-9cdc71af0f48&amp;eaf24402-4df9-11e8-ce9b-9cdc71af0f48&amp;5afcb290-4874-11e8-ce86-9cdc71af0f48&amp;307798e8-74b6-4f15-bfca-aaec722fe404&amp;151e5600-8f00-4422-bfa1-5a065de69c4b&amp;c6e6a760-79c4-47f0-bede-05096838e23d&amp;fc4d5366-0b48-4218-ba4d-d4c12c5ba514&amp;b5d53d92-ebdd-11e8-b982-9cdc71af0f48&amp;50707d3c-949f-4e41-b7c4-a13c83ce3e12&amp;9ac2bd3f-abc7-4dd8-b793-2fe768875582&amp;b8112d8d-9530-4fb3-b6ed-df823936af47&amp;a4f68766-1d3b-4239-b6b9-9c594383547d&amp;53a92956-4a4b-487e-b642-6d1f5c614603&amp;caeeeb23-c0b7-47d8-b366-ff357deaa4d9&amp;f5829bd2-ac55-43dc-b2d3-fce586fac143&amp;106b523a-0de4-4d7a-b245-850e3df0c1dc&amp;3fc133ac-e462-492a-b159-e47870cef53e&amp;aef52302-eb44-4499-b100-242c4fb59735&amp;1ba37d21-950d-45bc-af74-839aef8863a2&amp;627d28cb-8ad9-4315-ae63-92774e402dcd&amp;f7939c30-6534-4426-ad91-6d336eb6ecb0&amp;506cf520-41ea-4f86-acb0-1485a4e2186f&amp;ffcff6c1-7dba-47d2-ab4a-841e0e491cc9&amp;05bdd085-1ddb-4405-aaee-886dc086d3b7&amp;e88e1b26-7aa1-48f5-aa8c-9e5666b73fd5&amp;f0e4255b-4ef6-40df-aa80-749ca3476e8e</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Диана,Moist Diane,Diane</param>
+				<param name="product_id_n">0000000000000002514841029692</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>5</quantity>
+			</offer>
+			<offer id="0000000000000000004733885523" group_id="0000000000000000004733885523">
+				<name>224811 Шампунь кератиновый Moist Diane Perfect Beauty , 450 мл</name>
+				<description>Действие шампуня:
+- Увеличивает объем волос.
+- Стимулирует рост волос.
+- Очищает волосы и кожу головы.
+- Устраняет сухость и шелушения кожи головы.
+Гидрофильный шампунь Moist Diane Extra Volume&amp;Scalp деликатно очищает волосы и кожу головы, сохраняя естественную увлажнённость волос.
+ЯПОНСКИЕ ИННОВАЦИОННЫЕ ТЕХНОЛОГИИ:
+~ NREL™ (Nano Repair EL) - инновационная технология, которая противодействует повреждениям, вызванным термовоздействием (например, сушка феном). Часть ингредиентов не проникает глубоко в слои волоса, пока он влажный, начиная реагировать только от воздействия тепла (фен, плойка).
+~ NRM™ (Nano Repair Matrix) - комбинация Hair Volumizing beauty-кератинов и нано-частиц арганового масла стимулирует рост новых волос, борется с шелушением и зудом кожи головы, возвращает волосам упругость и эластичность.
+БЕЗ СИЛИКОНОВ | БЕЗ СУЛЬФАТОВ!
+Содержит:
+- 8 органических масел
+- 3 вида кератина
+- Коэнзим Q10, биотин
+- 2 экстракта водорослей
+- 4 растительных экстракта
+- Витамин Е
+- Гиалуроновая кислота и коллаген</description>
+				<vendor>Moist Diane</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">224811</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1667</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа">Moist Diane</param>
+				<price>1511</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001670</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">34d3cc10-56ac-11e9-fa91-9cdc71af0f48&amp;d1dab349-aa8e-46de-b4e5-35680df271d9&amp;60e85e04-9fd4-4ffe-b4c3-bfd79527b9ed&amp;e4efd78f-c244-4cbf-b44a-b29ff579d9c9&amp;c4b1a421-6191-4308-b3f2-2e53f87f0fa8&amp;078b21ba-5460-4ee0-b3e8-fe3a753e2a12&amp;1974de4a-24ce-415b-b1bd-af6499cfef28&amp;83f23ef6-4598-487e-b0b0-ff19d11efe0a&amp;f45ad842-9c1b-486c-ae3a-a66a9436da57&amp;ee936980-7402-4c91-adfc-236d9e32f5ae&amp;4a271d94-5ab3-416b-ad61-44110cec9f8a&amp;c063e7aa-8bde-42a0-ac8e-a333723174b0&amp;872418f3-7354-44f7-ab2b-78825a6c116f&amp;9a2ae20c-6d3a-4261-aac5-b7a4ebb84f1c&amp;9f1beb6a-5bac-4949-aa93-af8f3da10358&amp;aed68fcb-4c0d-4ed1-aa46-d71331875cf6&amp;976ebc27-481b-4c2d-a9e1-29eae3e1c593&amp;3a8fbaa8-3ca9-4df2-a9d8-d63b31d46e6b&amp;c783cfda-9836-454c-a985-770594f4a807&amp;c311dea1-43b7-4394-a961-c160c140785e&amp;6d65233f-d803-11df-a86d-00241d24624d&amp;6d65233d-d803-11df-a86d-00241d24624d&amp;6d652335-d803-11df-a86d-00241d24624d&amp;6d652333-d803-11df-a86d-00241d24624d&amp;1edcf209-37c6-4d63-a7da-cf539d78e4d9&amp;28dc2089-a1af-4823-a738-5795e123cce1&amp;222f9ee0-a66e-460f-a5a4-eba9d9f928b5</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Diane,Moist Diane,Диана</param>
+				<param name="product_id_n">0000000000000000004733885523</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>6</quantity>
+			</offer>
+			<offer id="0000000000000000006700189857" group_id="0000000000000000006700189857">
+				<name>224897 Moist Diane Perfect Beauty Бальзам-маска кератиновая Гладкость 450 мл</name>
+				<description>Бережно смягчает локоны.
+Питает и увлажняет без утяжеления.
+Делает волосы гладкими «без утюжка».
+Обеспечивает контроль за вьющимися или пушащимися волосами ЧЕМ БОЛЬШЕ СУШИШЬ ВОЛОСЫ, ТЕМ СИЛЬНЕЕ ОНИ СТАНОВЯТСЯ NREL™ (Nano Repair EL) - инновационная технология, которая противодействует повреждениям, вызванным термовоздействием (например, сушка феном).
+Часть ингредиентов не проникает глубоко в слои волоса, пока он влажный, начиная реагировать только от воздействия тепла (фен, плойка).
+ВОССТАНОВЛЕНИЕ ВОЛОС ИЗНУТРИ NRM™ (Nano Repair Matrix) - комбинация Cuticle beauty-кератинов и нано-частиц арганового масла восстанавливает структуру непослушных волос и придает им блеск. 
+Содержит:
+- 9 органических масел
+- 3 вида кератина
+- 5 видов керамидов
+- 2 вида коллагена
+- Золото и серебро
+- Стволовые клетки.
+Способ хранения: держать в недоступном для детей месте.
+Хранить при комнатной температуре.
+Не рекомендуется хранить открытую упаковку под воздействием прямых солнечных лучей.</description>
+				<vendor>Moist Diane</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">224897</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1865</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа">Moist Diane</param>
+				<price>1511</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001670</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Бальзам/кондиционер</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">7e98e660-c6a1-41d3-8147-5c36905b32f0&amp;084ea8b9-53b0-4707-8095-beeea3a86be6&amp;2437dbce-46ec-11e8-7f94-9cdc71af0f48&amp;5fb2fd20-b7f6-11e8-3186-9cdc71af0f48&amp;5e0e1e0a-b7f6-11e8-3186-9cdc71af0f48&amp;5a91bf02-b7f6-11e8-3186-9cdc71af0f48&amp;59e2f4a4-b7f6-11e8-3186-9cdc71af0f48&amp;58aed792-b7f6-11e8-3186-9cdc71af0f48&amp;6121f696-5c49-11e9-2e9c-9cdc71af0f48&amp;7ecc0026-3664-11e8-1d97-9cdc71af0f48&amp;7ec0393a-3664-11e8-1d97-9cdc71af0f48&amp;7ea871ba-3664-11e8-1d97-9cdc71af0f48&amp;7e9c83d2-3664-11e8-1d97-9cdc71af0f48&amp;3574d614-56ac-11e9-fa91-9cdc71af0f48&amp;eb078902-4df9-11e8-ce9b-9cdc71af0f48&amp;eaf24402-4df9-11e8-ce9b-9cdc71af0f48&amp;5afcb290-4874-11e8-ce86-9cdc71af0f48&amp;307798e8-74b6-4f15-bfca-aaec722fe404&amp;151e5600-8f00-4422-bfa1-5a065de69c4b&amp;c6e6a760-79c4-47f0-bede-05096838e23d&amp;fc4d5366-0b48-4218-ba4d-d4c12c5ba514&amp;b5d53d92-ebdd-11e8-b982-9cdc71af0f48&amp;50707d3c-949f-4e41-b7c4-a13c83ce3e12&amp;9ac2bd3f-abc7-4dd8-b793-2fe768875582&amp;b8112d8d-9530-4fb3-b6ed-df823936af47&amp;a4f68766-1d3b-4239-b6b9-9c594383547d&amp;53a92956-4a4b-487e-b642-6d1f5c614603</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane,Diane,Диана</param>
+				<param name="product_id_n">0000000000000000006700189857</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>5</quantity>
+			</offer>
+			<offer id="0000000000000000002488542467" group_id="0000000000000000002488542467">
+				<name>721693 "Ichikami" Шампунь разглаживающий для поврежденных волос с ароматом горной сакуры 480 мл</name>
+				<description>Шампунь восстанавливает волосы и защищает их от повторных повреждений. 
+Увлажняющие компоненты проникают в самую сердцевину волос, наполняя их здоровьем.
+Кутикула становится гладкой и менее подверженной повреждениям, возникающим из-за трения волос. 
+Шампунь также улучшает состояние кожи головы.
+Уникальная формула натуральных экстрактов восточных растений обеспечивает волосы питательными и увлажняющими компонентами, делая их сильными и здоровыми до самых кончиков. 
+В состав входят: отруби фиолетового риса (экстракт рисовых отрубей), экстракт красного риса (делает волосы гладкими и рассыпчатыми), экстракт коры пиона древовидного, ферментированный чёрный рис α, компонент Kome EX-S (отвар из отборного риса), экстракт сакуры, экстракт камелии японской, экстракт беламканды китайской, экстракт мыльных орехов.
+Шампунь содержит натуральные моющие компоненты аминокислотного происхождения. 
+В составе отсутствуют силиконы и ПАВы сульфатного происхождения. 
+Аромат цветущей горной сакуры.</description>
+				<vendor>Ichikami</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">721693(721334)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11122456</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>1304</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000301</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Выпрямление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">34d3cc10-56ac-11e9-fa91-9cdc71af0f48&amp;5b10205a-4874-11e8-ce86-9cdc71af0f48&amp;e97dba80-6157-4a60-bf7b-139d92149ce9&amp;066af284-e9c8-42d1-becb-bb92f79dbb14&amp;ca5f7de2-fa3d-4d80-bdf9-0c19e7fd0ed5&amp;bbcd1f4e-27ed-40b4-b5ac-ea8297676e27&amp;e4efd78f-c244-4cbf-b44a-b29ff579d9c9&amp;c4b1a421-6191-4308-b3f2-2e53f87f0fa8&amp;8b38e639-be39-4650-b2c3-05a0b3ad446c&amp;1974de4a-24ce-415b-b1bd-af6499cfef28&amp;f45ad842-9c1b-486c-ae3a-a66a9436da57&amp;9a2ae20c-6d3a-4261-aac5-b7a4ebb84f1c&amp;c311dea1-43b7-4394-a961-c160c140785e&amp;6d65233f-d803-11df-a86d-00241d24624d&amp;1edcf209-37c6-4d63-a7da-cf539d78e4d9&amp;36f4d66c-ddab-11e8-a397-9cdc71af0f48&amp;75130a1d-1e87-4dff-8eac-48143d0ecad4&amp;3e696881-37ca-4d7e-8abf-dd856dd4c229&amp;e1063f85-caac-4720-81b8-9f91ebe41ced&amp;5d5c38d4-b7f6-11e8-3186-9cdc71af0f48</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Himawari </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">UMI NO URUOISO</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">uminouruoiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">исиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">итиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ичиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">краси</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми но уруоисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми русо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уминоурусо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">хамавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химикари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">шимавари</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Himawari ,Ichikami,ichikami,Kracie,kracie,UMI NO URUOISO,uminouruoiso,исиками,итиками,ичиками,краси,красие,уми но уруоисо,уми русо,уминоурусо,хамавари,химавари,химикари,шимавари</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Для всех типов волос</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Сухие</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Смешанные</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Окрашенные/поврежденные</param>
+				<param name="Особенность состава (Косметика &quot;Для волос&quot;)">Подходит для ежедневного применения</param>
+				<param name="Особенность состава (Косметика &quot;Для волос&quot;)">Без сульфатов</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">найв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красиа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">нейв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">наиве</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Naive</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">умино рисо</param>
+				<param name="product_id_n">0000000000000000002488542467</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000000001432942419" group_id="0000000000000000001432942419">
+				<name>721709 "Ichikami" Бальзам-ополаскиватель  для поврежденных волос с ароматом горной сакуры 480 мл.</name>
+				<description>Бальзам-ополаскиватель рекомендуется использовать в сочетании с шампунем серии Ichikami. 
+Средства восстанавливают волосы и защищают их от повторных повреждений. 
+Увлажняющие компоненты проникают в самую сердцевину волос, наполняя их здоровьем. Кутикула становится гладкой и менее подверженной повреждениям, возникающим из-за трения волос. 
+Бальзам-ополаскиватель также улучшает состояние кожи головы.
+Уникальная формула натуральных экстрактов восточных растений обеспечивает волосы питательными и увлажняющими компонентами, делая их сильными и здоровыми до самых кончиков. 
+В состав входят: отруби фиолетового риса (экстракт рисовых отрубей), экстракт красного риса (делает волосы гладкими и рассыпчатыми), экстракт коры пиона древовидного, ферментированный чёрный рис α, компонент Kome EX-S (отвар из отборного риса), экстракт сакуры, экстракт камелии японской, экстракт беламканды китайской.
+В бальзаме-ополаскивателе отсутствуют ПАВы сульфатного происхождения.
+Обладает приятным ароматом цветущей горной сакуры.
+</description>
+				<vendor>Ichikami</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">721709(721341)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11119828</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>1304</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000301</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Бальзам/кондиционер</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">3574d614-56ac-11e9-fa91-9cdc71af0f48&amp;eb078902-4df9-11e8-ce9b-9cdc71af0f48&amp;eaf24402-4df9-11e8-ce9b-9cdc71af0f48&amp;5afcb290-4874-11e8-ce86-9cdc71af0f48&amp;307798e8-74b6-4f15-bfca-aaec722fe404&amp;151e5600-8f00-4422-bfa1-5a065de69c4b&amp;c6e6a760-79c4-47f0-bede-05096838e23d&amp;fc4d5366-0b48-4218-ba4d-d4c12c5ba514&amp;b5d53d92-ebdd-11e8-b982-9cdc71af0f48&amp;50707d3c-949f-4e41-b7c4-a13c83ce3e12&amp;9ac2bd3f-abc7-4dd8-b793-2fe768875582&amp;b8112d8d-9530-4fb3-b6ed-df823936af47&amp;a4f68766-1d3b-4239-b6b9-9c594383547d&amp;53a92956-4a4b-487e-b642-6d1f5c614603&amp;caeeeb23-c0b7-47d8-b366-ff357deaa4d9&amp;f5829bd2-ac55-43dc-b2d3-fce586fac143&amp;106b523a-0de4-4d7a-b245-850e3df0c1dc&amp;aef52302-eb44-4499-b100-242c4fb59735&amp;1ba37d21-950d-45bc-af74-839aef8863a2&amp;627d28cb-8ad9-4315-ae63-92774e402dcd&amp;f7939c30-6534-4426-ad91-6d336eb6ecb0&amp;506cf520-41ea-4f86-acb0-1485a4e2186f&amp;ffcff6c1-7dba-47d2-ab4a-841e0e491cc9&amp;05bdd085-1ddb-4405-aaee-886dc086d3b7&amp;e88e1b26-7aa1-48f5-aa8c-9e5666b73fd5&amp;f0e4255b-4ef6-40df-aa80-749ca3476e8e&amp;30dfad40-95f2-4b15-a9d4-e8c08af119e7</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">уми но уруоисо,уми русо,уминоурусо,Himawari ,Ichikami,ichikami,Kracie,kracie,UMI NO URUOISO,uminouruoiso,исиками,итиками,ичиками,краси,красие,хамавари,химавари,химикари,шимавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Naive</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красие</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уминоурусо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">шимавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">наиве</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">красиа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">краси</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">нейв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ичиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми русо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">исиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химикари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">хамавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">химавари</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">итиками</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">найв</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kracie</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ichikami</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">уми но уруоисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">uminouruoiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">UMI NO URUOISO</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Himawari </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">умино рисо</param>
+				<param name="product_id_n">0000000000000000001432942419</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000000000061277538" group_id="0000000000000000000061277538">
+				<name>002327 ROSEE Эко Алоэ эссенция для защиты волос 200мл.</name>
+				<description>Серия средств для волос ECO ALOE содержит экстракт алоэ вера. Аминокислоты, флавоноиды, минеральные соли, витамины В и Е в составе алоэ смягчают, питают и надежно защищают волосы.
+Сок алоэ также обладает увлажняющим, успокаивающим и заживляющим действиями.
+Он усиливает собственный иммунитет кожи головы, способствует укреплению волос и препятствует выпадению.  
+Масло подсолнечника и витамин Е в составе эссенции способствуют восстановлению поврежденных волос.
+Эссенция обволакивает и надежно защищает волосы от внешнего воздействия, придаёт им блеск и эластичность.
+Обладает приятным ароматом.
+Подходит для любого типа волос.</description>
+				<vendor>ROSEE</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">002327</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">600</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>1353</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00000605</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">ROSEE</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Эссенция для волос</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">364d4378-56ac-11e9-fa91-9cdc71af0f48&amp;165d1246-42da-11e8-e08a-9cdc71af0f48&amp;663b087d-5843-4d2e-b5a5-95ab2bffab67&amp;f10f4d08-f4b2-485b-b3bb-b0a3bd80e490&amp;390bf5ca-ddab-11e8-a397-9cdc71af0f48&amp;074030f4-4133-4c5d-982e-b3cc70b7e3d1&amp;9d299383-5545-4b77-8fbc-492ab8fab833&amp;e91a53cf-f278-4563-8d73-6000933178e4&amp;84288758-b945-4340-8930-0a6c48819c15&amp;ee7c71ec-4774-43be-849e-35efd12aa7c8&amp;71fb570d-55ca-4de8-8370-deaa44b8e8ee&amp;a1362efa-ed6e-49ab-8167-d7bba2181fc0&amp;a0feabfa-f174-11e8-6396-9cdc71af0f48&amp;55cb4afe-5c49-11e9-2e9c-9cdc71af0f48</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">rose,ROSEE,Rosse,rosse,видамо,виданмо,роса,росе,эко алоэ,эко алоя</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Rosse</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ROSEE</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">rose</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">виданмо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">росе</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">эко алоя</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">эко алоэ</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">роса</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">видамо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">rosse</param>
+				<param name="product_id_n">0000000000000000000061277538</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>1</quantity>
+			</offer>
 			<offer id="0000000000000000476799376442" group_id="0000000000000000476799376442">
 				<name>005294 Сыворотка для волос с аргановым маслом Char Char Argan Oil Hair Serum 200мл</name>
 				<description>Сыворотка Char Char Argan Oil Hair Serum от бренда Evas Cosmetics
@@ -140,6 +736,396 @@
 				<height>1</height>
 				<quantity>0</quantity>
 			</offer>
+			<offer id="0000000000000000000004968538" group_id="0000000000000000000004968538">
+				<name>030942 Confume Argan Шампунь для волос с аргановым маслом 750мл</name>
+				<description>Шампунь на основе арганового масла обладает прекрасными восстанавливающими свойствами. 
+Постоянные повреждения, негативные внешние факторы, средства для укладки быстро нарушают защитный слой волос и, соответственно, провоцируют повреждения и сухость. 
+Шампунь восстанавливает повреждения, глубоко питает и увлажняет волосы. 
+Прекрасно помогает справиться с посеченостью кончиков и восстанавливает волосы. 
+Благодаря антиоксидантам, содержащимся в основном компоненте, применение агрессивных средств будет проходить абсолютно безопасно для волос. 
+Применение средства позволяет локонам стать значительно более объемными и ухоженными, улучшить состояние и облегчить укладку.</description>
+				<vendor>Welcos</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">030942(011583)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">9502</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>1304</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ011121424</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">34d3cc10-56ac-11e9-fa91-9cdc71af0f48&amp;5b10205a-4874-11e8-ce86-9cdc71af0f48&amp;e97dba80-6157-4a60-bf7b-139d92149ce9&amp;072af527-c39d-46bf-bed6-773d4587d0f3&amp;066af284-e9c8-42d1-becb-bb92f79dbb14&amp;ca5f7de2-fa3d-4d80-bdf9-0c19e7fd0ed5&amp;b399ac70-5df9-40ba-bd7a-195834e402a2&amp;93ca427f-c15c-440c-bc8e-953423d5c804&amp;b79be753-7dd0-4bc0-bad4-b51f7f53faad&amp;55a9e904-8eb9-4119-baab-5376756a27c2&amp;bb00c32c-ebdd-11e8-b982-9cdc71af0f48&amp;b681564a-ebdd-11e8-b982-9cdc71af0f48&amp;39eaf40c-802a-11e8-b78a-9cdc71af0f48&amp;679c2660-19be-4322-b710-96fd4469c4e9&amp;4420083c-e0aa-4438-b65c-eeb0f7dd7f0c&amp;08dfaab6-6745-4924-b63b-cee55c7d882c&amp;bbcd1f4e-27ed-40b4-b5ac-ea8297676e27&amp;d1dab349-aa8e-46de-b4e5-35680df271d9&amp;60e85e04-9fd4-4ffe-b4c3-bfd79527b9ed&amp;e4efd78f-c244-4cbf-b44a-b29ff579d9c9&amp;c4b1a421-6191-4308-b3f2-2e53f87f0fa8&amp;078b21ba-5460-4ee0-b3e8-fe3a753e2a12&amp;8b38e639-be39-4650-b2c3-05a0b3ad446c&amp;83f23ef6-4598-487e-b0b0-ff19d11efe0a&amp;f45ad842-9c1b-486c-ae3a-a66a9436da57&amp;ee936980-7402-4c91-adfc-236d9e32f5ae&amp;4a271d94-5ab3-416b-ad61-44110cec9f8a</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">argan,Welcos,welcos,велк,велком,велкос</param>
+				<param name="product_id_n">0000000000000000000004968538</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велкос</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">argan</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велк</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велком</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">welcos</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>6</quantity>
+			</offer>
+			<offer id="0000000000000000001098875135" group_id="0000000000000000001098875135">
+				<name>030959 Confume Argan  Кондиционер на основе арганового масла 750мл</name>
+				<description>Ценное масло арганы на 80% состоит из ненасыщенных жирных кислот, которые являются незаменимыми элементами питания для волос. 
+Кондиционер с аргановым маслом укрепляет и восстанавливает структуру волос, придает силу и прочность. 
+Облегчает расчесывание, не утяжеляет. 
+Содержит высокую концентрацию натуральных антиоксидантов – полифенолов и токоферолов, обеспечивающих защиту от повреждающего действия свободных радикалов. 
+Благодаря такому составу аргановое масло обладает комплексным восстанавливающим и ухаживающим свойством, интенсивно увлажняет и питает волосы, делая их сильными и блестящими.</description>
+				<vendor>Welcos</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">030959(011590)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">9638</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>1304</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ011121424</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Бальзам/кондиционер</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">3574d614-56ac-11e9-fa91-9cdc71af0f48&amp;eb078902-4df9-11e8-ce9b-9cdc71af0f48&amp;eaf24402-4df9-11e8-ce9b-9cdc71af0f48&amp;5afcb290-4874-11e8-ce86-9cdc71af0f48&amp;307798e8-74b6-4f15-bfca-aaec722fe404&amp;151e5600-8f00-4422-bfa1-5a065de69c4b&amp;c6e6a760-79c4-47f0-bede-05096838e23d&amp;fc4d5366-0b48-4218-ba4d-d4c12c5ba514&amp;b5d53d92-ebdd-11e8-b982-9cdc71af0f48&amp;50707d3c-949f-4e41-b7c4-a13c83ce3e12&amp;9ac2bd3f-abc7-4dd8-b793-2fe768875582&amp;b8112d8d-9530-4fb3-b6ed-df823936af47&amp;a4f68766-1d3b-4239-b6b9-9c594383547d&amp;53a92956-4a4b-487e-b642-6d1f5c614603&amp;caeeeb23-c0b7-47d8-b366-ff357deaa4d9&amp;f5829bd2-ac55-43dc-b2d3-fce586fac143&amp;106b523a-0de4-4d7a-b245-850e3df0c1dc&amp;3fc133ac-e462-492a-b159-e47870cef53e&amp;aef52302-eb44-4499-b100-242c4fb59735&amp;1ba37d21-950d-45bc-af74-839aef8863a2&amp;627d28cb-8ad9-4315-ae63-92774e402dcd&amp;f7939c30-6534-4426-ad91-6d336eb6ecb0&amp;506cf520-41ea-4f86-acb0-1485a4e2186f&amp;ffcff6c1-7dba-47d2-ab4a-841e0e491cc9&amp;05bdd085-1ddb-4405-aaee-886dc086d3b7&amp;e88e1b26-7aa1-48f5-aa8c-9e5666b73fd5&amp;f0e4255b-4ef6-40df-aa80-749ca3476e8e</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">argan,Welcos,welcos,велк,велком,велкос</param>
+				<param name="product_id_n">0000000000000000001098875135</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велком</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велкос</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">argan</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велк</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">welcos</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
+			</offer>
+			<offer id="0000000000000000007002981335" group_id="0000000000000000007002981335">
+				<name>086967 Daeng Gi Meo Ri  Natural On Cool Шампунь с маслом чайного дерева 1000мл</name>
+				<description>Шампунь содержит масло чайного дерева и натуральные растительные экстракты, которые успокаивают чувствительную кожу головы и питают ослабленные волосы. 
+Масло мяты перечной и ментол освежают, снимают зуд и жжение. 
+Салицилат натрия обладает противогрибковым действием, он эффективно борется с перхотью и препятствует её повторному появлению. 
+Экстракты алоэ вера и розмарина интенсивно увлажняют и питают сухие и ломкие волосы, придавая им шелковистость и блеск. 
+Шампунь образует обильную пену, мягко очищающую волосы и кожу головы от излишков кожного жира, оставляя длительное ощущение свежести.</description>
+				<vendor>Daeng Gi Meo Ri</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">086967</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11122717</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>1599</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000011236</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Daeng Gi Meo Ri</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Жирные</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Сухие</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Смешанные</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Объем</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Против выпадения / перхоти</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Блеск</param>
+				<param name="Особенность состава (Косметика &quot;Для волос&quot;)">Подходит для ежедневного применения</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">34d3cc10-56ac-11e9-fa91-9cdc71af0f48&amp;5b10205a-4874-11e8-ce86-9cdc71af0f48&amp;e97dba80-6157-4a60-bf7b-139d92149ce9&amp;066af284-e9c8-42d1-becb-bb92f79dbb14&amp;ca5f7de2-fa3d-4d80-bdf9-0c19e7fd0ed5&amp;bbcd1f4e-27ed-40b4-b5ac-ea8297676e27&amp;e4efd78f-c244-4cbf-b44a-b29ff579d9c9&amp;c4b1a421-6191-4308-b3f2-2e53f87f0fa8&amp;8b38e639-be39-4650-b2c3-05a0b3ad446c&amp;1974de4a-24ce-415b-b1bd-af6499cfef28&amp;f45ad842-9c1b-486c-ae3a-a66a9436da57&amp;9a2ae20c-6d3a-4261-aac5-b7a4ebb84f1c&amp;c311dea1-43b7-4394-a961-c160c140785e&amp;6d65233f-d803-11df-a86d-00241d24624d&amp;1edcf209-37c6-4d63-a7da-cf539d78e4d9&amp;36f4d66c-ddab-11e8-a397-9cdc71af0f48&amp;75130a1d-1e87-4dff-8eac-48143d0ecad4&amp;3e696881-37ca-4d7e-8abf-dd856dd4c229&amp;e1063f85-caac-4720-81b8-9f91ebe41ced&amp;5d5c38d4-b7f6-11e8-3186-9cdc71af0f48</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">DAENG GI MEO RI</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">daeng gi meo ri</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">деанжи мори</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">DAENG GI MEO RI,daeng gi meo ri,деанжи мори</param>
+				<param name="product_id_n">0000000000000000007002981335</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000000013719511865" group_id="0000000000000000013719511865">
+				<name>136152 Маска для волос Ecopur Vitalizing Hair Pack 1000  </name>
+				<description>Уникальная маска именитого корейского производителя кардинальным образом преобразит Ваши волосы.
+Особенность Vitalizing Hair в том, что в составе присутствует богатый комплекс витаминов, способный ликвидировать любые проблемы с волосами.
+Состав маски для волос Vitalizing Pack — стопроцентно натуральные ингредиенты, которые содержат в себе силу самой природы.
+Экстракт алоэ, масло арганы, оливковое масло, экстракт банана и прочие натуральные компоненты помогут восстановить волосы, глубоко увлажнить них и эффективно защитить от неблагоприятного воздействия факторов окружающей среды.
+Натуральные масла и экстракты богаты питательными веществами и необходимыми витаминами.
+Они проникают в структуру волоса и восстанавливают ее, устраняя все повреждения и их причины.
+Также на волосах образуется легкое неощутимое защитное покрытие, которое надежно защищает от разрушений под действием солнечных лучей, ветра, морозов или высоких температур.
+Средство не содержит парабенов, искусственных ароматизаторов, минерального масла.</description>
+				<vendor>Ecopure</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">136152</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11119705</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>2370</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000012541</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Ecopure</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Маска/масло для волос</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Для всех типов волос</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Блеск</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Против секущихся кончиков</param>
+				<param name="Особенность состава (Косметика &quot;Для волос&quot;)">Подходит для ежедневного применения</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">895ebfb5-5993-4fe2-b56d-878cd248122d&amp;f3e8aab3-f140-4829-b258-ebedd322e5e3&amp;de7366da-0552-475f-ab2f-584138d700ed&amp;713ab91f-9fec-4790-a9c0-d3fa6a7129b4&amp;9b5e7254-5ebb-4641-a1c9-533b8234097d&amp;85e93c06-efe9-4218-9efe-f9b733dd8e8b&amp;085c93ba-7eca-4d95-9808-202bb909da83&amp;b292ed4f-d0f6-4134-931e-f6000ed8f0ea&amp;3b6918c4-b61b-4c9e-89cd-6316680a0e90&amp;a090841a-28ce-41b3-8643-d9bda053cdb2&amp;d235a79b-ffc4-4ff1-85cf-0b316de64c5e&amp;494bda7d-265d-45f6-836c-c556b033854e&amp;8c7fdd4a-9af1-11e8-828a-9cdc71af0f48&amp;75bd06ae-7aa7-49d3-8075-ef1a115c0781</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">экопюр</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ecopure</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ecopure</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">экопур </param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">экопюр,Ecopure,ecopure,экопур </param>
+				<param name="product_id_n">0000000000000000013719511865</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
+			</offer>
+			<offer id="0000000000000000003674723997" group_id="0000000000000000003674723997">
+				<name>720173 La Miso Увлажняющая эссенция для волос с экстрактом красного женшеня 150мл</name>
+				<description>Средство для ухода за волосами любого типа, но особенно рекомендуется для сухих и поврежденных волос.
+Эссенция увлажняет волосы, восстанавливает их, возвращает блеск и шелковистость.
+Также эссенция обладает анти-статическим действием, предупреждает спутывание волос, они становятся мягкими и послушными.
+Экстракт корня красного корейского женьшеня насыщает кожу головы и волосы витаминами группы B, сапонинами, энзимами, антиоксидантами, органическими кислотами и аминокислотами. 
+Благодаря своему уникальному химическому составу оказывает увлажняющее и питательное действие, повышает кожный иммунитет, тем самым препятствует выпадению волос и стимулирует рост, продлевает их жизненный цикл.
+Также в составе эссенции гиалуроновая кислота, которая буквально преображает волосы. Наполненные влагой они становятся более сильными, обретают упругость и шелковистость, блеск и мягкость, кончики меньше секутся, устраняются зуд и раздражения, исчезает перхоть, вызванная сухостью кожи.</description>
+				<vendor>La Miso</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">720173</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11121796</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>730</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000012711</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">La Miso</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Эссенция для волос</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">364d4378-56ac-11e9-fa91-9cdc71af0f48&amp;165d1246-42da-11e8-e08a-9cdc71af0f48&amp;f10f4d08-f4b2-485b-b3bb-b0a3bd80e490&amp;d95eb390-ddac-11e8-a397-9cdc71af0f48&amp;390bf5ca-ddab-11e8-a397-9cdc71af0f48&amp;074030f4-4133-4c5d-982e-b3cc70b7e3d1&amp;9d299383-5545-4b77-8fbc-492ab8fab833&amp;e91a53cf-f278-4563-8d73-6000933178e4&amp;84288758-b945-4340-8930-0a6c48819c15&amp;ee7c71ec-4774-43be-849e-35efd12aa7c8&amp;71fb570d-55ca-4de8-8370-deaa44b8e8ee&amp;a1362efa-ed6e-49ab-8167-d7bba2181fc0&amp;a0feabfa-f174-11e8-6396-9cdc71af0f48&amp;55cb4afe-5c49-11e9-2e9c-9cdc71af0f48</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">LaMiso,lamiso,mis,ла мисо,La Miso,la miso,ламисо,мисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">la miso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">mis</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">гахва</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">мисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ламисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Gahwa</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ла мисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lamiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">La Miso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">LaMiso</param>
+				<param name="product_id_n">0000000000000000003674723997</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
+			</offer>
 			<offer id="0000000000000000209894311561" group_id="0000000000000000209894311561">
 				<name>883755 Спрей для укладки волос АРГАНОВОЕ МАСЛО, Char Char Argan Oil Super Hard Water Spray, 250 мл</name>
 				<description>Спрей для укладки волос с аргановым маслом
@@ -200,6 +1186,74 @@
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Evas Cosmetics</param>
 				<param name="product_id_n">0000000000000000209894311561</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="20988948-36d0-427e-862f-a1f6f3084492" group_id="20988948-36d0-427e-862f-a1f6f3084492">
+				<name>061153 MASIL 5 PROBIOTICS PERFECT VOLUME Шампунь с пробиотиками д/объема волос 500мл</name>
+				<description>Мягкий шампунь с пробиотиками восстанавливает здоровье кожи головы, снимает раздражение, залечивает мелкие ранки, восстанавливает секущиеся кончики, придает блеск тусклым волосам и увлажняет сухую кожу головы. Пробиотики не просто убирают грязь, а оставляют после себя полезные бактерии, которые продолжают работу по очистке помещения от мусора и микроорганизмов. Средство восстанавливает ломкие, поврежденные и секущиеся волосы. Мягкая формула шампуня устраняет излишнюю пушистость и наэлектризованность волос, а также придает им воздушный объем и нежный аромат. Регулярное использование шампуня является профилактикой выпадения волос и появления перхоти. 
+
+Способ применения: Нанесите шампунь на влажные чистые волосы и кожу головы, мягко помассируйте 2-3 минуты и тщательно смойте теплой водой</description>
+				<vendor>MASIL</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">061153</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">4395</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>2042</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00002836</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">MASIL</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Объем</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Очищение</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">2c56d24a-b9c1-4393-bb06-7a24edbf4784&amp;3d5a8868-ead3-4942-b867-669c005bcb7e&amp;2f0ebd4f-7d28-470e-b65e-db296ded3f7b&amp;8b3658d6-8d56-406b-b062-b97ec9ffb52d&amp;8f6f9eaa-b146-440c-add3-233d765949b3&amp;14e58a07-78b4-4d9a-a9b7-4bc0dc7c5ec5&amp;e59f6ae0-d81e-42c5-a589-caed4f24defb&amp;31708032-d5c7-4602-a537-96ad5dadfe35&amp;24fb9e5f-c546-44cc-a3b1-ea0e1af17f95&amp;6c97e386-3da9-40fe-a16d-0c5d845b8ba5&amp;54d1f086-4798-4223-91f9-4c5c5df8bae3&amp;8d5e6324-c8d8-11e9-8ec2-9cdc71af0f49&amp;629125d8-dacc-4ff4-881a-bde80428053b&amp;dd2b1aa5-d22f-4314-81ce-71860433a257&amp;c5cc124a-2a07-4a9c-800b-8a9fe7f67b11</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -279,6 +1333,290 @@
 				<width>1</width>
 				<height>1</height>
 				<quantity>3</quantity>
+			</offer>
+			<offer id="0000000000000000000000001972" group_id="0000000000000000000000001972">
+				<name>300075 BUENO Питательный шампунь с ксантохумолом, 500 мл</name>
+				<description>Питательный шампунь с ксантохумолом **Bueno Xanthohumor Shampoo.** 
+Обеспечивает питание кожи головы с помощью антиоксиданта Ксантохумол. Ксантохумол, Витамин B и дрожжевой экстракт улучшают кровообращение и снабжают кожу головы питательными веществами.
+В результате волосы и кожа головы становятся блестящими и здоровыми. Сохраняет сияние волос и кожи головы. 
+Этот шампунь питает волосы, улучшает кровообращение и доставляет питательные вещества к коже головы. Ухаживает за кожей, предотвращает выпадение волос, выводит токсины, укрепляет корни волос и придает волосам объем. 
+При регулярном использовании он предотвратит выпадение волос и ускорит их рост. 
+Этот продукт премиум-класса обеспечит эффективный уход за блестящими и здоровыми волосами.</description>
+				<vendor>Bueno</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">300075(320029)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">3865</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>2862</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000009661</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Bueno</param>
+				<param name="product_id_n">0000000000000000000000001972</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>3</quantity>
+			</offer>
+			<offer id="0000000000000000000008901302" group_id="0000000000000000000008901302">
+				<name>410498 La Miso Укрепляющий шампунь с кератином 500мл</name>
+				<description>Шампунь с кератином и протеинами возвращает волосам здоровье и упругость, деликатно очищает кожу головы, не травмируя луковицы. Состав, насыщенный 22 аминокислотами, напрямую влияет на прочность волос и создает визуальный эффект густоты. Увлажняющий глутаминовый комплекс насыщает влагой. Обладает антистатическим эффектом. Не содержит масла, силиконов и парабенов.</description>
+				<vendor>La Miso</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">410498</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">3856</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>1468</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ011121379</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">La Miso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ламисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">мисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">La Miso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lamiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">гахва</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ла мисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">LaMiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Gahwa</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">la miso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">mis</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000000008901302</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
+			</offer>
+			<offer id="0000000000000000000781889238" group_id="0000000000000000000781889238">
+				<name>710585 Глубокоочищающий шампунь с кислотами Floland Scalp Deep Cleansing Shampoo(150 мл)</name>
+				<description>Шампунь Floland Scalp Deep Cleansing Shampoo глубоко очищает кожу головы, устраняет излишнюю жирность и продлевает чистоту волос. Продукт укрепляет волосяные луковицы, помогая в борьбе с выпадением и также предотвращая появление перхоти. Делает локоны гладкими, упругими и возвращает здоровый блеск.Шампунь направлен на глубокое очищение кожи головы, эффективно удаляет шелушения и омертвевшие клетки, освежает и помогает в борьбе с перхотью, надолго сохраняя их чистыми.
+
+Продукт рекомендуется для чувствительной кожи головы и ослабевших волос, он укрепляет и повышает упругость прядей, восстанавливает волосяные луковицы и сокращает выпадение волос. Возвращает локонам природную силу и блеск.</description>
+				<vendor>Floland</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">710585</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">4236</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>648</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001026</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Floland</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Против выпадения / перхоти</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">2c56d24a-b9c1-4393-bb06-7a24edbf4784&amp;3d5a8868-ead3-4942-b867-669c005bcb7e&amp;8b3658d6-8d56-406b-b062-b97ec9ffb52d&amp;8f6f9eaa-b146-440c-add3-233d765949b3&amp;14e58a07-78b4-4d9a-a9b7-4bc0dc7c5ec5&amp;e59f6ae0-d81e-42c5-a589-caed4f24defb&amp;31708032-d5c7-4602-a537-96ad5dadfe35&amp;24fb9e5f-c546-44cc-a3b1-ea0e1af17f95&amp;6c97e386-3da9-40fe-a16d-0c5d845b8ba5&amp;54d1f086-4798-4223-91f9-4c5c5df8bae3&amp;8d5e6324-c8d8-11e9-8ec2-9cdc71af0f49&amp;629125d8-dacc-4ff4-881a-bde80428053b&amp;dd2b1aa5-d22f-4314-81ce-71860433a257&amp;c5cc124a-2a07-4a9c-800b-8a9fe7f67b11</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">floland</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фоланд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Floland</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">флоланд</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000000781889238</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>1</quantity>
+			</offer>
+			<offer id="0000000000000000000005819004" group_id="0000000000000000000005819004">
+				<name>710592 Глубокоувлажняющий шампунь с витаминами и гиалуроновой кислотой Floland Deep Moisture Rebalancing Sh</name>
+				<description>Увлажняющий шампунь Floland Deep Moisture Rebalancing Shampoo эффективно устраняет сухость и ломкость прядей, уплотняет, запечатывает повреждённые волосяные фолликулы, борется с секущимися кончиками, делает волосы послушными, здоровыми и блестящими. Шампунь отлично подходит для сухих волос лишённых блеска и гладкости.
+Продукт восполняет недостаток влаги и борется с сухостью, интенсивно увлажняя волосы и предотвращая сечение прядей. Укрепляет и защищает волосы, подверженные частой укладке и термо-воздействию. Обладает функцией защиты цвета, препятствует его вымыванию, сохраняя яркость и блеск.</description>
+				<vendor>Floland</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">710592</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">4237</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>648</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001026</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Floland</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Блеск</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Против секущихся кончиков</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">2c56d24a-b9c1-4393-bb06-7a24edbf4784&amp;3d5a8868-ead3-4942-b867-669c005bcb7e&amp;8b3658d6-8d56-406b-b062-b97ec9ffb52d&amp;8f6f9eaa-b146-440c-add3-233d765949b3&amp;14e58a07-78b4-4d9a-a9b7-4bc0dc7c5ec5&amp;e59f6ae0-d81e-42c5-a589-caed4f24defb&amp;31708032-d5c7-4602-a537-96ad5dadfe35&amp;24fb9e5f-c546-44cc-a3b1-ea0e1af17f95&amp;6c97e386-3da9-40fe-a16d-0c5d845b8ba5&amp;54d1f086-4798-4223-91f9-4c5c5df8bae3&amp;8d5e6324-c8d8-11e9-8ec2-9cdc71af0f49&amp;629125d8-dacc-4ff4-881a-bde80428053b&amp;dd2b1aa5-d22f-4314-81ce-71860433a257&amp;c5cc124a-2a07-4a9c-800b-8a9fe7f67b11</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">флоланд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фоланд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Floland</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">floland</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000000005819004</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
 			</offer>
 			<offer id="4560492a-1277-48e2-8f60-e6bbba4c7d03" group_id="4560492a-1277-48e2-8f60-e6bbba4c7d03">
 				<name>740544 RYO HS Шампунь для волос укрепляющий RYO Hair Strengthen &amp; Volume Shampoo 550мл</name>
