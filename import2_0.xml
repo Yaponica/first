@@ -6,7 +6,6 @@
 		</currencies>
 		<categories>
 			<category id="УТ-00002927">RYO</category>
-			<category id="УТ-00002349">FlordeMan</category>
 		</categories>
 		<offers>
 			<offer id="0000000000000000476799376442" group_id="0000000000000000476799376442">
@@ -140,82 +139,6 @@
 				<width>1</width>
 				<height>1</height>
 				<quantity>0</quantity>
-			</offer>
-			<offer id="0000000000000000000089921053" group_id="0000000000000000000089921053">
-				<name>120687 Flor de Man MF Keratin Silk Protein Кератиновая маска с протеинами шелка для волос,500мл</name>
-				<description>Ломкость, сухость и тусклость волос – свидетельство нехватки кератина.
-Питательная маска с протеинами шелка Keratin Silkprotein Hair Pack от Flor De Man позволит устранить этот недостаток, подарит прядям здоровье и красоту в домашних условиях.
-Средство насыщает каждый волос натуральным белком, восстанавливает их на структурном уровне, позволяет впитывать максимум влаги и витаминов.
-Невидимая пленка, образуемая на поверхности окрашенных прядей, защищает цвет от преждевременного вымывания.
-Результатом курсового применения маски станет избавление от ломкости и решение проблемы секущихся кончиков.
-Продукт рекомендован для окрашенных, травмированных химическими завивками и пересушенных волос.
-</description>
-				<vendor>Flor de Man</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">120687</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">2767</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>1222</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00002349</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Flor de Man</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Маска/масло для волос</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">14ecc32a-789e-11e9-e989-9cdc71af0f48&amp;322028b2-4dfa-11e8-ce9b-9cdc71af0f48&amp;3215cb74-4dfa-11e8-ce9b-9cdc71af0f48&amp;5b2182dc-4874-11e8-ce86-9cdc71af0f48&amp;5ae78410-4874-11e8-ce86-9cdc71af0f48&amp;5a79c560-4874-11e8-ce86-9cdc71af0f48&amp;addc0a08-ecb9-11e8-b982-9cdc71af0f48&amp;c4b4989a-c742-45c9-b60e-88eb92bc1b0c&amp;cb195d94-efe2-4db4-b5ba-f0041affb6c3&amp;895ebfb5-5993-4fe2-b56d-878cd248122d&amp;1eebb058-e65c-4d58-b492-8671266092fc&amp;f3e8aab3-f140-4829-b258-ebedd322e5e3&amp;f9f4870d-1b92-46c0-b252-ecaa1c7618c0&amp;4bb33495-c2a1-4873-b0b8-6457e2b6ebc5&amp;e4dff8e6-90df-4315-b06e-0b97edfee329&amp;3134caab-8aaa-4cd8-acab-0c8652dfd042&amp;5caa8218-f43c-4708-ab78-1bc307a7967b&amp;de7366da-0552-475f-ab2f-584138d700ed&amp;713ab91f-9fec-4790-a9c0-d3fa6a7129b4&amp;11aeb961-3eff-4f24-a94d-3c8fc37827fe&amp;37a95b78-ddab-11e8-a397-9cdc71af0f48&amp;9b5e7254-5ebb-4641-a1c9-533b8234097d&amp;85e93c06-efe9-4218-9efe-f9b733dd8e8b&amp;507e970a-f4a5-4726-9853-9dad523e330e&amp;15077807-528c-4706-983e-df057429ed3d&amp;301e9d03-e83b-496f-9604-28fab862d7b7&amp;9ac9cd3c-3401-4726-94a5-edb750c61f7d</param>
-				<param name="product_id_n">0000000000000000000089921053</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Florde</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">флорде мен</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">FlordeMan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">FroldeMan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">FlodeMan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">flordeman</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>1</quantity>
 			</offer>
 			<offer id="0000000000000000209894311561" group_id="0000000000000000209894311561">
 				<name>883755 Спрей для укладки волос АРГАНОВОЕ МАСЛО, Char Char Argan Oil Super Hard Water Spray, 250 мл</name>
