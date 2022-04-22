@@ -5,22 +5,21 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
-			<category id="УТ000012537">КРЕМ ДЛЯ НОГ</category>
+			<category id="УТ-00003630">Япония</category>
 		</categories>
 		<offers>
-			<offer id="0000000000000000039637527859" group_id="0000000000000000039637527859">
-				<name>327785 Крем-бальзам для кожи ступней с эффектом пилинга, 40мл, KOELF</name>
-				<description>Бальзам-пилинг Koelf представляет собой уникальное, интенсивное средство, которое предназначено для нанесения на сухие мозоли, натоптыши и трещины. 
-Он помогает смягчить и отшелушить грубый эпидермис. 
-Кроме того, средство регулирует потоотделение, оказывает дезодорирующее действие, освежает и снимает усталость ног. 
-Бальзам мягко отшелушивает ороговевшие клетки кожи, а их место занимают новые клетки, таким образом, кожа обновляется безболезненно и естественным путем. 
-Крем - бальзам содержит специальные микро-капсулы с  натуральными экстрактами редких лекарственных растений, которые питают и увлажняют кожу, фруктовыми кислотами (лимонная кислота) для интенсивного отшелушивания; растительные масла для смягчения сухой кожи. 
-Мочевина в составе крема создает на поверхности кожи защитную пленку, препятствующую потери влаги в течении долгового времени. 
-При регулярном применении крема кожа ног становится необычайно гладкой, старая грубая кожа постепенно отшелушивается, натоптоши и мозоли исчезают.</description>
-				<vendor>Koelf</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
+			<offer id="0000000000000000704981644772" group_id="0000000000000000704981644772">
+				<name>273045 "Body Wash Towel" Мочалка для тела жесткая (салатовая)</name>
+				<description>Размер: 30х100 см.
+Массажная мочалка хорошо очищает поры кожи.
+Действует на кожу с умеренной интенсивностью.
+Особая текстура из микроволокна улучшает микроциркуляцию крови.
+Хорошо вспенивает моющие средства.
+Благодаря своим размерам очень удобна в применении. </description>
+				<vendor>KAI</vendor>
+				<country_of_origin>Япония</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">327785</param>
+				<param name="Артикул">273045</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
@@ -40,7 +39,7 @@
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11121535</param>
+				<param name="КодДляПоиска">11122400</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -56,29 +55,165 @@
 				<param name="СрокГодности">0</param>
 				<param name="СтавкаНДС">Без НДС</param>
 				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для ног</param>
-				<param name="ЦеноваяГруппа">Для ног</param>
-				<price>976</price>
+				<param name="ТоварнаяКатегория">Косметика для тела</param>
+				<param name="ЦеноваяГруппа">Для тела</param>
+				<price>533</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ000012537</categoryId>
+				<categoryId>УТ-00003630</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Koelf</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Скрабы/пилинги для тела</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Дезодорирование</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">KAI</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мочалки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">31550588-4dfa-11e8-ce9b-9cdc71af0f48&amp;2368074c-f46a-11e8-ce8b-9cdc71af0f48&amp;22bfb592-f46a-11e8-ce8b-9cdc71af0f48&amp;bbac444c-6369-4edd-bd6f-ddc752e86ded&amp;94ece83f-188c-4753-b4f8-6a214ebb959c&amp;d095b906-051d-4da5-a693-603a17e05b9a&amp;fab5123e-599d-40a8-9d53-e8e564d6660e&amp;7b395e15-526f-413c-9392-585505200039&amp;9b36c2b9-40a7-477a-9066-0ceaff3a7629&amp;b4076b2f-1dab-11ea-8ec6-9cdc71af0f49&amp;09958f95-b1cc-11e9-8ebc-9cdc71af0f49&amp;fbad75d2-feb8-4216-8c64-fc44f3013c3c&amp;1ad9d250-e807-11e8-5a94-9cdc71af0f48&amp;693fb6d0-9c7b-11e8-389a-9cdc71af0f48&amp;68cb6e9c-9c7b-11e8-389a-9cdc71af0f48&amp;684690e6-9c7b-11e8-389a-9cdc71af0f48&amp;dd32eefc-5c35-11e9-2e9c-9cdc71af0f48&amp;dbd7d5f4-5c35-11e9-2e9c-9cdc71af0f48&amp;dac09552-5c35-11e9-2e9c-9cdc71af0f48&amp;d9ab5030-5c35-11e9-2e9c-9cdc71af0f48&amp;4a9788d4-30e2-11e8-1d97-9cdc71af0f48</param>
+				<param name="product_id_n">0000000000000000704981644772</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
+			</offer>
+			<offer id="0000000000000000397173273638" group_id="0000000000000000397173273638">
+				<name>273090 KAI Мочалка д/тела "Supper Bubble" жесткая, нейлон, синяя, в форме шарфа 30*100см</name>
+				<description>Мочалка представляет собой тонкое жесткое полотенце.
+Её форма подходит для людей любого телосложения.
+Такой мочалкой легко и удобно мыть спину.
+Мочалка оказывает прекрасное массирующее и очищающее действие на кожу, стимулирует кровообращение, улучшает обмен веществ. Благодаря уникальной технологии переплетения нитей, моментально образует густую пену при минимальном количестве мыла.
+Мочалку легко мыть, она моментально сохнет, ее удобно брать с собой в дорогу.
+Мочалка долговечна и с годами не теряет своих качеств.</description>
+				<vendor>KAI</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">273090</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">438</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>533</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00003630</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">KAI</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мочалки</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">KAI,kai,каи,кай</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">31550588-4dfa-11e8-ce9b-9cdc71af0f48&amp;2368074c-f46a-11e8-ce8b-9cdc71af0f48&amp;22bfb592-f46a-11e8-ce8b-9cdc71af0f48&amp;bbac444c-6369-4edd-bd6f-ddc752e86ded&amp;94ece83f-188c-4753-b4f8-6a214ebb959c&amp;d095b906-051d-4da5-a693-603a17e05b9a&amp;f1011c9e-6698-404d-a212-077c8f6f095f&amp;fab5123e-599d-40a8-9d53-e8e564d6660e&amp;7b395e15-526f-413c-9392-585505200039&amp;9b36c2b9-40a7-477a-9066-0ceaff3a7629&amp;b4076b2f-1dab-11ea-8ec6-9cdc71af0f49&amp;09958f95-b1cc-11e9-8ebc-9cdc71af0f49&amp;fbad75d2-feb8-4216-8c64-fc44f3013c3c&amp;1ad9d250-e807-11e8-5a94-9cdc71af0f48&amp;68cb6e9c-9c7b-11e8-389a-9cdc71af0f48&amp;684690e6-9c7b-11e8-389a-9cdc71af0f48&amp;dd32eefc-5c35-11e9-2e9c-9cdc71af0f48&amp;dbd7d5f4-5c35-11e9-2e9c-9cdc71af0f48&amp;dac09552-5c35-11e9-2e9c-9cdc71af0f48&amp;d9ab5030-5c35-11e9-2e9c-9cdc71af0f48&amp;4a9788d4-30e2-11e8-1d97-9cdc71af0f48</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">каи</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">кай</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">KAI</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kai</param>
+				<param name="product_id_n">0000000000000000397173273638</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>5</quantity>
+			</offer>
+			<offer id="0000000000000000038973273638" group_id="0000000000000000038973273638">
+				<name>273106 KAI Мочалка д/тела "Supper Bubble" массажная жесткая, нейлон, ярко-розовая, в форме шарфа 30*100см</name>
+				<description>Мягко очищает кожу, нежно удаляя огрубевшие частички.
+Эффект пилинга достигается благодаря гофрированному волокну с шероховатой структурой.
+Мочалка улучшает циркуляцию крови во всем теле.
+После регулярного использования кожа становится более упругой и эластичной.
+Благодаря необычному переплетению нитей для получения обильной пены достаточно нанести на мочалку небольшое количество жидкого мыла или геля для душа.
+После каждого использования изделие нужно прополоскать и высушить.</description>
+				<vendor>KAI</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">273106</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">437</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>533</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00003630</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">KAI</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мочалки</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Очищение</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
-				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Ноги</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">a9a0dcde-a792-41d7-a8be-c8061e5f0908&amp;33b7542c-1a96-4856-9569-d7e65b853a2e&amp;ad342b30-bcb6-4187-8e10-c72004e35160&amp;1576f0f2-6fc2-4614-8520-264bd8009d56</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">elf</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Koelf</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">koelf</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">KOELF</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">коэльф</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">эльф</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">elf,Koelf,koelf,KOELF,коэльф,эльф</param>
-				<param name="product_id_n">0000000000000000039637527859</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">2368074c-f46a-11e8-ce8b-9cdc71af0f48&amp;22bfb592-f46a-11e8-ce8b-9cdc71af0f48&amp;bbac444c-6369-4edd-bd6f-ddc752e86ded&amp;94ece83f-188c-4753-b4f8-6a214ebb959c&amp;d095b906-051d-4da5-a693-603a17e05b9a&amp;f1011c9e-6698-404d-a212-077c8f6f095f&amp;7b395e15-526f-413c-9392-585505200039&amp;9b36c2b9-40a7-477a-9066-0ceaff3a7629&amp;b4076b2f-1dab-11ea-8ec6-9cdc71af0f49&amp;09958f95-b1cc-11e9-8ebc-9cdc71af0f49&amp;fbad75d2-feb8-4216-8c64-fc44f3013c3c&amp;693fb6d0-9c7b-11e8-389a-9cdc71af0f48&amp;dd32eefc-5c35-11e9-2e9c-9cdc71af0f48&amp;dbd7d5f4-5c35-11e9-2e9c-9cdc71af0f48&amp;dac09552-5c35-11e9-2e9c-9cdc71af0f48&amp;d9ab5030-5c35-11e9-2e9c-9cdc71af0f48&amp;4a9788d4-30e2-11e8-1d97-9cdc71af0f48</param>
+				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">KAI</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kai</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">каи</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">кай</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">KAI,kai,каи,кай</param>
+				<param name="product_id_n">0000000000000000038973273638</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -88,6 +223,78 @@
 				<width>1</width>
 				<height>1</height>
 				<quantity>3</quantity>
+			</offer>
+			<offer id="0000000000000000000009727439" group_id="0000000000000000000009727439">
+				<name>273113 Мочалка для тела KAI Supper Bubble массажная жесткая нейлон зеленая в форме шарфа 30*100см</name>
+				<description>Supper Bubble Мочалка для тела жесткая, нейлон, в форме шарфа размер 30 см х 100 см.
+Мочалка из жесткого нейлона с объемным сложным плетением и дополнительными завитками создает обильную, упругую пену, хорошо очищает и массирует кожу, обеспечивает пилинг, усиливает циркуляцию крови.
+Быстро высыхает после использования.
+Способ применения:
+Использовать для мытья тела в комплексе с гелем для душа, мылом.
+После использования прополоскать, отжать и высушить.
+Состав: 100% нейлон.</description>
+				<vendor>KAI</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">273113</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1502</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>533</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00003630</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">KAI</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мочалки</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Очищение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">2368074c-f46a-11e8-ce8b-9cdc71af0f48&amp;22bfb592-f46a-11e8-ce8b-9cdc71af0f48&amp;bbac444c-6369-4edd-bd6f-ddc752e86ded&amp;94ece83f-188c-4753-b4f8-6a214ebb959c&amp;d095b906-051d-4da5-a693-603a17e05b9a&amp;f1011c9e-6698-404d-a212-077c8f6f095f&amp;7b395e15-526f-413c-9392-585505200039&amp;9b36c2b9-40a7-477a-9066-0ceaff3a7629&amp;b4076b2f-1dab-11ea-8ec6-9cdc71af0f49&amp;fbad75d2-feb8-4216-8c64-fc44f3013c3c&amp;693fb6d0-9c7b-11e8-389a-9cdc71af0f48&amp;68cb6e9c-9c7b-11e8-389a-9cdc71af0f48&amp;dd32eefc-5c35-11e9-2e9c-9cdc71af0f48&amp;dbd7d5f4-5c35-11e9-2e9c-9cdc71af0f48&amp;dac09552-5c35-11e9-2e9c-9cdc71af0f48&amp;d9ab5030-5c35-11e9-2e9c-9cdc71af0f48&amp;4a9788d4-30e2-11e8-1d97-9cdc71af0f48</param>
+				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
+				<param name="product_id_n">0000000000000000000009727439</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>2</quantity>
 			</offer>
 		</offers>
 	</shop>
