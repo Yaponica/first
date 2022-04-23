@@ -5,28 +5,32 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
-			<category id="УТ-00003630">Япония</category>
-			<category id="УТ-00001568">COW</category>
+			<category id="УТ-00002250">MEISHOKU</category>
 		</categories>
 		<offers>
-			<offer id="0000000000000000001303327238" group_id="0000000000000000001303327238">
-				<name>273038 "Body Wash Towel" Мочалка для тела жесткая (ярко-розовая)</name>
-				<description>Мочалка из нейлона с плотным плетением "Волна" создает густую пену, обеспечивает отличный пилинг.
-Мочалка прекрасно подходит для очищения кожи и стимулирует циркуляцию крови.
-Структура нитей средней жесткост обеспечит неповторимое ощущение свежести и бодрящего массажа.
-Мочалка воздействует на кожу с умеренной интенсивностью.
-Яркие цвета мочалок в данной серии поднимут настроение и сделают принятие ванны особенно приятным!</description>
-				<vendor>KAI</vendor>
+			<offer id="0000000000000000000303932317" group_id="0000000000000000000303932317">
+				<name>144059 Лосьон для кожи после удаления волос Meishoku After Care Treatment Hard</name>
+				<description>Лосьон для ухода за кожей после удаления и обесцвечивания волос Meishoku Seasons Аfter Care Treatment Hard используется для кожи, требующей постоянного удаления или обесцвечивания волос.
+Смягчает и питает раздражённую после удаления волос кожу.
+Активные компоненты:
+- Натуральный энзим бромелаин (фермент из стебля ананаса)защищает кожу от воспалений, пересыхания, обеспечивает ее увлажнение.
+- Экстракт пуэрарии мирифика (содержит 15 видов изофлавонов) обладает антиоксидантными, противовоспалительными, увлажняющими, питательными, защитными свойствами.
+- Экстракт граната увлажняет, смягчает и выравнивает кожу, оказывает легкое охлаждающее и противовоспалительное действие, стимулирует синтез коллагена и уменьшает пигментацию.
+Лосьон предотвращает сухость кожи, вызванную раздражением после удаления и обесцвечивания волос.
+После применения лосьона текстура кожи выравнивается, кожа становится гладкой и увлажнённой.
+Подходит для ежедневного ухода.
+Обладает ароматом сочного ананаса.</description>
+				<vendor>MEISHOKU</vendor>
 				<country_of_origin>Япония</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">273038</param>
+				<param name="Артикул">144059</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
 				<param name="ВесИспользовать">Нет</param>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
 				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
+				<param name="ВидНоменклатуры">Товары</param>
 				<param name="ДлинаЕдиницаИзмерения"/>
 				<param name="ДлинаЗнаменатель">0</param>
 				<param name="ДлинаИспользовать">Нет</param>
@@ -39,7 +43,7 @@
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">691</param>
+				<param name="КодДляПоиска">2234</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -57,16 +61,25 @@
 				<param name="ТипНоменклатуры">Товар</param>
 				<param name="ТоварнаяКатегория"/>
 				<param name="ЦеноваяГруппа"/>
-				<price>533</price>
+				<price>779</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00003630</categoryId>
+				<categoryId>УТ-00002250</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">KAI</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мочалки</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">31550588-4dfa-11e8-ce9b-9cdc71af0f48&amp;22bfb592-f46a-11e8-ce8b-9cdc71af0f48&amp;bbac444c-6369-4edd-bd6f-ddc752e86ded&amp;94ece83f-188c-4753-b4f8-6a214ebb959c&amp;d095b906-051d-4da5-a693-603a17e05b9a&amp;f1011c9e-6698-404d-a212-077c8f6f095f&amp;fab5123e-599d-40a8-9d53-e8e564d6660e&amp;7b395e15-526f-413c-9392-585505200039&amp;9b36c2b9-40a7-477a-9066-0ceaff3a7629&amp;b4076b2f-1dab-11ea-8ec6-9cdc71af0f49&amp;09958f95-b1cc-11e9-8ebc-9cdc71af0f49&amp;fbad75d2-feb8-4216-8c64-fc44f3013c3c&amp;1ad9d250-e807-11e8-5a94-9cdc71af0f48&amp;693fb6d0-9c7b-11e8-389a-9cdc71af0f48&amp;68cb6e9c-9c7b-11e8-389a-9cdc71af0f48&amp;684690e6-9c7b-11e8-389a-9cdc71af0f48&amp;dd32eefc-5c35-11e9-2e9c-9cdc71af0f48&amp;dbd7d5f4-5c35-11e9-2e9c-9cdc71af0f48&amp;dac09552-5c35-11e9-2e9c-9cdc71af0f48&amp;d9ab5030-5c35-11e9-2e9c-9cdc71af0f48&amp;4a9788d4-30e2-11e8-1d97-9cdc71af0f48</param>
-				<param name="product_id_n">0000000000000000001303327238</param>
-				<param name="Нормальное количество (Справочник &quot;Номенклатура&quot; (Общие))">5</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">MEISHOKU</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Лосьон/молочко для тела</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">f60c0d63-f812-4b79-a6b0-d30bb27c5bc0&amp;7b3388a6-1d52-439d-9fa7-8a8333ea5dc3&amp;c8e1816c-fc2c-4df9-9f11-d5fe67521fcd&amp;7a87f088-b1da-464d-9d09-c7cb605969cb&amp;79625991-a624-46ad-922b-25aeb515d34e</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">MEISHOKU</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Meishoku</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">meishoku</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">meisoku</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">mishoku</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">майшоку</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">MEISHOKU,Meishoku,meishoku,meisoku,mishoku,майшоку</param>
+				<param name="product_id_n">0000000000000000000303932317</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -75,148 +88,7 @@
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>2</quantity>
-			</offer>
-			<offer id="0000000000000000002949197928" group_id="0000000000000000002949197928">
-				<name>004923 COW Лечебное дезод. мыло DE2 от постор.запахов - medicinal refreshing deodorant soap 125гр</name>
-				<description>Дезодорирующее мыло от знаменитого производителя молочного мыла Cow Brand, содержит танин из хурмы, который предотвращает излишнее потоотделение и устраняет более 95% всех отчетливых запахов, в том числе нейтрализует действие ноненалов, выдающих наш возраст, то есть это вариант идеального мыла с точки зрения японцев.
-Кроме этого, мыло содержит растительные экстракты чая, ириса, гвоздики и алтея, которые обладают успокаивающим и антиоксидантным эффектом.
-Активный ингредиент IPMP - предотвращает размножение бактерий вызывающих характерный неприятный запах пота.
-Мыло предназначено для ежедневного ухода, с освежающим цитрусово-цветочным ароматом.</description>
-				<vendor>Cow Brand</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">004923</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11121629</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для тела</param>
-				<param name="ЦеноваяГруппа">Мыло для тела (кусковое)</param>
-				<price>1058</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001568</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мыло кусковое</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Очищение</param>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">7e90fff4-e67b-11e8-c08d-9cdc71af0f48&amp;6375f322-7af1-4554-be64-66ede1e9aafc&amp;c1933799-daeb-461e-aa0f-1a885ed91aef&amp;6d6522e7-d803-11df-a86d-00241d24624d&amp;112d1356-b528-11e9-8ebd-9cdc71af0f49&amp;dbe1b898-5f7e-11e9-899b-9cdc71af0f48</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand ,cow brand ,CowBrand ,ков бренд ,Ков бренд,ковбренд,боунсиа</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
-				<param name="product_id_n">0000000000000000002949197928</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ков бренд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ковбренд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ков бренд </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">боунсиа</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">cow brand </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">CowBrand </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand </param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>1</quantity>
-			</offer>
-			<offer id="0000000000000000000005889319" group_id="0000000000000000000005889319">
-				<name>273007 "Body Wash Towel" Мочалка для тела средней жесткости (голубая)</name>
-				<description>Мочалка средней жесткости деликатно воздействует на кожу и образует обильную пену в процессе использования.
-Светлые пастельные тона данной серии мочалок дарят позитивный настрой и хорошее настроение!</description>
-				<vendor>KAI</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">273007</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11120936</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для тела</param>
-				<param name="ЦеноваяГруппа">Для тела</param>
-				<price>533</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00003630</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">KAI</param>
-				<param name="Нормальное количество (Справочник &quot;Номенклатура&quot; (Общие))">5</param>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="product_id_n">0000000000000000000005889319</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>2</quantity>
+				<quantity>3</quantity>
 			</offer>
 		</offers>
 	</shop>
