@@ -5,9 +5,175 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
+			<category id="УТ-00001670">Moist Diane</category>
 			<category id="УТ-00002927">RYO</category>
+			<category id="УТ000011236">Daeng Gi Meo Ri</category>
 		</categories>
 		<offers>
+			<offer id="0000000000000000004733885523" group_id="0000000000000000004733885523">
+				<name>224811 Шампунь кератиновый Moist Diane Perfect Beauty , 450 мл</name>
+				<description>Действие шампуня:
+- Увеличивает объем волос.
+- Стимулирует рост волос.
+- Очищает волосы и кожу головы.
+- Устраняет сухость и шелушения кожи головы.
+Гидрофильный шампунь Moist Diane Extra Volume&amp;Scalp деликатно очищает волосы и кожу головы, сохраняя естественную увлажнённость волос.
+ЯПОНСКИЕ ИННОВАЦИОННЫЕ ТЕХНОЛОГИИ:
+~ NREL™ (Nano Repair EL) - инновационная технология, которая противодействует повреждениям, вызванным термовоздействием (например, сушка феном). Часть ингредиентов не проникает глубоко в слои волоса, пока он влажный, начиная реагировать только от воздействия тепла (фен, плойка).
+~ NRM™ (Nano Repair Matrix) - комбинация Hair Volumizing beauty-кератинов и нано-частиц арганового масла стимулирует рост новых волос, борется с шелушением и зудом кожи головы, возвращает волосам упругость и эластичность.
+БЕЗ СИЛИКОНОВ | БЕЗ СУЛЬФАТОВ!
+Содержит:
+- 8 органических масел
+- 3 вида кератина
+- Коэнзим Q10, биотин
+- 2 экстракта водорослей
+- 4 растительных экстракта
+- Витамин Е
+- Гиалуроновая кислота и коллаген</description>
+				<vendor>Moist Diane</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">224811</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1667</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа">Moist Diane</param>
+				<price>1511</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001670</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">34d3cc10-56ac-11e9-fa91-9cdc71af0f48&amp;5b10205a-4874-11e8-ce86-9cdc71af0f48&amp;e97dba80-6157-4a60-bf7b-139d92149ce9&amp;072af527-c39d-46bf-bed6-773d4587d0f3&amp;066af284-e9c8-42d1-becb-bb92f79dbb14&amp;ca5f7de2-fa3d-4d80-bdf9-0c19e7fd0ed5&amp;b399ac70-5df9-40ba-bd7a-195834e402a2&amp;93ca427f-c15c-440c-bc8e-953423d5c804&amp;b79be753-7dd0-4bc0-bad4-b51f7f53faad&amp;55a9e904-8eb9-4119-baab-5376756a27c2&amp;bb00c32c-ebdd-11e8-b982-9cdc71af0f48&amp;b681564a-ebdd-11e8-b982-9cdc71af0f48&amp;39eaf40c-802a-11e8-b78a-9cdc71af0f48&amp;679c2660-19be-4322-b710-96fd4469c4e9&amp;4420083c-e0aa-4438-b65c-eeb0f7dd7f0c&amp;08dfaab6-6745-4924-b63b-cee55c7d882c&amp;bbcd1f4e-27ed-40b4-b5ac-ea8297676e27&amp;d1dab349-aa8e-46de-b4e5-35680df271d9&amp;60e85e04-9fd4-4ffe-b4c3-bfd79527b9ed&amp;e4efd78f-c244-4cbf-b44a-b29ff579d9c9&amp;c4b1a421-6191-4308-b3f2-2e53f87f0fa8&amp;078b21ba-5460-4ee0-b3e8-fe3a753e2a12&amp;1974de4a-24ce-415b-b1bd-af6499cfef28&amp;83f23ef6-4598-487e-b0b0-ff19d11efe0a&amp;f45ad842-9c1b-486c-ae3a-a66a9436da57&amp;ee936980-7402-4c91-adfc-236d9e32f5ae&amp;4a271d94-5ab3-416b-ad61-44110cec9f8a</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Diane,Moist Diane,Диана</param>
+				<param name="product_id_n">0000000000000000004733885523</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>6</quantity>
+			</offer>
+			<offer id="0000000000000000076609887510" group_id="0000000000000000076609887510">
+				<name>224910 Бальзам-маска кератиновая Восстановление Moist Diane Perfect Beauty, 450 мл</name>
+				<description>Действие маски-бальзама:
+- Восстанавливает повреждения.
+- Предотвращает ломкость волос.
+- Делает волосы более послушными.
+- Защищает от появления секущихся кончиков.
+~ ЧЕМ БОЛЬШЕ СУШИШЬ ВОЛОСЫ, ТЕМ СИЛЬНЕЕ ОНИ СТАНОВЯТСЯ!
+Nano Repair EL - это инновационная технология, которая противодействует повреждениям, вызванным термовоздействием (например, сушка феном). Часть ингредиентов не проникает глубоко в слои волоса, пока он влажный, начиная реагировать только от воздействия тепла.
+~ ВОССТАНОВЛЕНИЕ ВОЛОС ИЗНУТРИ!
+Nano Repair Matrix - это комбинация Amino beauty-кератинов и нано-частиц арганового масла восстанавливает структуру волос изнутри, поврежденных завивкой или окрашиванием.
+БЕЗ СУЛЬФАТОВ!
+Содержит:
+- 9 органических масел;
+- 4 вида кератина;
+- 5 видов керамидов;
+- 3 вида гиалуроновых кислот;
+- Аминокислоты;
+- Стволовые клетки.
+Способ применения: нанесите бальзам на влажные волосы, отступая 3-5 см от корней.
+Равномерно распределите по всей длине.
+Оставьте на 2-3 мин, затем смойте водой.</description>
+				<vendor>Moist Diane</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">224910</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1665</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа">Moist Diane</param>
+				<price>1511</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001670</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Moist Diane</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Бальзам/кондиционер</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">3574d614-56ac-11e9-fa91-9cdc71af0f48&amp;eb078902-4df9-11e8-ce9b-9cdc71af0f48&amp;eaf24402-4df9-11e8-ce9b-9cdc71af0f48&amp;5afcb290-4874-11e8-ce86-9cdc71af0f48&amp;307798e8-74b6-4f15-bfca-aaec722fe404&amp;151e5600-8f00-4422-bfa1-5a065de69c4b&amp;c6e6a760-79c4-47f0-bede-05096838e23d&amp;fc4d5366-0b48-4218-ba4d-d4c12c5ba514&amp;b5d53d92-ebdd-11e8-b982-9cdc71af0f48&amp;50707d3c-949f-4e41-b7c4-a13c83ce3e12&amp;9ac2bd3f-abc7-4dd8-b793-2fe768875582&amp;b8112d8d-9530-4fb3-b6ed-df823936af47&amp;a4f68766-1d3b-4239-b6b9-9c594383547d&amp;53a92956-4a4b-487e-b642-6d1f5c614603&amp;caeeeb23-c0b7-47d8-b366-ff357deaa4d9&amp;f5829bd2-ac55-43dc-b2d3-fce586fac143&amp;106b523a-0de4-4d7a-b245-850e3df0c1dc&amp;3fc133ac-e462-492a-b159-e47870cef53e&amp;aef52302-eb44-4499-b100-242c4fb59735&amp;1ba37d21-950d-45bc-af74-839aef8863a2&amp;59e2f4a4-b7f6-11e8-3186-9cdc71af0f48&amp;58aed792-b7f6-11e8-3186-9cdc71af0f48&amp;6121f696-5c49-11e9-2e9c-9cdc71af0f48&amp;7ecc0026-3664-11e8-1d97-9cdc71af0f48&amp;7ec0393a-3664-11e8-1d97-9cdc71af0f48&amp;7ea871ba-3664-11e8-1d97-9cdc71af0f48&amp;7e9c83d2-3664-11e8-1d97-9cdc71af0f48</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Diane,Moist Diane,Диана</param>
+				<param name="product_id_n">0000000000000000076609887510</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>6</quantity>
+			</offer>
 			<offer id="0000000000000000476799376442" group_id="0000000000000000476799376442">
 				<name>005294 Сыворотка для волос с аргановым маслом Char Char Argan Oil Hair Serum 200мл</name>
 				<description>Сыворотка Char Char Argan Oil Hair Serum от бренда Evas Cosmetics
@@ -130,6 +296,86 @@
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Evas Cosmetics</param>
 				<param name="product_id_n">0000000000000000000193078928</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000000007002981335" group_id="0000000000000000007002981335">
+				<name>086967 Daeng Gi Meo Ri  Natural On Cool Шампунь с маслом чайного дерева 1000мл</name>
+				<description>Шампунь содержит масло чайного дерева и натуральные растительные экстракты, которые успокаивают чувствительную кожу головы и питают ослабленные волосы. 
+Масло мяты перечной и ментол освежают, снимают зуд и жжение. 
+Салицилат натрия обладает противогрибковым действием, он эффективно борется с перхотью и препятствует её повторному появлению. 
+Экстракты алоэ вера и розмарина интенсивно увлажняют и питают сухие и ломкие волосы, придавая им шелковистость и блеск. 
+Шампунь образует обильную пену, мягко очищающую волосы и кожу головы от излишков кожного жира, оставляя длительное ощущение свежести.</description>
+				<vendor>Daeng Gi Meo Ri</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">086967</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для волос"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11122717</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для волос</param>
+				<param name="ЦеноваяГруппа"/>
+				<price>1599</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000011236</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Daeng Gi Meo Ri</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Шампунь</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Жирные</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Сухие</param>
+				<param name="Тип волос (Косметика &quot;Для волос&quot;)">Смешанные</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Объем</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Против выпадения / перхоти</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Блеск</param>
+				<param name="Особенность состава (Косметика &quot;Для волос&quot;)">Подходит для ежедневного применения</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">34d3cc10-56ac-11e9-fa91-9cdc71af0f48&amp;5b10205a-4874-11e8-ce86-9cdc71af0f48&amp;e97dba80-6157-4a60-bf7b-139d92149ce9&amp;066af284-e9c8-42d1-becb-bb92f79dbb14&amp;ca5f7de2-fa3d-4d80-bdf9-0c19e7fd0ed5&amp;bbcd1f4e-27ed-40b4-b5ac-ea8297676e27&amp;e4efd78f-c244-4cbf-b44a-b29ff579d9c9&amp;c4b1a421-6191-4308-b3f2-2e53f87f0fa8&amp;8b38e639-be39-4650-b2c3-05a0b3ad446c&amp;1974de4a-24ce-415b-b1bd-af6499cfef28&amp;f45ad842-9c1b-486c-ae3a-a66a9436da57&amp;9a2ae20c-6d3a-4261-aac5-b7a4ebb84f1c&amp;c311dea1-43b7-4394-a961-c160c140785e&amp;6d65233f-d803-11df-a86d-00241d24624d&amp;6d652333-d803-11df-a86d-00241d24624d&amp;1edcf209-37c6-4d63-a7da-cf539d78e4d9&amp;36f4d66c-ddab-11e8-a397-9cdc71af0f48&amp;75130a1d-1e87-4dff-8eac-48143d0ecad4&amp;3e696881-37ca-4d7e-8abf-dd856dd4c229&amp;e1063f85-caac-4720-81b8-9f91ebe41ced&amp;5d5c38d4-b7f6-11e8-3186-9cdc71af0f48</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">DAENG GI MEO RI</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">daeng gi meo ri</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">деанжи мори</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">DAENG GI MEO RI,daeng gi meo ri,деанжи мори</param>
+				<param name="product_id_n">0000000000000000007002981335</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
