@@ -6,6 +6,7 @@
 		</currencies>
 		<categories>
 			<category id="УТ-00002927">RYO</category>
+			<category id="УТ011121379">La Miso</category>
 		</categories>
 		<offers>
 			<offer id="0000000000000000476799376442" group_id="0000000000000000476799376442">
@@ -344,6 +345,94 @@
 				<width>1</width>
 				<height>1</height>
 				<quantity>3</quantity>
+			</offer>
+			<offer id="0000000000000004721995475713" group_id="0000000000000004721995475713">
+				<name>410511 La Miso Филлер для волос 65мл (13мл*5pcs)</name>
+				<description>Филлер для волос с Кератином 13 мл х 5 шт, La Miso Keratin
+
+Нежная сыворотка с кератином, протеинами и 22 аминокислотами делает волосы шелковистыми снаружи и плотными изнутри. Комплекс 5 масел (неролиевое, лавандовое, сандаловое, шалфеевое, лемонграссовое и пихтовое) насыщает силой аюрведы и усиливает природный блеск. Сыворотка запечатывает секущиеся и травмированные кончики, а также устраняет пушение волоса по всей длине. Не содержит спирта и парабенов.
+
+Применение:
+
+равномерно нанесите небольшое количество по всей длине на чуть влажные или сухие волосы. Не требует смывания. Для достижения максимального эффекта используйте всю линейку La Miso Keratin.
+
+Объем: 65ml (13мл*5шт)
+
+Производство: Корея</description>
+				<vendor>La Miso</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">410511</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">4128</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>916</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ011121379</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">La Miso</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Филлер/ампула</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление/укрепление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">мисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Gahwa</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">mis</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">La Miso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ла мисо</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">гахва</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lamiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">LaMiso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">la miso</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ламисо</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000004721995475713</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">ac39546c-2a42-4f56-a5fb-704fb76dd454</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>4</quantity>
 			</offer>
 			<offer id="4560492a-1277-48e2-8f60-e6bbba4c7d03" group_id="4560492a-1277-48e2-8f60-e6bbba4c7d03">
 				<name>740544 RYO HS Шампунь для волос укрепляющий RYO Hair Strengthen &amp; Volume Shampoo 550мл</name>
