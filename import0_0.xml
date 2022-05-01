@@ -14,7 +14,6 @@
 			<category id="УТ-00000270">Спрей, жидкость</category>
 			<category id="УТ-00001511">Чистящие средства</category>
 			<category id="УТ011119808">ДЛЯ ТУАЛЕТА </category>
-			<category id="УТ000012437">Прочее</category>
 			<category id="УТ000012682">Крем чистящий</category>
 		</categories>
 		<offers>
@@ -207,7 +206,7 @@
 				<param name="Тип средства (Средства &quot;Для дома&quot;)">Гели и жидкости</param>
 				<param name="Тип средства (Средства &quot;Для дома&quot;)">Прочие средства для дома</param>
 				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">9902718a-42e6-11e8-e08a-9cdc71af0f48&amp;98df853a-42e6-11e8-e08a-9cdc71af0f48&amp;987c7326-6e3b-4032-bb11-d21ac2067f32&amp;fdcc7108-43ce-11e9-b992-9cdc71af0f48&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d&amp;60e58f63-d803-11df-a86d-00241d24624d&amp;60e58f5f-d803-11df-a86d-00241d24624d&amp;60e58dfb-d803-11df-a86d-00241d24624d&amp;60e58df9-d803-11df-a86d-00241d24624d&amp;c643661f-8deb-4420-a818-d9a8ca5e64db&amp;49e30231-b4d4-47e7-9c86-2c52a9a81a6b&amp;b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;2c81f4f5-8da2-4a32-949c-ae7d85db75e3&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;0ee7fd8f-a9d6-46f8-8ff8-851f3c15d183&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;29ea9491-410a-11ea-8ec9-9cdc71af0f49&amp;12405195-410a-11ea-8ec9-9cdc71af0f49&amp;e4b0e415-7eca-46a3-8c7e-47a07c7d5ba4&amp;44562213-5545-4048-85f7-99ea2462cc4c&amp;b38bf20d-8c10-4c67-81b4-15748367a4cf&amp;7042a514-5525-4059-8114-80707d16188a&amp;f0e460d6-93c0-11e8-5b85-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">9902718a-42e6-11e8-e08a-9cdc71af0f48&amp;98df853a-42e6-11e8-e08a-9cdc71af0f48&amp;987c7326-6e3b-4032-bb11-d21ac2067f32&amp;fdcc7108-43ce-11e9-b992-9cdc71af0f48&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d&amp;60e58f63-d803-11df-a86d-00241d24624d&amp;60e58f5f-d803-11df-a86d-00241d24624d&amp;60e58dfb-d803-11df-a86d-00241d24624d&amp;60e58df9-d803-11df-a86d-00241d24624d&amp;c643661f-8deb-4420-a818-d9a8ca5e64db&amp;8999333e-e2e9-48bf-a7c6-4044c692008b&amp;708181aa-ca7d-487b-a321-ecaaa7db64f8&amp;7cea5ef7-2c72-48a7-a2f4-c86bb28668eb&amp;02cee8af-e59a-41ca-a1f5-c96d63a95d7c&amp;b125eab6-5f16-4604-9cf9-cbac4f49469d&amp;49e30231-b4d4-47e7-9c86-2c52a9a81a6b&amp;b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;2c81f4f5-8da2-4a32-949c-ae7d85db75e3&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;0ee7fd8f-a9d6-46f8-8ff8-851f3c15d183&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;29ea9491-410a-11ea-8ec9-9cdc71af0f49&amp;12405195-410a-11ea-8ec9-9cdc71af0f49</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
@@ -1999,7 +1998,7 @@
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">YUWA </param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Универсальные средства</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">9902718a-42e6-11e8-e08a-9cdc71af0f48&amp;98df853a-42e6-11e8-e08a-9cdc71af0f48&amp;fdcc7108-43ce-11e9-b992-9cdc71af0f48&amp;654e182b-472d-4ce6-b8a5-6cd6cf477fb0&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d&amp;60e58f63-d803-11df-a86d-00241d24624d&amp;60e58f5f-d803-11df-a86d-00241d24624d&amp;60e58dfb-d803-11df-a86d-00241d24624d&amp;60e58df9-d803-11df-a86d-00241d24624d&amp;c643661f-8deb-4420-a818-d9a8ca5e64db&amp;8999333e-e2e9-48bf-a7c6-4044c692008b&amp;708181aa-ca7d-487b-a321-ecaaa7db64f8&amp;7cea5ef7-2c72-48a7-a2f4-c86bb28668eb&amp;02cee8af-e59a-41ca-a1f5-c96d63a95d7c&amp;b125eab6-5f16-4604-9cf9-cbac4f49469d&amp;49e30231-b4d4-47e7-9c86-2c52a9a81a6b&amp;b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;2c81f4f5-8da2-4a32-949c-ae7d85db75e3&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;0ee7fd8f-a9d6-46f8-8ff8-851f3c15d183&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;29ea9491-410a-11ea-8ec9-9cdc71af0f49&amp;12405195-410a-11ea-8ec9-9cdc71af0f49</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;2c81f4f5-8da2-4a32-949c-ae7d85db75e3&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;0ee7fd8f-a9d6-46f8-8ff8-851f3c15d183&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;29ea9491-410a-11ea-8ec9-9cdc71af0f49&amp;12405195-410a-11ea-8ec9-9cdc71af0f49&amp;e4b0e415-7eca-46a3-8c7e-47a07c7d5ba4&amp;44562213-5545-4048-85f7-99ea2462cc4c&amp;b38bf20d-8c10-4c67-81b4-15748367a4cf&amp;7042a514-5525-4059-8114-80707d16188a&amp;f0e460d6-93c0-11e8-5b85-9cdc71af0f48&amp;f048a63c-93c0-11e8-5b85-9cdc71af0f48&amp;b997143a-2938-11e9-1e87-9cdc71af0f48&amp;9902718a-42e6-11e8-e08a-9cdc71af0f48&amp;98df853a-42e6-11e8-e08a-9cdc71af0f48&amp;fdcc7108-43ce-11e9-b992-9cdc71af0f48&amp;654e182b-472d-4ce6-b8a5-6cd6cf477fb0&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d&amp;60e58f63-d803-11df-a86d-00241d24624d&amp;60e58f5f-d803-11df-a86d-00241d24624d&amp;60e58dfb-d803-11df-a86d-00241d24624d&amp;60e58df9-d803-11df-a86d-00241d24624d</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">YU WA </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">YUWA </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">yuwa</param>
@@ -3393,7 +3392,7 @@
 				<param name="Тип средства (Средства &quot;Для дома&quot;)">Спреи</param>
 				<param name="Тип средства (Средства &quot;Для дома&quot;)">Прочие средства для дома</param>
 				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">fdcc7108-43ce-11e9-b992-9cdc71af0f48&amp;654e182b-472d-4ce6-b8a5-6cd6cf477fb0&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d&amp;60e58f63-d803-11df-a86d-00241d24624d&amp;60e58f5f-d803-11df-a86d-00241d24624d&amp;60e58dfb-d803-11df-a86d-00241d24624d&amp;60e58df9-d803-11df-a86d-00241d24624d&amp;c643661f-8deb-4420-a818-d9a8ca5e64db&amp;8999333e-e2e9-48bf-a7c6-4044c692008b&amp;708181aa-ca7d-487b-a321-ecaaa7db64f8&amp;7cea5ef7-2c72-48a7-a2f4-c86bb28668eb&amp;02cee8af-e59a-41ca-a1f5-c96d63a95d7c&amp;b125eab6-5f16-4604-9cf9-cbac4f49469d&amp;49e30231-b4d4-47e7-9c86-2c52a9a81a6b&amp;b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;0ee7fd8f-a9d6-46f8-8ff8-851f3c15d183&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;29ea9491-410a-11ea-8ec9-9cdc71af0f49&amp;12405195-410a-11ea-8ec9-9cdc71af0f49&amp;e4b0e415-7eca-46a3-8c7e-47a07c7d5ba4&amp;44562213-5545-4048-85f7-99ea2462cc4c&amp;b38bf20d-8c10-4c67-81b4-15748367a4cf</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">9902718a-42e6-11e8-e08a-9cdc71af0f48&amp;98df853a-42e6-11e8-e08a-9cdc71af0f48&amp;987c7326-6e3b-4032-bb11-d21ac2067f32&amp;fdcc7108-43ce-11e9-b992-9cdc71af0f48&amp;654e182b-472d-4ce6-b8a5-6cd6cf477fb0&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d&amp;60e58f63-d803-11df-a86d-00241d24624d&amp;60e58f5f-d803-11df-a86d-00241d24624d&amp;60e58dfb-d803-11df-a86d-00241d24624d&amp;60e58df9-d803-11df-a86d-00241d24624d&amp;c643661f-8deb-4420-a818-d9a8ca5e64db&amp;8999333e-e2e9-48bf-a7c6-4044c692008b&amp;708181aa-ca7d-487b-a321-ecaaa7db64f8&amp;7cea5ef7-2c72-48a7-a2f4-c86bb28668eb&amp;02cee8af-e59a-41ca-a1f5-c96d63a95d7c&amp;b125eab6-5f16-4604-9cf9-cbac4f49469d&amp;49e30231-b4d4-47e7-9c86-2c52a9a81a6b&amp;b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;0ee7fd8f-a9d6-46f8-8ff8-851f3c15d183&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;29ea9491-410a-11ea-8ec9-9cdc71af0f49&amp;12405195-410a-11ea-8ec9-9cdc71af0f49</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Биоре</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КАЩ</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">КAO</param>
@@ -3469,7 +3468,7 @@
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для туалета</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">28fbcb09-a7d4-49cf-be18-993031627514&amp;67fee636-2975-4915-bc5c-5c37be445c0c&amp;5c78b589-3a18-4848-ba9a-69bb3d161fed&amp;7968dbd0-860f-11e9-b99d-9cdc71af0f48&amp;a51ddb19-0526-43c9-b77b-a460a3a772df&amp;7115e8c1-0c2c-4a44-afa6-520f5c190179&amp;60e58ee5-d803-11df-a86d-00241d24624d&amp;60e58edf-d803-11df-a86d-00241d24624d&amp;60e58edd-d803-11df-a86d-00241d24624d&amp;e3250f9c-4725-40d7-a62f-9f0db08c4fdc&amp;beae8c4f-1191-4086-a0a3-0780eaf95ce0&amp;9aac2ad6-486a-4faf-999c-d80a524c2662&amp;78f3bc11-3a7b-498a-9884-e37b915bad6c&amp;a85cf718-1d44-42fe-805b-17da788ce5c4</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">60e58ee5-d803-11df-a86d-00241d24624d&amp;60e58edf-d803-11df-a86d-00241d24624d&amp;60e58edd-d803-11df-a86d-00241d24624d&amp;e3250f9c-4725-40d7-a62f-9f0db08c4fdc&amp;beae8c4f-1191-4086-a0a3-0780eaf95ce0&amp;9aac2ad6-486a-4faf-999c-d80a524c2662&amp;78f3bc11-3a7b-498a-9884-e37b915bad6c&amp;a85cf718-1d44-42fe-805b-17da788ce5c4&amp;28fbcb09-a7d4-49cf-be18-993031627514&amp;67fee636-2975-4915-bc5c-5c37be445c0c&amp;5c78b589-3a18-4848-ba9a-69bb3d161fed&amp;7968dbd0-860f-11e9-b99d-9cdc71af0f48&amp;a51ddb19-0526-43c9-b77b-a460a3a772df&amp;7115e8c1-0c2c-4a44-afa6-520f5c190179</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
@@ -3546,7 +3545,7 @@
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Универсальные средства</param>
 				<param name="Тип средства (Средства &quot;Для дома&quot;)">Спреи</param>
 				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Сменный блок</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">9902718a-42e6-11e8-e08a-9cdc71af0f48&amp;98df853a-42e6-11e8-e08a-9cdc71af0f48&amp;987c7326-6e3b-4032-bb11-d21ac2067f32&amp;fdcc7108-43ce-11e9-b992-9cdc71af0f48&amp;654e182b-472d-4ce6-b8a5-6cd6cf477fb0&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d&amp;60e58f63-d803-11df-a86d-00241d24624d&amp;60e58f5f-d803-11df-a86d-00241d24624d&amp;60e58dfb-d803-11df-a86d-00241d24624d&amp;60e58df9-d803-11df-a86d-00241d24624d&amp;c643661f-8deb-4420-a818-d9a8ca5e64db&amp;8999333e-e2e9-48bf-a7c6-4044c692008b&amp;708181aa-ca7d-487b-a321-ecaaa7db64f8&amp;7cea5ef7-2c72-48a7-a2f4-c86bb28668eb&amp;02cee8af-e59a-41ca-a1f5-c96d63a95d7c&amp;b125eab6-5f16-4604-9cf9-cbac4f49469d&amp;49e30231-b4d4-47e7-9c86-2c52a9a81a6b&amp;b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;2c81f4f5-8da2-4a32-949c-ae7d85db75e3&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;0ee7fd8f-a9d6-46f8-8ff8-851f3c15d183&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;12405195-410a-11ea-8ec9-9cdc71af0f49</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">654e182b-472d-4ce6-b8a5-6cd6cf477fb0&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d&amp;60e58f63-d803-11df-a86d-00241d24624d&amp;60e58f5f-d803-11df-a86d-00241d24624d&amp;60e58dfb-d803-11df-a86d-00241d24624d&amp;60e58df9-d803-11df-a86d-00241d24624d&amp;c643661f-8deb-4420-a818-d9a8ca5e64db&amp;8999333e-e2e9-48bf-a7c6-4044c692008b&amp;708181aa-ca7d-487b-a321-ecaaa7db64f8&amp;7cea5ef7-2c72-48a7-a2f4-c86bb28668eb&amp;02cee8af-e59a-41ca-a1f5-c96d63a95d7c&amp;b125eab6-5f16-4604-9cf9-cbac4f49469d&amp;49e30231-b4d4-47e7-9c86-2c52a9a81a6b&amp;b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;2c81f4f5-8da2-4a32-949c-ae7d85db75e3&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;0ee7fd8f-a9d6-46f8-8ff8-851f3c15d183&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;12405195-410a-11ea-8ec9-9cdc71af0f49&amp;e4b0e415-7eca-46a3-8c7e-47a07c7d5ba4&amp;44562213-5545-4048-85f7-99ea2462cc4c&amp;b38bf20d-8c10-4c67-81b4-15748367a4cf&amp;7042a514-5525-4059-8114-80707d16188a</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">YU WA </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">YUWA </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">yuwa</param>
@@ -3712,79 +3711,6 @@
 				<width>1</width>
 				<height>1</height>
 				<quantity>0</quantity>
-			</offer>
-			<offer id="0000000000000000000008845313" group_id="0000000000000000000008845313">
-				<name>908684 Очищающее средство для обуви с отбеливающим эффектом ST "Deodorant of Sun" яблоко, спрей 240 мл</name>
-				<description>Чистящее средство для обуви эффективно удаляет различные загрязнения и устраняет неприятные запахи.
-Оптические отбеливатели расщепляют стойкие загрязнения и возвращают обуви первоначальный вид.
-Средство имеет аромат яблока, подходит для обуви из искусственной кожи, текстильной обуви и кроссовок.</description>
-				<vendor>ST</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">908684</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Средства "Для дома"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11121354</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Бытовая химия</param>
-				<param name="ЦеноваяГруппа"/>
-				<price>685</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ000012437</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">ST</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Универсальные средства</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">9902718a-42e6-11e8-e08a-9cdc71af0f48&amp;98df853a-42e6-11e8-e08a-9cdc71af0f48&amp;987c7326-6e3b-4032-bb11-d21ac2067f32&amp;fdcc7108-43ce-11e9-b992-9cdc71af0f48&amp;654e182b-472d-4ce6-b8a5-6cd6cf477fb0&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d&amp;60e58f63-d803-11df-a86d-00241d24624d&amp;60e58f5f-d803-11df-a86d-00241d24624d&amp;60e58dfb-d803-11df-a86d-00241d24624d&amp;60e58df9-d803-11df-a86d-00241d24624d&amp;c643661f-8deb-4420-a818-d9a8ca5e64db&amp;8999333e-e2e9-48bf-a7c6-4044c692008b&amp;708181aa-ca7d-487b-a321-ecaaa7db64f8&amp;7cea5ef7-2c72-48a7-a2f4-c86bb28668eb&amp;02cee8af-e59a-41ca-a1f5-c96d63a95d7c&amp;b125eab6-5f16-4604-9cf9-cbac4f49469d&amp;49e30231-b4d4-47e7-9c86-2c52a9a81a6b&amp;b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;2c81f4f5-8da2-4a32-949c-ae7d85db75e3&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;29ea9491-410a-11ea-8ec9-9cdc71af0f49&amp;12405195-410a-11ea-8ec9-9cdc71af0f49</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">ST,st,ст,СТ,ЫЕ</param>
-				<param name="product_id_n">0000000000000000000008845313</param>
-				<param name="Форма выпуска (Средства &quot;Для дома&quot;)">Основной блок</param>
-				<param name="Нормальное количество (Справочник &quot;Номенклатура&quot; (Общие))">5</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">st</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ST</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ЫЕ</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">СТ</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ст</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>3</quantity>
 			</offer>
 			<offer id="0000000000000000043548982901" group_id="0000000000000000043548982901">
 				<name>237910 Средство KAO Magiclean Bath для мытья стекол жидкость антибактериальн. (лимон) дозатор 400мл</name>
@@ -5387,7 +5313,7 @@
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">YUWA </param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Для ванной</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">c18179ab-ad60-49fc-84e1-9a03035e48cd&amp;04053e84-8c9e-4195-8115-49cfe9057cd3&amp;356c1228-293d-11e9-1e87-9cdc71af0f48&amp;aa7d1649-80db-4a3a-bc7e-09782f4967d5&amp;71d6e5f0-23fc-4907-b708-f5dc38978c8d&amp;be230f24-2e7c-424b-afbd-50179954576a&amp;f5b574e8-7ffb-4a08-af07-dd79e24a015f&amp;1e9bdaa4-453d-48ed-a4d2-4c38559532d9&amp;9ba9d3b7-7f66-4c56-9d2c-247ac2255b0a&amp;03e62c8a-b2f8-4b3b-9971-79bdc0564b73&amp;7e8d0189-6c91-4bae-9523-365dbf7b6b72&amp;939e59f5-48b4-4d15-93c4-afb1a14d7584&amp;77dd46fe-5c36-4b9d-9295-6604b7e38563&amp;e64f80f0-09e2-11e0-9083-00034732cbd1&amp;8805bce3-26ff-11ea-8ec8-9cdc71af0f49&amp;a031e9eb-d3c0-11e9-8ec2-9cdc71af0f49&amp;4fbf871a-81fb-4773-8a31-e621ed456cca&amp;e518e3f0-5f7e-11e9-899b-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">aa7d1649-80db-4a3a-bc7e-09782f4967d5&amp;71d6e5f0-23fc-4907-b708-f5dc38978c8d&amp;be230f24-2e7c-424b-afbd-50179954576a&amp;f5b574e8-7ffb-4a08-af07-dd79e24a015f&amp;1e9bdaa4-453d-48ed-a4d2-4c38559532d9&amp;9ba9d3b7-7f66-4c56-9d2c-247ac2255b0a&amp;03e62c8a-b2f8-4b3b-9971-79bdc0564b73&amp;7e8d0189-6c91-4bae-9523-365dbf7b6b72&amp;939e59f5-48b4-4d15-93c4-afb1a14d7584&amp;77dd46fe-5c36-4b9d-9295-6604b7e38563&amp;e64f80f0-09e2-11e0-9083-00034732cbd1&amp;8805bce3-26ff-11ea-8ec8-9cdc71af0f49&amp;a031e9eb-d3c0-11e9-8ec2-9cdc71af0f49&amp;4fbf871a-81fb-4773-8a31-e621ed456cca&amp;e518e3f0-5f7e-11e9-899b-9cdc71af0f48&amp;c18179ab-ad60-49fc-84e1-9a03035e48cd&amp;04053e84-8c9e-4195-8115-49cfe9057cd3&amp;356c1228-293d-11e9-1e87-9cdc71af0f48</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">YU WA </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">YUWA </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">yuwa</param>
@@ -5628,7 +5554,7 @@
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lec</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">LEC</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">лес,LES,les,лец,ЛЕС,lec,LEC</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">9902718a-42e6-11e8-e08a-9cdc71af0f48&amp;98df853a-42e6-11e8-e08a-9cdc71af0f48&amp;987c7326-6e3b-4032-bb11-d21ac2067f32&amp;fdcc7108-43ce-11e9-b992-9cdc71af0f48&amp;654e182b-472d-4ce6-b8a5-6cd6cf477fb0&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d&amp;60e58f63-d803-11df-a86d-00241d24624d&amp;60e58f5f-d803-11df-a86d-00241d24624d&amp;60e58dfb-d803-11df-a86d-00241d24624d&amp;60e58df9-d803-11df-a86d-00241d24624d&amp;c643661f-8deb-4420-a818-d9a8ca5e64db&amp;8999333e-e2e9-48bf-a7c6-4044c692008b&amp;708181aa-ca7d-487b-a321-ecaaa7db64f8&amp;7cea5ef7-2c72-48a7-a2f4-c86bb28668eb&amp;02cee8af-e59a-41ca-a1f5-c96d63a95d7c&amp;b125eab6-5f16-4604-9cf9-cbac4f49469d&amp;49e30231-b4d4-47e7-9c86-2c52a9a81a6b&amp;b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;2c81f4f5-8da2-4a32-949c-ae7d85db75e3&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;0ee7fd8f-a9d6-46f8-8ff8-851f3c15d183&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;29ea9491-410a-11ea-8ec9-9cdc71af0f49</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">7cea5ef7-2c72-48a7-a2f4-c86bb28668eb&amp;02cee8af-e59a-41ca-a1f5-c96d63a95d7c&amp;b125eab6-5f16-4604-9cf9-cbac4f49469d&amp;49e30231-b4d4-47e7-9c86-2c52a9a81a6b&amp;b0117458-477a-45f2-9a40-7d4d6c7361c0&amp;b83023f6-6ab9-4a5d-9581-cc25c838a31e&amp;2c81f4f5-8da2-4a32-949c-ae7d85db75e3&amp;0b8f82fd-cbcc-4d1d-90b4-b6fec4616db8&amp;e38420af-bcdc-4d04-8ffd-78ebc2b52924&amp;0ee7fd8f-a9d6-46f8-8ff8-851f3c15d183&amp;183661a3-892e-11ea-8ecf-9cdc71af0f49&amp;29ea9491-410a-11ea-8ec9-9cdc71af0f49&amp;12405195-410a-11ea-8ec9-9cdc71af0f49&amp;e4b0e415-7eca-46a3-8c7e-47a07c7d5ba4&amp;b38bf20d-8c10-4c67-81b4-15748367a4cf&amp;7042a514-5525-4059-8114-80707d16188a&amp;f0e460d6-93c0-11e8-5b85-9cdc71af0f48&amp;f048a63c-93c0-11e8-5b85-9cdc71af0f48&amp;b997143a-2938-11e9-1e87-9cdc71af0f48&amp;9902718a-42e6-11e8-e08a-9cdc71af0f48&amp;98df853a-42e6-11e8-e08a-9cdc71af0f48&amp;987c7326-6e3b-4032-bb11-d21ac2067f32&amp;fdcc7108-43ce-11e9-b992-9cdc71af0f48&amp;654e182b-472d-4ce6-b8a5-6cd6cf477fb0&amp;afc96227-5b8f-4c82-adaf-78fbb1bc10f7&amp;355a79fa-095e-11e0-a880-00241d24626c&amp;60e58fc7-d803-11df-a86d-00241d24624d</param>
 				<param name="product_id_n">0000000000000002416581488652</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
