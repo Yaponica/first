@@ -5,97 +5,22 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
-			<category id="УТ-00003630">Япония</category>
-			<category id="УТ-00001568">COW</category>
 			<category id="УТ000009648">Запасной блок</category>
-			<category id="УТ-00002450">Flor de Man</category>
-			<category id="УТ-00000369">Body Phren ВЛК</category>
-			<category id="УТ-00002669">THE SAEM </category>
 			<category id="УТ-00002672">Kerasys</category>
-			<category id="УТ-00002071">Pekah</category>
-			<category id="УТ-00001579">Гель для душа</category>
-			<category id="УТ-00001587">THE SAEM </category>
-			<category id="УТ-00001961">Основной блок</category>
 		</categories>
 		<offers>
-			<offer id="0000000000000000001303327238" group_id="0000000000000000001303327238">
-				<name>273038 "Body Wash Towel" Мочалка для тела жесткая (ярко-розовая)</name>
-				<description>Мочалка из нейлона с плотным плетением "Волна" создает густую пену, обеспечивает отличный пилинг.
-Мочалка прекрасно подходит для очищения кожи и стимулирует циркуляцию крови.
-Структура нитей средней жесткост обеспечит неповторимое ощущение свежести и бодрящего массажа.
-Мочалка воздействует на кожу с умеренной интенсивностью.
-Яркие цвета мочалок в данной серии поднимут настроение и сделают принятие ванны особенно приятным!</description>
-				<vendor>KAI</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">273038</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">691</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>488</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00003630</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">KAI</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мочалки</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">31550588-4dfa-11e8-ce9b-9cdc71af0f48&amp;22bfb592-f46a-11e8-ce8b-9cdc71af0f48&amp;bbac444c-6369-4edd-bd6f-ddc752e86ded&amp;94ece83f-188c-4753-b4f8-6a214ebb959c&amp;d095b906-051d-4da5-a693-603a17e05b9a&amp;f1011c9e-6698-404d-a212-077c8f6f095f&amp;fab5123e-599d-40a8-9d53-e8e564d6660e&amp;7b395e15-526f-413c-9392-585505200039&amp;9b36c2b9-40a7-477a-9066-0ceaff3a7629&amp;b4076b2f-1dab-11ea-8ec6-9cdc71af0f49&amp;09958f95-b1cc-11e9-8ebc-9cdc71af0f49&amp;fbad75d2-feb8-4216-8c64-fc44f3013c3c&amp;1ad9d250-e807-11e8-5a94-9cdc71af0f48&amp;693fb6d0-9c7b-11e8-389a-9cdc71af0f48&amp;68cb6e9c-9c7b-11e8-389a-9cdc71af0f48&amp;684690e6-9c7b-11e8-389a-9cdc71af0f48&amp;dd32eefc-5c35-11e9-2e9c-9cdc71af0f48&amp;dbd7d5f4-5c35-11e9-2e9c-9cdc71af0f48&amp;dac09552-5c35-11e9-2e9c-9cdc71af0f48&amp;d9ab5030-5c35-11e9-2e9c-9cdc71af0f48&amp;4a9788d4-30e2-11e8-1d97-9cdc71af0f48</param>
-				<param name="product_id_n">0000000000000000001303327238</param>
-				<param name="Нормальное количество (Справочник &quot;Номенклатура&quot; (Общие))">5</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>2</quantity>
-			</offer>
-			<offer id="0000000000000000002949197928" group_id="0000000000000000002949197928">
-				<name>004923 COW Лечебное дезод. мыло DE2 от постор.запахов - medicinal refreshing deodorant soap 125гр</name>
-				<description>Дезодорирующее мыло от знаменитого производителя молочного мыла Cow Brand, содержит танин из хурмы, который предотвращает излишнее потоотделение и устраняет более 95% всех отчетливых запахов, в том числе нейтрализует действие ноненалов, выдающих наш возраст, то есть это вариант идеального мыла с точки зрения японцев.
-Кроме этого, мыло содержит растительные экстракты чая, ириса, гвоздики и алтея, которые обладают успокаивающим и антиоксидантным эффектом.
-Активный ингредиент IPMP - предотвращает размножение бактерий вызывающих характерный неприятный запах пота.
-Мыло предназначено для ежедневного ухода, с освежающим цитрусово-цветочным ароматом.</description>
+			<offer id="0000000000000000000679210820" group_id="0000000000000000000679210820">
+				<name>006323 COW BRAND Жидкое мыло для рук и тела , цветочный аромат, МУ 400мл</name>
+				<description>Мыло образует густую мягкую пену, которая деликатно очищает и надолго сохраняет кожу увлажнённой после приёма ванны. 
+Аминокислоты глубоко проникают в ороговевший слой кожи и надёжно удерживают влагу, интенсивно увлажняют, предотвращают шелушение и сухость. 
+Молочная эссенция обладает великолепным увлажняющим эффектом: сохраняет баланс влаги в клетках кожи, что делает ее нежной и гладкой на ощупь. 
+Мыло обладает нежным ароматом цветов. 
+Способ применения: нанесите на влажную кожу, помассируйте и смойте водой.
+</description>
 				<vendor>Cow Brand</vendor>
 				<country_of_origin>Япония</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">004923</param>
+				<param name="Артикул">006323</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
@@ -115,87 +40,7 @@
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11121629</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для тела</param>
-				<param name="ЦеноваяГруппа">Мыло для тела (кусковое)</param>
-				<price>968</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001568</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мыло кусковое</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Очищение</param>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">7e90fff4-e67b-11e8-c08d-9cdc71af0f48&amp;6375f322-7af1-4554-be64-66ede1e9aafc&amp;c1933799-daeb-461e-aa0f-1a885ed91aef&amp;6d6522e7-d803-11df-a86d-00241d24624d&amp;112d1356-b528-11e9-8ebd-9cdc71af0f49&amp;dbe1b898-5f7e-11e9-899b-9cdc71af0f48</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand ,cow brand ,CowBrand ,ков бренд ,Ков бренд,ковбренд,боунсиа</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
-				<param name="product_id_n">0000000000000000002949197928</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ков бренд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ковбренд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ков бренд </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">боунсиа</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">cow brand </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">CowBrand </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand </param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>1</quantity>
-			</offer>
-			<offer id="0000000000000001781759309501" group_id="0000000000000001781759309501">
-				<name>006293 COW BRAND Жидкое мыло для тела c церамидами и молочными протеинами аромат свежести,МУ 400мл</name>
-				<description>Жидкое мыло образует густую пену и великолепно очищает кожу, одновременно ухаживая за ней. 
-- Содержит натуральные моющие вещества. 
-- Молочные кислоты обладают смягчающим действием.
-- Керамиды восстанавливают целостность кожного покрова, делают кожу гладкой и нежной. 
-Мыло обладает нежным ароматом свежести. 
-Способ применения: нанесите необходимое количество мыла на влажную кожу, помассируйте и смойте водой.</description>
-				<vendor>Cow Brand</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">006293</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11121343</param>
+				<param name="КодДляПоиска">11121344</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -219,18 +64,17 @@
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
-				<param name="product_id_n">0000000000000001781759309501</param>
-				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
+				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
+				<param name="product_id_n">0000000000000000000679210820</param>
 				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">боунсиа</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ковбренд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ков бренд </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">CowBrand </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">боунсиа</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">CowBrand </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ков бренд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ков бренд </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">cow brand </param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
 				<param name="Принципал"/>
@@ -241,7 +85,7 @@
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>6</quantity>
+				<quantity>4</quantity>
 			</offer>
 			<offer id="0000000000000000000000006098" group_id="0000000000000000000000006098">
 				<name>006347 COW BRAND Жидкое мыло для тела, цитрусовый аромат, МУ 400мл</name>
@@ -321,528 +165,6 @@
 				<height>1</height>
 				<quantity>5</quantity>
 			</offer>
-			<offer id="0000000000000000000177902774" group_id="0000000000000000000177902774">
-				<name>008297 COW Bouncia Milky Body Soap Жидкое увлажняющее мыло для рук и тела аромат цветов, 400мл МУ</name>
-				<description>Жидкое увлажняющее мыло для тела образует мягкую густую пену, которая нежно и бережно очищает кожу.
-Богатый протеинами молочный порошок (сливки), входящий в состав мыла, обладает увлажняющим эффектом.
-Кожа становится нежной и гладкой на ощупь.
-Коллаген и гиалуроновая кислота глубоко проникают в клетки кожи, надолго удерживая влагу, и предотвращают сухость и шелушение.
-Полученный из лакричника глицирризинат дикалия оказывает смягчающее и противовоспалительное действие, устраняет зуд и шелушение, заботясь о сухой коже.
-Мыло обладает элегантным ароматом роскошного белого мыла.</description>
-				<vendor>Cow Brand</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">008297(006903)</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11122703</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для тела</param>
-				<param name="ЦеноваяГруппа">Гели для душа</param>
-				<price>593</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ000009648</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand ,cow brand ,CowBrand ,ков бренд ,Ков бренд,ковбренд,боунсиа</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">CowBrand </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ков бренд </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ковбренд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ков бренд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">боунсиа</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">cow brand </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand </param>
-				<param name="product_id_n">0000000000000000000177902774</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>0</quantity>
-			</offer>
-			<offer id="0000000000000000011827990224" group_id="0000000000000000011827990224">
-				<name>104321 Крем для тела  увлажняющий с мочевиной Roland 220 мл</name>
-				<description>Крем с активным компонентом – мочевиной восстанавливает гидролипидный баланс кожи, глубоко увлажняет и смягчает сухую, испытывающую недостаток влаги кожу.
-Мочевина улучшает состояние водного баланса рогового слоя и делает кожу мягкой и шелковистой, усиливает регенерационные возможности кожи и повышает ее защитные функции.
-Также она ускоряет отшелушивание рогового слоя кожи, не допуская образования трещин и ссадин.
-Растительные экстракты питают и защищают кожу.  
-Крем быстро впитывается, не оставляет чувство липкости. 
-Подходит для кожи лица и тела.
-Способ применения: необходимое количество крема нанести на
-сухие участки кожи (лицо, ноги, руки).
-</description>
-				<vendor>Roland</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">104321(100965)</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">8224</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для тела</param>
-				<param name="ЦеноваяГруппа">Roland</param>
-				<price>1356</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00002450</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Loshi</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Лосьон/молочко для тела</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">1c560d30-649d-11e8-fd8a-9cdc71af0f48&amp;bef8dd5d-ee51-4f62-bf46-a537d0edd0a5&amp;37c73aa8-304b-43e8-be01-f80fe829801c&amp;7bdc1bf7-a79d-4aec-bbb9-ba63573fb599&amp;e9cb2860-6e6a-45ad-b4ef-630c8c2d50fd&amp;2b2a3f55-e806-46b4-b2fb-87806a3bb771&amp;bcccce2d-9c44-4d62-b2de-5e949bce4763&amp;0c866790-3383-4637-afe6-3265ee1e8b4b&amp;23d20a74-03b9-4c8d-ac62-19d5a3cdbedb&amp;ddca5596-d8b5-49dc-a7cc-036766e041d4&amp;617c6cb8-d569-4d2e-a37f-0b6da642182d&amp;8369978b-ed72-44fa-a073-6c29b0b971a6&amp;4e676b72-2d6d-4bac-9ec5-7483127e7b9c&amp;b69596be-e7f9-40f1-9ba3-d690f041643c&amp;b603a2cd-7cf3-44bf-9863-aca4a8495dfa&amp;16f29ff2-22b2-4fce-981b-c4cedc429a2d&amp;93e716c5-0ccd-4b3d-96d7-d9649ed0ae3d&amp;3a5a316d-4b00-11e0-94bb-0015e9411353&amp;535284ae-33ac-4517-9030-cff97b20d62f&amp;83c49206-d10b-44dd-8d71-7f100d062b29&amp;b7f8f4a2-dc19-11e8-8c8d-9cdc71af0f48&amp;dd6522ce-8342-4263-8c86-ecf7ed1aa155&amp;722f67a8-d677-42c3-8023-51e63dc1f515&amp;246746ca-46ec-11e8-7f94-9cdc71af0f48&amp;245bbfee-46ec-11e8-7f94-9cdc71af0f48&amp;6b11fe34-4f07-11e9-728b-9cdc71af0f48&amp;71570c18-6a45-11e9-5d88-9cdc71af0f48</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Лош,LoShi,loshi,Loshi, Лоши</param>
-				<param name="product_id_n">0000000000000000011827990224</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"> Лоши</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Loshi</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лош</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">loshi</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">LoShi</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>2</quantity>
-			</offer>
-			<offer id="0000000000000000000005889319" group_id="0000000000000000000005889319">
-				<name>273007 "Body Wash Towel" Мочалка для тела средней жесткости (голубая)</name>
-				<description>Мочалка средней жесткости деликатно воздействует на кожу и образует обильную пену в процессе использования.
-Светлые пастельные тона данной серии мочалок дарят позитивный настрой и хорошее настроение!</description>
-				<vendor>KAI</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">273007</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11120936</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для тела</param>
-				<param name="ЦеноваяГруппа">Для тела</param>
-				<price>488</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00003630</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">KAI</param>
-				<param name="Нормальное количество (Справочник &quot;Номенклатура&quot; (Общие))">5</param>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="product_id_n">0000000000000000000005889319</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>2</quantity>
-			</offer>
-			<offer id="0000000000000000000170127238" group_id="0000000000000000000170127238">
-				<name>012924 ВЛК Body Phren Гель для душа гель с морскими водорослями 730мл</name>
-				<description>Заряд бодрости с утра, прекрасное настроение в течение дня, расслабление и релаксация вечером – гель для душа от Welcos позволяет не только очистить кожу тела от различных загрязнений и продуктов жизнедеятельности (отмершие клетки, кожный жир), но и улучшить самочувствие, благодаря изысканным ароматам средства.
-Гель прекрасно пенится, хорошо смывается, не оставляет на коже липкой пленки, сохраняет чувство свежести в течение дня.
-Welcos Body Phren Shower Gel Healthy Seaweed – гель для душа с морскими водорослями.
-Морские водоросли наполнят кожу тела минералами, оказывают увлажняющее и тонизирующее действие, благодаря способности улучшать микроциркуляцию, способствует выведению лишней жидкости и уменьшению отечности.
-Повышают тонус и упругость кожи.</description>
-				<vendor>Welcos</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">012924</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">316</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для тела</param>
-				<param name="ЦеноваяГруппа"/>
-				<price>818</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00000369</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">argan,Welcos,welcos,велк,велком,велкос</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">welcos</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">argan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велкос</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велком</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велк</param>
-				<param name="product_id_n">0000000000000000000170127238</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>4</quantity>
-			</offer>
-			<offer id="0000000000000000000218227238" group_id="0000000000000000000218227238">
-				<name>162835 СМ CARE PLUS Крем для тела с экстрактом авокадо Care Plus Avocado Body Cream 300мл</name>
-				<description>Питательный крем для тела с экстрактом авокадо.
-Средство со сливочной текстурой легко впитывается и подарит Вашей коже роскошный уход.
-Его формула направлена на глубокое питание и восстановление сухой, шелушащейся и увядающей кожи, она наполнит ее витаминами и необходимыми полезными микроэлементами.
-Экстракт ромашки снимет раздражение, мед придаст коже бархатистость, помогая удерживать влагу, масло соевых бобов укрепит и восстановит кожный покров.
-В результате он приобретет удивительную нежность, гладкость и эластичность.
-Применение: массажными движениями нанести крем на чистую сухую кожу до полного впитывания.
-Объем: 300мл </description>
-				<vendor>THE SAEM </vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">162835</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">1229</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>713</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00002669</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM </param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">f94a96bc-2322-4bb4-ba8b-0b203dd4a79d&amp;4c6e37c9-d9fd-467c-b935-f7b95a3a95a6&amp;391d9228-802a-11e8-b78a-9cdc71af0f48&amp;38ed35a6-802a-11e8-b78a-9cdc71af0f48&amp;30b254ee-9d23-44cd-b2ba-9c863c0e0583&amp;880e9048-68b2-4f14-b0a9-57253a0e796c&amp;905b8f0d-a137-45b7-b07e-a8273bd9d4ee&amp;3f71a175-4e7d-403a-af8d-d9fe2a2baddb&amp;34f8eb0d-70a4-47ab-ae97-2666c5b27489&amp;a876f7e0-af52-4c00-acfd-ca4f0f74f3c6&amp;9fda4c68-c90d-438e-ab71-94ecf2d5d20c&amp;e32445e8-2539-4d49-a985-21fdbf25671c&amp;32ba80d3-5962-4d1b-a8f9-12e4324ef8c1&amp;5563ee5a-f867-4bb8-a66d-cc8e30b4e85b&amp;bc2ce338-5848-4cdf-a3d1-d1db1a475ef0&amp;7863e92c-2f8a-430b-a370-2a7228e97788&amp;59684c4b-af18-4b39-a2c2-697a31954775&amp;79b6ad9b-0ed9-4fd9-a25a-7bf558bb990a&amp;fc0b0afc-069f-4b2f-a040-483b8c49091b&amp;8c6bf672-2508-4528-9b1f-12bcde4c7d50&amp;5f797792-ef83-401b-9a62-1457639f6014&amp;766cece5-8cfc-4c98-9993-413e334cc6c9&amp;a6f16728-3fb1-4914-9900-56e65d534832&amp;c9c2e52a-161f-45c4-947a-e6de3ede234b&amp;9303c590-1308-42a7-9312-6e58f9f8dce6&amp;a22c5c98-f859-11e8-928b-9cdc71af0f48&amp;3ca6ef36-8f7e-49cc-90ca-a5c7174bd116</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">the saem</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">the sam</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">зе саем</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">зе сам</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM ,the saem,the sam,зе саем,зе сам</param>
-				<param name="product_id_n">0000000000000000000218227238</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>4</quantity>
-			</offer>
-			<offer id="0000000000000000000045216941" group_id="0000000000000000000045216941">
-				<name>171110 СМ Perfumed B Парфюмированный крем для тела Perfumed Body Moisturizer  Freesia, 200 мл</name>
-				<description>Perfumed Body Moisturizer Freesia. Крем для тела с экстрактом фрезии
-Крем с легкой и приятной текстурой хорошо распределяется по коже тела и окутывает ее нежным, тонким, изысканным ароматом.
-Средство хорошо увлажняет и смягчает кожу, питает ее и разглаживает.
-Крем имеет чарующий аромат фрезии.
-Способ применения:
-Нанести крем на чистую, сухую кожу после душа легкими массажными движениями.
-Объем: 200 мл
-</description>
-				<vendor>THE SAEM </vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">171110</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">2822</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>563</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00002669</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">зе сам</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">зе саем</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">the sam</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">the saem</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">зе сам,THE SAEM ,зе саем,the sam,the saem</param>
-				<param name="product_id_n">0000000000000000000045216941</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>3</quantity>
-			</offer>
-			<offer id="0000000000000000000079959139" group_id="0000000000000000000079959139">
-				<name>325988 Гель для душа Kerasys Elegance &amp; Sensual Парфюмированная линия Элеганс(500г)</name>
-				<description>Гель для душа подходит для всех типов кожи.
-Содержит экстракт лаванды, обладающий расслабляющим и успокаивающим эффектом, а также экстракт пшеничных отрубей для питания кожи.
-Невероятно тонкий, свежий цветочный аромат c нотками орхидеи подойдет элегантной и стильной натуре
-Парфюмерная композиция:
-Начальная нота: фрезия, жасмин, плющ.
-Срединная нота: орхидея, роза, цветок миндаля.
-Конечная нота: мускус, ваниль, мускатный орех.</description>
-				<vendor>Kerasys</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">325988</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">2664</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>593</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00002672</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">керасис,Kerasys,керасус,kerasys</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасис</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасус</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kerasys</param>
-				<param name="product_id_n">0000000000000000000079959139</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>3</quantity>
-			</offer>
 			<offer id="0000000000000000000044042980" group_id="0000000000000000000044042980">
 				<name>325995 Гель для душа Kerasys Lovely &amp; Romantic Парфюмированная линия РОМАНТИК 500г</name>
 				<description>Гель для душа подходит для всех типов кожи.
@@ -917,33 +239,25 @@ Welcos Body Phren Shower Gel Healthy Seaweed – гель для душа с м�
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>4</quantity>
+				<quantity>3</quantity>
 			</offer>
-			<offer id="0000000000000000063258326822" group_id="0000000000000000063258326822">
-				<name>766878 Pekah Набор крем для рук 180мл</name>
-				<description>В состав набора входят:
-Гиалуроновая кислота, насыщенная 7 травами и аминокислотным комплексом, продлевает молодость кожи рук, защищает и сохраняет эластичность.
-Набор содержит крема с экстрактами:
-- цветков персикового дерева, который отлично питает, успокаивает и увлажняет кожу;
-- дамасской розовой воды, которая не только успокаивает кожу, но и смягчает и разглаживает ее текстуру;
-- цветов вишни, который витаминизирует вашу кожу и возвращает здоровый цвет;
-- гидролизованным коллагеном, который омолаживает кожу рук, помогает ей сохранять упругость и бороться с морщинками;
-- листьев авокадо, который глубоко питает кожу, делает ее упругой и сияющей, не оставляя при этом жирных следов;
-- масла ши, которое повышает способность кожи к регенерации, восстанавливает ее гидробаланс и защиту;
-Применение:
-Наносите на сухую и чистую кожу рук массирующими движениями несколько раз в течение дня или на ночь.
-Используйте крем для смягчения и увлажнения огрубевшей кожи на локтях.</description>
-				<vendor>Pekah</vendor>
+			<offer id="0000000000000000020298153503" group_id="0000000000000000020298153503">
+				<name>338551 Гель для душа Шауэр Мэйт ГЛУБОКОЕ ОЧИЩЕНИЕ 500мл</name>
+				<description>Корейский гель для душа глубокое очищение тростниковый сахар Kerasys Shower Mate Anti-Dust Body Wash.  Премиальная линейка гелей для душа Shower Mate на 96% состоит из натуральных компонентов, обладает тонки ароматом и приятной нежной текстурой.
+Корейский гель для душа глубокое очищение тростниковый сахар Kerasys Shower Mate Anti-Dust Body Wash содержит в составе тростниковый сахар и обладает скрабирующим эффектом.
+Гель содержит в составе особую мицелярную формулу, позволяющую нежно и эффективно очищать кожу, обладает антимикробными свойствами и подходит для всех типов кожи.
+Не вызывает раздражения.</description>
+				<vendor>Kerasys</vendor>
 				<country_of_origin>Южная Корея</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">766878</param>
+				<param name="Артикул">338551</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
 				<param name="ВесИспользовать">Нет</param>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
 				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
+				<param name="ВидНоменклатуры">Товары</param>
 				<param name="ДлинаЕдиницаИзмерения"/>
 				<param name="ДлинаЗнаменатель">0</param>
 				<param name="ДлинаИспользовать">Нет</param>
@@ -956,7 +270,7 @@ Welcos Body Phren Shower Gel Healthy Seaweed – гель для душа с м�
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">2833</param>
+				<param name="КодДляПоиска">4311</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -976,91 +290,20 @@ Welcos Body Phren Shower Gel Healthy Seaweed – гель для душа с м�
 				<param name="ЦеноваяГруппа"/>
 				<price>893</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00002071</categoryId>
+				<categoryId>УТ-00002672</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Pekah</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Pekah,pekan,пекан,пеках,pekah</param>
-				<param name="product_id_n">0000000000000000063258326822</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Pekah</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">pekan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">пекан</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">пеках</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">pekah</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>7</quantity>
-			</offer>
-			<offer id="0000000000000000000380988610" group_id="0000000000000000000380988610">
-				<name>887894 ВЛК Body Phren Гель для душа с лемонграссом 730мл</name>
-				<description>Заряд бодрости с утра, прекрасное настроение в течение дня, расслабление и релаксация вечером – гель для душа от Welcos позволяет не только очистить кожу тела от различных загрязнений и продуктов жизнедеятельности (отмершие клетки, кожный жир), но и улучшить самочувствие, благодаря изысканным ароматам средства.
-Гель прекрасно пенится, хорошо смывается, не оставляет на коже липкой пленки, сохраняет чувство свежести в течение дня.
-Welcos Body Phren Shower Gel Lemon Grass – гель для душа с лемонграссом.
-Лемонграсс прекрасно питает кожу, улучшает обменные процессы, способствует выведению токсинов, повышает упругость и эластичность кожи, увлажняет ее.
-Обладает антибактерицидными, дезинфицирующими и дезодорирующими свойствами, способствует заживлению кожных воспалений, успокаивает и восстанавливает.</description>
-				<vendor>Welcos</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">887894</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11122640</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для тела</param>
-				<param name="ЦеноваяГруппа">Гели для душа</param>
-				<price>818</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00000369</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">argan,Welcos,welcos,велк,велком,велкос</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">welcos</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велк</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велком</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велкос</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">argan</param>
-				<param name="product_id_n">0000000000000000000380988610</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">56dbeda4-893b-4e5e-bd76-4cdc125c34fa&amp;a05a0fad-503c-493b-bcf3-4a90856e233c&amp;54b6d852-a133-4c06-ba21-b678f826c60b&amp;774b6d1b-a0e5-419a-b8d4-69682204afd4&amp;df83243a-d69d-4789-b7d8-763c8cd9927a&amp;96cf2989-285a-451e-b7d2-b19b2bff3d7e&amp;6649f4fe-d201-4d4b-b50d-e1d75c2891c6&amp;3e4ceea0-f014-4c62-b4ae-09cf67de3a42&amp;164b8822-2a63-47bf-b49d-e6165a039bae&amp;f209a924-61a7-40a3-b238-af4617797ff7&amp;ae8ccfc1-e5dc-4456-b080-6a86c1be7e76&amp;76683c7a-ca84-48a6-b010-64cc02dbb285&amp;62e423df-86f0-4ee0-ad0f-918aae1ee45b&amp;9d741529-3f51-4fe1-a991-177ca56ce516&amp;f196ea22-bd01-4b95-a7f1-92af1266585c&amp;91a1c2b2-d708-40be-a70c-3ed6db89d491&amp;339a06b4-2d1f-4f19-a5ba-1b1c9fc527cc&amp;64768cbd-e817-46c0-a54b-a75a00447823&amp;24598b9d-9ca5-464e-a527-13a3d1d951a7&amp;4f6a5d96-8756-4e60-a414-8c90eb83e564&amp;3166b6c9-124b-4448-a38f-e3b13c686cf8&amp;93110fa6-2946-4ae6-a2d0-f3df074f9ad6&amp;3abf7e53-f6e9-457c-a2c9-00867c23b2d0&amp;5e323fd1-198f-468f-a110-9fda18bf1042&amp;e0d20aa2-1e55-499a-9edf-685542e9ef1b&amp;0b14991a-2ca7-4bc5-9ca8-2657091e5ce7&amp;958e0397-cf1e-4032-9ae2-2ee3c8c745a3</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасус</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kerasys</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасис</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000020298153503</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -1070,231 +313,6 @@ Welcos Body Phren Shower Gel Lemon Grass – гель для душа с лем�
 				<width>1</width>
 				<height>1</height>
 				<quantity>3</quantity>
-			</offer>
-			<offer id="4f6a5d96-8756-4e60-a414-8c90eb83e564" group_id="4f6a5d96-8756-4e60-a414-8c90eb83e564">
-				<name>036685 ВЛК Kwailnara Гель для душа Kwailnara Coconut Milk Body Cleanser 560мл</name>
-				<description>Гель для душа с кокосовым молочком Welcos Kwailnara Coconut Milk Body Cleanser содержит в составе 100% кокосовое масло, очищает, питает и смягчает кожу, дарит коже нежный тропический аромат, защищает кожу от потери влаги.
-
-Оказывает заживляющий эффект, обладает успокаивающим и смягчающим эффектом. Мягкая пена удаляет загрязнения и отмершие клетки кожи. Устраняет стянутость, сухость и шелушение кожи. А экзотический кокосовый аромат расслабляет и придает приятный аромат коже.
-
-Гипоаллергенно, подходит для всех типов кожи.
-
-Способ применения: небольшое количество геля нанесите на кожу или мочалку, слегка вспеньте, равномерно распределите по телу, тщательно смойте водой. При необходимости повторите. При попадании в глаза, тщательно промыть большим количеством воды.</description>
-				<vendor>Welcos</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">036685</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">4350</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>720</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001579</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
-				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">20d3cc68-c74f-4dfb-829f-cb38ddff92de&amp;56dbeda4-893b-4e5e-bd76-4cdc125c34fa&amp;a05a0fad-503c-493b-bcf3-4a90856e233c&amp;54b6d852-a133-4c06-ba21-b678f826c60b&amp;df83243a-d69d-4789-b7d8-763c8cd9927a&amp;96cf2989-285a-451e-b7d2-b19b2bff3d7e&amp;6649f4fe-d201-4d4b-b50d-e1d75c2891c6&amp;3e4ceea0-f014-4c62-b4ae-09cf67de3a42&amp;164b8822-2a63-47bf-b49d-e6165a039bae&amp;f209a924-61a7-40a3-b238-af4617797ff7&amp;76683c7a-ca84-48a6-b010-64cc02dbb285&amp;62e423df-86f0-4ee0-ad0f-918aae1ee45b&amp;1114013b-8ae9-405a-aaac-a351414fcf23&amp;f196ea22-bd01-4b95-a7f1-92af1266585c&amp;91a1c2b2-d708-40be-a70c-3ed6db89d491&amp;64768cbd-e817-46c0-a54b-a75a00447823&amp;24598b9d-9ca5-464e-a527-13a3d1d951a7&amp;93110fa6-2946-4ae6-a2d0-f3df074f9ad6&amp;5e323fd1-198f-468f-a110-9fda18bf1042&amp;e0d20aa2-1e55-499a-9edf-685542e9ef1b&amp;7489cec6-fe19-4aba-9a40-7342fef6c12f&amp;5781cecf-24da-4286-998b-6ad73b848bd8&amp;4e516b44-6472-44be-980f-6df6f97e1f85&amp;3c0b47eb-78b4-449b-974a-697334712dbf&amp;b3470a5b-e7c9-45bc-8f50-8403a938a278&amp;a5263943-372b-49b6-8724-f460dc2ae50c&amp;05675ed1-6412-4432-8310-9ee79721a37c</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велк</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велком</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">argan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">велкос</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">welcos</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>3</quantity>
-			</offer>
-			<offer id="0000000000000000000491584538" group_id="0000000000000000000491584538">
-				<name>172223 THE SAEM Aloe Гель с алоэ универсальный увлажняющий Jeju Fresh Aloe Soothing Gel 99%, 250 мл</name>
-				<description>Универсальный гель алоэ для лица и тела The Saem Jeju Fresh Aloe Soothing Gel состоящий на 95% из сока Алоэ Вера станет в Вашем доме незаменимым средством для всей семьи.
-
-Сок Алоэ Вера обладает мощнейшими увлажняющими, восстанавливающими и бактерицидными свойствами. Гель с экстрактом Алоэ имеет легкую приятную консистенцию, благодаря которой средство освежает кожу и не оставляет после себя ощущение липкости или стянутости кожи.
-
-Средства на основе алоэ содержат биологически активные вещества – комплекс аминокислот и витаминов, антиоксидантов, салициловой кислоты, которые благотворно влияют на кожу и оздоравливают ее на клеточном уровне. Растительные ингредиенты мягко защищают кожу от воздействия вредных веществ.
-
-Алоэ-гель не содержит в своем составе опасных для кожи парабенов и силиконов, что делает его подходящим даже для детской чувствительной кожи.
-
-Гель Алоэ Вера подходит для всех типов кожи. </description>
-				<vendor>THE SAEM </vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">172223</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">4305</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>368</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001587</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM </param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Универсальные средства</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4371c770-e058-4c5a-a22b-7b863c8ad78d&amp;a4536b70-5247-47d4-81ff-f8bd2152e416</param>
-				<param name="product_id_n">0000000000000000000491584538</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">зе саем</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">the saem</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">зе сам</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">the sam</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>0</quantity>
-			</offer>
-			<offer id="3c0b47eb-78b4-449b-974a-697334712dbf" group_id="3c0b47eb-78b4-449b-974a-697334712dbf">
-				<name>885617 PIGEON Мыло-пенка для рук Pure Mojito с нат. ингред. и антибак.эффектом "Мохито"250мл</name>
-				<description>Натуральное дезинфицирующее мыло для рук с пенным дозатором для всей семьи. Мыло подается через дозатор в виде пышной мелкозернистой пены, что позволяет значительно сократить расход данного средства. Подходит для всей семьи. Мягко и деликатно очищает, дезинфицирует и увлажняет кожу рук. 
-
-Способ применения: при помощи 1-2 нажатий выдавите необходимое количество средства и тщательно вымойте руки под проточной водой. </description>
-				<vendor>PIGEON</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">885617</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">4325</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>420</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001961</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">PIGEON</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">56dbeda4-893b-4e5e-bd76-4cdc125c34fa&amp;a05a0fad-503c-493b-bcf3-4a90856e233c&amp;54b6d852-a133-4c06-ba21-b678f826c60b&amp;774b6d1b-a0e5-419a-b8d4-69682204afd4&amp;df83243a-d69d-4789-b7d8-763c8cd9927a&amp;96cf2989-285a-451e-b7d2-b19b2bff3d7e&amp;6649f4fe-d201-4d4b-b50d-e1d75c2891c6&amp;3e4ceea0-f014-4c62-b4ae-09cf67de3a42&amp;164b8822-2a63-47bf-b49d-e6165a039bae&amp;f209a924-61a7-40a3-b238-af4617797ff7&amp;ae8ccfc1-e5dc-4456-b080-6a86c1be7e76&amp;76683c7a-ca84-48a6-b010-64cc02dbb285&amp;62e423df-86f0-4ee0-ad0f-918aae1ee45b&amp;1114013b-8ae9-405a-aaac-a351414fcf23&amp;9d741529-3f51-4fe1-a991-177ca56ce516&amp;f196ea22-bd01-4b95-a7f1-92af1266585c&amp;91a1c2b2-d708-40be-a70c-3ed6db89d491&amp;339a06b4-2d1f-4f19-a5ba-1b1c9fc527cc&amp;64768cbd-e817-46c0-a54b-a75a00447823&amp;24598b9d-9ca5-464e-a527-13a3d1d951a7&amp;4f6a5d96-8756-4e60-a414-8c90eb83e564&amp;3166b6c9-124b-4448-a38f-e3b13c686cf8&amp;93110fa6-2946-4ae6-a2d0-f3df074f9ad6&amp;3abf7e53-f6e9-457c-a2c9-00867c23b2d0&amp;5e323fd1-198f-468f-a110-9fda18bf1042&amp;e0d20aa2-1e55-499a-9edf-685542e9ef1b&amp;0b14991a-2ca7-4bc5-9ca8-2657091e5ce7</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">пиджеон</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">PIGEON</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Пиджеон</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">pigeon</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Pigeon</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>2</quantity>
 			</offer>
 		</offers>
 	</shop>
