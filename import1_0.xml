@@ -5,23 +5,25 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
-			<category id="УТ-00002967">Зубные щетки мягкие</category>
+			<category id="УТ-00002961">Лечебно-профилактические</category>
 		</categories>
 		<offers>
-			<offer id="0000000000000000039783999436" group_id="0000000000000000039783999436">
-				<name>212128 DENTALPRO Black Ultra Slim Plus Щетка зубная многоуровневая (мягкая)</name>
-				<description>Новая зубная щетка с многоуровневой щетиной на 15% эффективнее очищает зубы и способствует снижению риска возникновения пародонтоза благодаря сочетанию двух видов щетинок с добавлением фтора и ионов платины. Рекомендуем для здоровых зубов и при отсутствии ярко выраженных проблем с деснами. Уникальная щетина с добавлением платиновой коллоидной керамики (PCC). В щетину встроены ионы платины, которые делают щетку на 25% прочнее и на 15% повышают её очищающую эффективность.</description>
-				<vendor>Dentalpro</vendor>
+			<offer id="0000000000000000000058582571" group_id="0000000000000000000058582571">
+				<name>122885 Ополаскиватель для рта NISSAN FaFa Make a new Habit (фруктово-цитрусовый ) 473мл</name>
+				<description>Средство Nissan "Make a New Habbit" предназначено для полоскания полости рта, препятствует развитию бактерий в полости рта и обеспечивает свежесть дыхания.
+Обладает противовоспалительным и дезинфицирующим свойствами, имеет сильный освежающий аромат мяты.
+Содержит ксилитол (натуральный подсластитель).</description>
+				<vendor>Fa Fa Nissan</vendor>
 				<country_of_origin>Япония</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">212128</param>
+				<param name="Артикул">122885</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
 				<param name="ВесИспользовать">Нет</param>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
 				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ВидНоменклатуры">Косметика "Личная гигиена"</param>
 				<param name="ДлинаЕдиницаИзмерения"/>
 				<param name="ДлинаЗнаменатель">0</param>
 				<param name="ДлинаИспользовать">Нет</param>
@@ -34,7 +36,7 @@
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">4289</param>
+				<param name="КодДляПоиска">2954</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -52,17 +54,19 @@
 				<param name="ТипНоменклатуры">Товар</param>
 				<param name="ТоварнаяКатегория"/>
 				<param name="ЦеноваяГруппа"/>
-				<price>713</price>
+				<price>638</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00002967</categoryId>
+				<categoryId>УТ-00002961</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Dentalpro</param>
-				<param name="product_id_n">0000000000000000039783999436</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">дентал</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Dentalpro</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">денталпро</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Fa Fa Nissan</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Fa Fa Nissan</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фа фа </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">fa</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фа фа ниссан</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000000000058582571</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
