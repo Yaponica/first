@@ -5,18 +5,22 @@
 			<currency id="RUB" rate="1"/>
 		</currencies>
 		<categories>
-			<category id="УТ-00002961">Лечебно-профилактические</category>
+			<category id="УТ-00000278">Лечебно-профилактические</category>
 		</categories>
 		<offers>
-			<offer id="0000000000000000000058582571" group_id="0000000000000000000058582571">
-				<name>122885 Ополаскиватель для рта NISSAN FaFa Make a new Habit (фруктово-цитрусовый ) 473мл</name>
-				<description>Средство Nissan "Make a New Habbit" предназначено для полоскания полости рта, препятствует развитию бактерий в полости рта и обеспечивает свежесть дыхания.
-Обладает противовоспалительным и дезинфицирующим свойствами, имеет сильный освежающий аромат мяты.
-Содержит ксилитол (натуральный подсластитель).</description>
-				<vendor>Fa Fa Nissan</vendor>
+			<offer id="0000000000000000000000148134" group_id="0000000000000000000000148134">
+				<name>186427 Зубная паста с микрогранулами для защиты от кариеса, аромат мяты Lion Dentor Clear MAX,140гр</name>
+				<description>Зубная паста деликатно очищает зубы и защищает от образования кариеса. 
+Микрогранулы двух размеров - мелкие и очень мелкие - повышают эффективность удаления зубного налета и остатков пищи в труднодоступных местах, а также препятствуют образованию неприятного запаха. 
+Мелкие - полируют фронтальную поверхность зубов.
+Очень мелкие - благодаря своему размеру, проникают в межзубные пространства, прекрасно вычищая оттуда зубной налет, что делает зубы не только чистыми, но и гладкими. 
+Активный компонент - монофлюорофосфат натрия, содержащий фтор, укрепляет структуру зубов и препятствует возникновению кариеса. 
+Входящий в состав ментол приятно охлаждает десны, а аромат мяты надолго освежает дыхание. 
+</description>
+				<vendor>Lion</vendor>
 				<country_of_origin>Япония</country_of_origin>
 				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">122885</param>
+				<param name="Артикул">186427</param>
 				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
 				<param name="ВесЕдиницаИзмерения"/>
 				<param name="ВесЗнаменатель">0</param>
@@ -30,13 +34,13 @@
 				<param name="ДлинаЧислитель">0</param>
 				<param name="ЕдиницаИзмерения">шт</param>
 				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
+				<param name="Качество">Новый</param>
 				<param name="КиЗГИСМ">Нет</param>
 				<param name="КиЗГИСМGTIN"/>
 				<param name="КиЗГИСМВид"/>
 				<param name="КиЗГИСМРазмер"/>
 				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">2954</param>
+				<param name="КодДляПоиска">11304</param>
 				<param name="КодОКВЭД"/>
 				<param name="КодОКВЭД2"/>
 				<param name="КодОКП"/>
@@ -52,21 +56,25 @@
 				<param name="СрокГодности">0</param>
 				<param name="СтавкаНДС">Без НДС</param>
 				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
+				<param name="ТоварнаяКатегория">Гигиена</param>
 				<param name="ЦеноваяГруппа"/>
-				<price>638</price>
+				<price>443</price>
 				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00002961</categoryId>
+				<categoryId>УТ-00000278</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
 				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Fa Fa Nissan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фа</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Fa Fa Nissan</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фа фа </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">fa</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фа фа ниссан</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="product_id_n">0000000000000000000058582571</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Зубные пасты</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">cb04af12-5ada-4c25-a21a-f40a91864220&amp;a7151625-c21e-487e-a1a5-cf88ffbaee45&amp;102fb41e-2866-4d82-a183-35e21cca5e61&amp;f440ebc7-4c4d-4cd8-9f5d-0c79e1bbe258&amp;2c4d8023-e921-409e-9e21-ca681cc99f87&amp;526755f1-4a17-4bd2-9daf-0b14e751ea0f&amp;5cd8b10d-fd9f-4d40-9d10-e95274c0b2d3&amp;e079e54b-47fd-403d-9ae1-2bbc58243b49&amp;76deecec-6bcd-416a-99ab-f863003f24c0&amp;5fa1c81d-18c0-405c-9973-963b1b8d193c&amp;46411b99-9678-402f-97b3-9ac1626a3c89&amp;6ec12041-4131-475d-975a-48ecea680433&amp;3985931d-9e9f-4740-9640-72b1b32012dc&amp;9ec6c25d-7c74-4d0a-9624-71a8177d9db1&amp;bc3832f9-8006-42d0-9620-398944abb9ea&amp;cffb165b-5fa7-443a-95f4-551ad186fa59&amp;f2ca9cc4-e9ab-4059-94e3-4e7e336768ce&amp;22ee8598-c0f2-4062-9452-839fe49dba10&amp;6097c974-93ec-401d-93f4-584d5d0a8c77&amp;ec9a9a73-6798-45ea-93cd-c530a9a8b8eb&amp;b693ee72-3605-4aa6-92c2-7d01209adb66&amp;8956f5e4-5a77-4a04-920c-2f307b8dfc91&amp;0aad8e63-b101-422c-91f3-65514bf7c597&amp;1433a0a1-c7db-4848-9004-9bf6453e9d3f&amp;d0fd10c4-5f3c-48b2-8f9a-8b097ade98a2&amp;2c77c07f-05f8-11ea-8ec5-9cdc71af0f49&amp;d8792478-e12a-11e9-8ec3-9cdc71af0f49</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Lion,lion,Oct,Лайон,Лаон,Лион,Окт</param>
+				<param name="product_id_n">0000000000000000000000148134</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Окт</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Oct</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Lion</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лайон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лаон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Лион</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -75,7 +83,7 @@
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>5</quantity>
+				<quantity>44</quantity>
 			</offer>
 		</offers>
 	</shop>
