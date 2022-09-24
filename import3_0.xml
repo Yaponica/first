@@ -1446,7 +1446,7 @@ Body Cleanser обогащен экстрактом оливы, натураль
 				<param name="Производитель">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Loshi</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Лосьон/молочко для тела</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">bcccce2d-9c44-4d62-b2de-5e949bce4763&amp;0c866790-3383-4637-afe6-3265ee1e8b4b&amp;23d20a74-03b9-4c8d-ac62-19d5a3cdbedb&amp;ddca5596-d8b5-49dc-a7cc-036766e041d4&amp;617c6cb8-d569-4d2e-a37f-0b6da642182d&amp;8369978b-ed72-44fa-a073-6c29b0b971a6&amp;4e676b72-2d6d-4bac-9ec5-7483127e7b9c&amp;b69596be-e7f9-40f1-9ba3-d690f041643c&amp;b603a2cd-7cf3-44bf-9863-aca4a8495dfa&amp;16f29ff2-22b2-4fce-981b-c4cedc429a2d&amp;93e716c5-0ccd-4b3d-96d7-d9649ed0ae3d&amp;3a5a316d-4b00-11e0-94bb-0015e9411353&amp;535284ae-33ac-4517-9030-cff97b20d62f&amp;83c49206-d10b-44dd-8d71-7f100d062b29&amp;b7f8f4a2-dc19-11e8-8c8d-9cdc71af0f48&amp;dd6522ce-8342-4263-8c86-ecf7ed1aa155&amp;722f67a8-d677-42c3-8023-51e63dc1f515&amp;246746ca-46ec-11e8-7f94-9cdc71af0f48&amp;245bbfee-46ec-11e8-7f94-9cdc71af0f48&amp;6b11fe34-4f07-11e9-728b-9cdc71af0f48&amp;71570c18-6a45-11e9-5d88-9cdc71af0f48&amp;6ef6681a-6a45-11e9-5d88-9cdc71af0f48&amp;496ee727-369b-11e9-1995-9cdc71af0f48&amp;47fa2842-369b-11e9-1995-9cdc71af0f48&amp;1c560d30-649d-11e8-fd8a-9cdc71af0f48&amp;bef8dd5d-ee51-4f62-bf46-a537d0edd0a5&amp;37c73aa8-304b-43e8-be01-f80fe829801c</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">1c560d30-649d-11e8-fd8a-9cdc71af0f48&amp;bef8dd5d-ee51-4f62-bf46-a537d0edd0a5&amp;37c73aa8-304b-43e8-be01-f80fe829801c&amp;7bdc1bf7-a79d-4aec-bbb9-ba63573fb599&amp;e9cb2860-6e6a-45ad-b4ef-630c8c2d50fd&amp;2b2a3f55-e806-46b4-b2fb-87806a3bb771&amp;bcccce2d-9c44-4d62-b2de-5e949bce4763&amp;0c866790-3383-4637-afe6-3265ee1e8b4b&amp;23d20a74-03b9-4c8d-ac62-19d5a3cdbedb&amp;ddca5596-d8b5-49dc-a7cc-036766e041d4&amp;617c6cb8-d569-4d2e-a37f-0b6da642182d&amp;8369978b-ed72-44fa-a073-6c29b0b971a6&amp;4e676b72-2d6d-4bac-9ec5-7483127e7b9c&amp;b69596be-e7f9-40f1-9ba3-d690f041643c&amp;b603a2cd-7cf3-44bf-9863-aca4a8495dfa&amp;16f29ff2-22b2-4fce-981b-c4cedc429a2d&amp;93e716c5-0ccd-4b3d-96d7-d9649ed0ae3d&amp;3a5a316d-4b00-11e0-94bb-0015e9411353&amp;535284ae-33ac-4517-9030-cff97b20d62f&amp;83c49206-d10b-44dd-8d71-7f100d062b29&amp;b7f8f4a2-dc19-11e8-8c8d-9cdc71af0f48&amp;dd6522ce-8342-4263-8c86-ecf7ed1aa155&amp;722f67a8-d677-42c3-8023-51e63dc1f515&amp;246746ca-46ec-11e8-7f94-9cdc71af0f48&amp;245bbfee-46ec-11e8-7f94-9cdc71af0f48&amp;6b11fe34-4f07-11e9-728b-9cdc71af0f48&amp;71570c18-6a45-11e9-5d88-9cdc71af0f48</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Лош,LoShi,loshi,Loshi, Лоши</param>
 				<param name="product_id_n">0000000000000000011827990224</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"> Лоши</param>
@@ -1612,6 +1612,76 @@ Body Cleanser обогащен экстрактом оливы, натураль
 				<height>1</height>
 				<quantity>0</quantity>
 			</offer>
+			<offer id="3c0b47eb-78b4-449b-974a-697334712dbf" group_id="3c0b47eb-78b4-449b-974a-697334712dbf">
+				<name>885617 PIGEON Мыло-пенка для рук Pure Mojito с нат. ингред. и антибак.эффектом "Мохито"250мл</name>
+				<description>Натуральное дезинфицирующее мыло для рук с пенным дозатором для всей семьи. Мыло подается через дозатор в виде пышной мелкозернистой пены, что позволяет значительно сократить расход данного средства. Подходит для всей семьи. Мягко и деликатно очищает, дезинфицирует и увлажняет кожу рук. 
+
+Способ применения: при помощи 1-2 нажатий выдавите необходимое количество средства и тщательно вымойте руки под проточной водой. </description>
+				<vendor>PIGEON</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">885617</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Товары</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">4325</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>392</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001961</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">PIGEON</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">56dbeda4-893b-4e5e-bd76-4cdc125c34fa&amp;a05a0fad-503c-493b-bcf3-4a90856e233c&amp;c5edda5a-76f4-4236-bc92-c883a9ade845&amp;54b6d852-a133-4c06-ba21-b678f826c60b&amp;774b6d1b-a0e5-419a-b8d4-69682204afd4&amp;df83243a-d69d-4789-b7d8-763c8cd9927a&amp;96cf2989-285a-451e-b7d2-b19b2bff3d7e&amp;6649f4fe-d201-4d4b-b50d-e1d75c2891c6&amp;58463fd4-3090-49bb-b4d3-9368473a8aec&amp;3e4ceea0-f014-4c62-b4ae-09cf67de3a42&amp;164b8822-2a63-47bf-b49d-e6165a039bae&amp;f209a924-61a7-40a3-b238-af4617797ff7&amp;ae8ccfc1-e5dc-4456-b080-6a86c1be7e76&amp;76683c7a-ca84-48a6-b010-64cc02dbb285&amp;62e423df-86f0-4ee0-ad0f-918aae1ee45b&amp;1114013b-8ae9-405a-aaac-a351414fcf23&amp;9d741529-3f51-4fe1-a991-177ca56ce516&amp;f196ea22-bd01-4b95-a7f1-92af1266585c&amp;91a1c2b2-d708-40be-a70c-3ed6db89d491&amp;3b48fce0-0008-47a2-a6b4-d156f0431ead&amp;339a06b4-2d1f-4f19-a5ba-1b1c9fc527cc&amp;64768cbd-e817-46c0-a54b-a75a00447823&amp;24598b9d-9ca5-464e-a527-13a3d1d951a7&amp;4f6a5d96-8756-4e60-a414-8c90eb83e564&amp;5bd92223-0e48-4d04-a39c-7c534b3a1470&amp;3166b6c9-124b-4448-a38f-e3b13c686cf8&amp;93110fa6-2946-4ae6-a2d0-f3df074f9ad6</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">пиджеон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">PIGEON</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Пиджеон</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">pigeon</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Pigeon</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>6</quantity>
+			</offer>
 			<offer id="0000000000000000003335272438" group_id="0000000000000000003335272438">
 				<name>904643 Увлажняющий гель-крем с коллагеном Mediflower Water drop Moisture Gel Cream</name>
 				<description>Крем с легкой гелеобразной текстурой обеспечит глубокое увлажнение.
@@ -1670,7 +1740,7 @@ Body Cleanser обогащен экстрактом оливы, натураль
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Защита</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48&amp;5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Бани руни</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">меди флауэр</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Меди фловер</param>
@@ -1690,76 +1760,6 @@ Body Cleanser обогащен экстрактом оливы, натураль
 				<width>1</width>
 				<height>1</height>
 				<quantity>0</quantity>
-			</offer>
-			<offer id="3c0b47eb-78b4-449b-974a-697334712dbf" group_id="3c0b47eb-78b4-449b-974a-697334712dbf">
-				<name>885617 PIGEON Мыло-пенка для рук Pure Mojito с нат. ингред. и антибак.эффектом "Мохито"250мл</name>
-				<description>Натуральное дезинфицирующее мыло для рук с пенным дозатором для всей семьи. Мыло подается через дозатор в виде пышной мелкозернистой пены, что позволяет значительно сократить расход данного средства. Подходит для всей семьи. Мягко и деликатно очищает, дезинфицирует и увлажняет кожу рук. 
-
-Способ применения: при помощи 1-2 нажатий выдавите необходимое количество средства и тщательно вымойте руки под проточной водой. </description>
-				<vendor>PIGEON</vendor>
-				<country_of_origin>Южная Корея</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">885617</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Товары</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество"/>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">4325</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория"/>
-				<param name="ЦеноваяГруппа"/>
-				<price>392</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00001961</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">PIGEON</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">56dbeda4-893b-4e5e-bd76-4cdc125c34fa&amp;a05a0fad-503c-493b-bcf3-4a90856e233c&amp;c5edda5a-76f4-4236-bc92-c883a9ade845&amp;54b6d852-a133-4c06-ba21-b678f826c60b&amp;774b6d1b-a0e5-419a-b8d4-69682204afd4&amp;df83243a-d69d-4789-b7d8-763c8cd9927a&amp;96cf2989-285a-451e-b7d2-b19b2bff3d7e&amp;6649f4fe-d201-4d4b-b50d-e1d75c2891c6&amp;58463fd4-3090-49bb-b4d3-9368473a8aec&amp;3e4ceea0-f014-4c62-b4ae-09cf67de3a42&amp;164b8822-2a63-47bf-b49d-e6165a039bae&amp;62e423df-86f0-4ee0-ad0f-918aae1ee45b&amp;1114013b-8ae9-405a-aaac-a351414fcf23&amp;9d741529-3f51-4fe1-a991-177ca56ce516&amp;f196ea22-bd01-4b95-a7f1-92af1266585c&amp;91a1c2b2-d708-40be-a70c-3ed6db89d491&amp;3b48fce0-0008-47a2-a6b4-d156f0431ead&amp;339a06b4-2d1f-4f19-a5ba-1b1c9fc527cc&amp;64768cbd-e817-46c0-a54b-a75a00447823&amp;24598b9d-9ca5-464e-a527-13a3d1d951a7&amp;4f6a5d96-8756-4e60-a414-8c90eb83e564&amp;5bd92223-0e48-4d04-a39c-7c534b3a1470&amp;3166b6c9-124b-4448-a38f-e3b13c686cf8&amp;93110fa6-2946-4ae6-a2d0-f3df074f9ad6&amp;3abf7e53-f6e9-457c-a2c9-00867c23b2d0&amp;5e323fd1-198f-468f-a110-9fda18bf1042&amp;e0d20aa2-1e55-499a-9edf-685542e9ef1b</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">пиджеон</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">PIGEON</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Пиджеон</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">pigeon</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Pigeon</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>6</quantity>
 			</offer>
 			<offer id="0000000000000000000432327238" group_id="0000000000000000000432327238">
 				<name>201613 Набор кремов "Kumo" для рук "Cherry Blossom",30г+ Honey,30г +Pearl,30г+Almond,30 г</name>
@@ -2875,7 +2875,7 @@ Almond - миндальный восторг.
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Защита</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48&amp;5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Анджо</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Анжо</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">анжо</param>
@@ -3733,7 +3733,7 @@ Almond - миндальный восторг.
 				<param name="Производитель">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;65428067-8e5f-4fe8-999d-d38856596757&amp;2d30a221-3216-4642-983b-8463ae7c5732&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;0eed48ef-e6f7-4d70-9723-c848e19c9ca2&amp;5ed9868b-42db-43aa-95fe-7c4bdc411f64&amp;ae85a40f-acd8-460c-95b5-262d85708965&amp;547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;3e813706-6e90-44c7-92c5-bb6966c28b21&amp;d4e710a1-7de2-4107-920f-95a08ec8563e&amp;ce5c5d1e-0cc0-40c5-9162-ff89dbaee511&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;08a1aa01-4bd8-11ea-8ec9-9cdc71af0f49&amp;08ca6574-2c22-4751-8e64-b91d9a9b2bb6&amp;6209c2ed-8887-4a61-8df5-eef35ed15595&amp;2059d09f-e7db-41cd-8dac-0a583530f87b&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;b9f27c3f-c19f-48ad-8b70-90231a4d33eb&amp;189ee1dd-455e-44ef-8b2a-b530cd24069a&amp;eac80594-00b1-4ed8-89b7-1b89f6e2ef37&amp;eccf0ae8-5f7e-11e9-899b-9cdc71af0f48&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;e8dec1c2-55dc-44f2-845c-579294e2a337</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">23e30e88-ded8-11e0-a6ea-0015e9411353&amp;19b09d33-ed8f-443e-a6cd-449faa6c85c4&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;eede25fa-9326-4cbc-a304-a2eca30f0941&amp;cf2ee81f-1a66-4104-a1f1-eb28bd58c2a6&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;65428067-8e5f-4fe8-999d-d38856596757&amp;2d30a221-3216-4642-983b-8463ae7c5732&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;0eed48ef-e6f7-4d70-9723-c848e19c9ca2&amp;5ed9868b-42db-43aa-95fe-7c4bdc411f64&amp;ae85a40f-acd8-460c-95b5-262d85708965&amp;547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;3e813706-6e90-44c7-92c5-bb6966c28b21&amp;d4e710a1-7de2-4107-920f-95a08ec8563e&amp;ce5c5d1e-0cc0-40c5-9162-ff89dbaee511&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;08a1aa01-4bd8-11ea-8ec9-9cdc71af0f49&amp;08ca6574-2c22-4751-8e64-b91d9a9b2bb6&amp;6209c2ed-8887-4a61-8df5-eef35ed15595&amp;2059d09f-e7db-41cd-8dac-0a583530f87b&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;b9f27c3f-c19f-48ad-8b70-90231a4d33eb</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand ,cow brand ,CowBrand ,ков бренд ,Ков бренд,ковбренд,боунсиа</param>
 				<param name="product_id_n">0000000000000040898833960675</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
@@ -3816,13 +3816,91 @@ Almond - миндальный восторг.
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d&amp;5d97b812-6a45-11e9-5d88-9cdc71af0f48&amp;33633116-6a45-11e9-5d88-9cdc71af0f48&amp;98889536-42e6-11e8-e08a-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;7369520f-d803-11df-a86d-00241d24624d</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">23e30e88-ded8-11e0-a6ea-0015e9411353&amp;19b09d33-ed8f-443e-a6cd-449faa6c85c4&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d&amp;5d97b812-6a45-11e9-5d88-9cdc71af0f48&amp;33633116-6a45-11e9-5d88-9cdc71af0f48&amp;98889536-42e6-11e8-e08a-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Organia</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">organia</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">органиа</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">органия</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Organia,organia,органиа,органия</param>
 				<param name="product_id_n">0000000000000000148802775438</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000000000177902774" group_id="0000000000000000000177902774">
+				<name>008297 COW Bouncia Milky Body Soap Жидкое увлажняющее мыло для рук и тела аромат цветов, 400мл МУ</name>
+				<description>Жидкое увлажняющее мыло для тела образует мягкую густую пену, которая нежно и бережно очищает кожу.
+Богатый протеинами молочный порошок (сливки), входящий в состав мыла, обладает увлажняющим эффектом.
+Кожа становится нежной и гладкой на ощупь.
+Коллаген и гиалуроновая кислота глубоко проникают в клетки кожи, надолго удерживая влагу, и предотвращают сухость и шелушение.
+Полученный из лакричника глицирризинат дикалия оказывает смягчающее и противовоспалительное действие, устраняет зуд и шелушение, заботясь о сухой коже.
+Мыло обладает элегантным ароматом роскошного белого мыла.</description>
+				<vendor>Cow Brand</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">008297(006903)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11122703</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для тела</param>
+				<param name="ЦеноваяГруппа">Гели для душа</param>
+				<price>623</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000009648</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand ,cow brand ,CowBrand ,ков бренд ,Ков бренд,ковбренд,боунсиа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">CowBrand </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ков бренд </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ковбренд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ков бренд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">боунсиа</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">cow brand </param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand </param>
+				<param name="product_id_n">0000000000000000000177902774</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -3908,84 +3986,6 @@ Almond - миндальный восторг.
 				<width>1</width>
 				<height>1</height>
 				<quantity>2</quantity>
-			</offer>
-			<offer id="0000000000000000000177902774" group_id="0000000000000000000177902774">
-				<name>008297 COW Bouncia Milky Body Soap Жидкое увлажняющее мыло для рук и тела аромат цветов, 400мл МУ</name>
-				<description>Жидкое увлажняющее мыло для тела образует мягкую густую пену, которая нежно и бережно очищает кожу.
-Богатый протеинами молочный порошок (сливки), входящий в состав мыла, обладает увлажняющим эффектом.
-Кожа становится нежной и гладкой на ощупь.
-Коллаген и гиалуроновая кислота глубоко проникают в клетки кожи, надолго удерживая влагу, и предотвращают сухость и шелушение.
-Полученный из лакричника глицирризинат дикалия оказывает смягчающее и противовоспалительное действие, устраняет зуд и шелушение, заботясь о сухой коже.
-Мыло обладает элегантным ароматом роскошного белого мыла.</description>
-				<vendor>Cow Brand</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">008297(006903)</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11122703</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для тела</param>
-				<param name="ЦеноваяГруппа">Гели для душа</param>
-				<price>623</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ000009648</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand ,cow brand ,CowBrand ,ков бренд ,Ков бренд,ковбренд,боунсиа</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">CowBrand </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ков бренд </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ковбренд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ков бренд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">боунсиа</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">cow brand </param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand </param>
-				<param name="product_id_n">0000000000000000000177902774</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>0</quantity>
 			</offer>
 			<offer id="0000000000000000000003185987" group_id="0000000000000000000003185987">
 				<name>163370 Гель для душа "Прикли Чеджу", увлажняющий, 500мл, Flor de Man</name>
@@ -4576,7 +4576,7 @@ Almond - миндальный восторг.
 				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;33633116-6a45-11e9-5d88-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;3e813706-6e90-44c7-92c5-bb6966c28b21&amp;d4e710a1-7de2-4107-920f-95a08ec8563e&amp;ce5c5d1e-0cc0-40c5-9162-ff89dbaee511&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;08a1aa01-4bd8-11ea-8ec9-9cdc71af0f49&amp;08ca6574-2c22-4751-8e64-b91d9a9b2bb6&amp;6209c2ed-8887-4a61-8df5-eef35ed15595&amp;2059d09f-e7db-41cd-8dac-0a583530f87b&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;b9f27c3f-c19f-48ad-8b70-90231a4d33eb&amp;189ee1dd-455e-44ef-8b2a-b530cd24069a&amp;eac80594-00b1-4ed8-89b7-1b89f6e2ef37&amp;eccf0ae8-5f7e-11e9-899b-9cdc71af0f48&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;e8dec1c2-55dc-44f2-845c-579294e2a337&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d&amp;2444b880-46ec-11e8-7f94-9cdc71af0f48&amp;5d97b812-6a45-11e9-5d88-9cdc71af0f48&amp;5c29b430-6a45-11e9-5d88-9cdc71af0f48&amp;5aa057b8-6a45-11e9-5d88-9cdc71af0f48&amp;33633116-6a45-11e9-5d88-9cdc71af0f48&amp;98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">керасис,Kerasys,керасус,kerasys</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">керасис</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))"/>
@@ -5000,7 +5000,7 @@ Almond - миндальный восторг.
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))"/>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Руки</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4d68502e-77eb-11e9-e989-9cdc71af0f48&amp;97dbdb66-42e6-11e8-e08a-9cdc71af0f48&amp;f94a96bc-2322-4bb4-ba8b-0b203dd4a79d&amp;4c6e37c9-d9fd-467c-b935-f7b95a3a95a6&amp;391d9228-802a-11e8-b78a-9cdc71af0f48&amp;38ed35a6-802a-11e8-b78a-9cdc71af0f48&amp;30b254ee-9d23-44cd-b2ba-9c863c0e0583&amp;880e9048-68b2-4f14-b0a9-57253a0e796c&amp;905b8f0d-a137-45b7-b07e-a8273bd9d4ee&amp;3f71a175-4e7d-403a-af8d-d9fe2a2baddb&amp;34f8eb0d-70a4-47ab-ae97-2666c5b27489&amp;a876f7e0-af52-4c00-acfd-ca4f0f74f3c6&amp;9fda4c68-c90d-438e-ab71-94ecf2d5d20c&amp;e32445e8-2539-4d49-a985-21fdbf25671c&amp;32ba80d3-5962-4d1b-a8f9-12e4324ef8c1&amp;5563ee5a-f867-4bb8-a66d-cc8e30b4e85b&amp;bc2ce338-5848-4cdf-a3d1-d1db1a475ef0&amp;7863e92c-2f8a-430b-a370-2a7228e97788&amp;59684c4b-af18-4b39-a2c2-697a31954775&amp;79b6ad9b-0ed9-4fd9-a25a-7bf558bb990a&amp;fc0b0afc-069f-4b2f-a040-483b8c49091b&amp;8c6bf672-2508-4528-9b1f-12bcde4c7d50&amp;5f797792-ef83-401b-9a62-1457639f6014&amp;766cece5-8cfc-4c98-9993-413e334cc6c9&amp;a6f16728-3fb1-4914-9900-56e65d534832&amp;c9c2e52a-161f-45c4-947a-e6de3ede234b&amp;9303c590-1308-42a7-9312-6e58f9f8dce6</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">8c6bf672-2508-4528-9b1f-12bcde4c7d50&amp;5f797792-ef83-401b-9a62-1457639f6014&amp;766cece5-8cfc-4c98-9993-413e334cc6c9&amp;a6f16728-3fb1-4914-9900-56e65d534832&amp;c9c2e52a-161f-45c4-947a-e6de3ede234b&amp;9303c590-1308-42a7-9312-6e58f9f8dce6&amp;a22c5c98-f859-11e8-928b-9cdc71af0f48&amp;3ca6ef36-8f7e-49cc-90ca-a5c7174bd116&amp;2e69e751-e127-11e9-8ec3-9cdc71af0f49&amp;925f4e62-a756-48ed-88dc-b43256f78a15&amp;ff59a513-6b58-4972-86b9-d8b51e3cf4af&amp;7dc12f24-6a45-11e9-5d88-9cdc71af0f48&amp;59311aca-6a45-11e9-5d88-9cdc71af0f48&amp;57dca702-6a45-11e9-5d88-9cdc71af0f48&amp;d5127bea-2867-11e9-1e87-9cdc71af0f48&amp;55e70c76-3697-11e9-1995-9cdc71af0f48&amp;4d68502e-77eb-11e9-e989-9cdc71af0f48&amp;97dbdb66-42e6-11e8-e08a-9cdc71af0f48&amp;f94a96bc-2322-4bb4-ba8b-0b203dd4a79d&amp;4c6e37c9-d9fd-467c-b935-f7b95a3a95a6&amp;391d9228-802a-11e8-b78a-9cdc71af0f48&amp;38ed35a6-802a-11e8-b78a-9cdc71af0f48&amp;30b254ee-9d23-44cd-b2ba-9c863c0e0583&amp;880e9048-68b2-4f14-b0a9-57253a0e796c&amp;905b8f0d-a137-45b7-b07e-a8273bd9d4ee&amp;3f71a175-4e7d-403a-af8d-d9fe2a2baddb&amp;34f8eb0d-70a4-47ab-ae97-2666c5b27489</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Frudia </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">frudia </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фрудиа</param>
@@ -5374,7 +5374,7 @@ My Orchard Scrub Body Wash содержит такие природные инг
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)"/>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d&amp;2444b880-46ec-11e8-7f94-9cdc71af0f48&amp;5d97b812-6a45-11e9-5d88-9cdc71af0f48&amp;33633116-6a45-11e9-5d88-9cdc71af0f48&amp;98889536-42e6-11e8-e08a-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;7369520f-d803-11df-a86d-00241d24624d&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;7369520f-d803-11df-a86d-00241d24624d&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Frudia </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">frudia </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фрудиа</param>
@@ -6135,7 +6135,7 @@ Floral Musk - Цветочный мускус.
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;d4e710a1-7de2-4107-920f-95a08ec8563e&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;6209c2ed-8887-4a61-8df5-eef35ed15595&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;b9f27c3f-c19f-48ad-8b70-90231a4d33eb&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d&amp;5aa057b8-6a45-11e9-5d88-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;d4e710a1-7de2-4107-920f-95a08ec8563e&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;6209c2ed-8887-4a61-8df5-eef35ed15595&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;b9f27c3f-c19f-48ad-8b70-90231a4d33eb&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d&amp;5aa057b8-6a45-11e9-5d88-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;23e30e88-ded8-11e0-a6ea-0015e9411353</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Frudia </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">frudia </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фрудиа</param>
@@ -6885,7 +6885,7 @@ Floral Musk - Цветочный мускус.
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Руки</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Ноги</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">7df20099-f29d-423b-afc2-ca33ada83820&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d</param>
 				<param name="product_id_n">0000000000000000651668423526</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
@@ -7257,7 +7257,7 @@ Floral Musk - Цветочный мускус.
 				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;19b09d33-ed8f-443e-a6cd-449faa6c85c4&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;eede25fa-9326-4cbc-a304-a2eca30f0941&amp;cf2ee81f-1a66-4104-a1f1-eb28bd58c2a6&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">argan,Welcos,welcos,велк,велком,велкос</param>
 				<param name="product_id_n">0000000000000000000170127238</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">welcos</param>
@@ -7485,7 +7485,7 @@ Floral Musk - Цветочный мускус.
 				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Mediflower</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель многофункциональный</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">886dfd20-5f52-11e8-a493-9cdc71af0f48&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;47b0e154-25f8-11e9-3990-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48&amp;5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;886dfd20-5f52-11e8-a493-9cdc71af0f48&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;47b0e154-25f8-11e9-3990-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48</param>
 				<param name="product_id_n">0000000000000000000000309398</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
@@ -8008,7 +8008,7 @@ Floral Musk - Цветочный мускус.
 				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Mukunghwa</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">08a1aa01-4bd8-11ea-8ec9-9cdc71af0f49&amp;08ca6574-2c22-4751-8e64-b91d9a9b2bb6&amp;6209c2ed-8887-4a61-8df5-eef35ed15595&amp;2059d09f-e7db-41cd-8dac-0a583530f87b&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;b9f27c3f-c19f-48ad-8b70-90231a4d33eb&amp;189ee1dd-455e-44ef-8b2a-b530cd24069a&amp;eac80594-00b1-4ed8-89b7-1b89f6e2ef37&amp;eccf0ae8-5f7e-11e9-899b-9cdc71af0f48&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;e8dec1c2-55dc-44f2-845c-579294e2a337&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d&amp;2444b880-46ec-11e8-7f94-9cdc71af0f48&amp;5d97b812-6a45-11e9-5d88-9cdc71af0f48&amp;5c29b430-6a45-11e9-5d88-9cdc71af0f48&amp;5aa057b8-6a45-11e9-5d88-9cdc71af0f48&amp;33633116-6a45-11e9-5d88-9cdc71af0f48&amp;98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d</param>
 				<param name="product_id_n">0000000000000000061053969689</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Mukunghwa</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">мукунва</param>
@@ -8758,7 +8758,7 @@ Floral Musk - Цветочный мускус.
 				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">ROSEE</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">3a22da2a-021e-11ea-8ec5-9cdc71af0f49&amp;19ddafc4-021e-11ea-8ec5-9cdc71af0f49&amp;ec8677c1-021b-11ea-8ec5-9cdc71af0f49&amp;7c1628fd-021b-11ea-8ec5-9cdc71af0f49&amp;ebd321a4-021a-11ea-8ec5-9cdc71af0f49&amp;fd303f6d-d723-4321-8e06-88c4c4d24cc1&amp;2a458e83-036e-4d20-8ce0-5ad9d15c938e&amp;7ae081b3-09dc-4a35-8bc8-aaa4e4fe1a34&amp;ac328b9c-54c7-45a0-8b8a-05e6350b543c&amp;69a9a059-7365-4719-8b32-b31a775f1820&amp;6f7b6f13-6034-46bc-8ab1-965d40d7b719&amp;8f06bc49-c74f-4649-8a6f-a5a04ae94932&amp;969732f7-2741-4e8f-892f-978d152edd70&amp;eaba4e19-8b65-429f-8907-813fa03205f8&amp;cd5cef7d-0ea0-4835-8705-a5bebd9b4da7&amp;c6aa4b00-e442-4e8a-85af-62b62a616c42&amp;b466fa1a-aeed-4078-8578-cb4f4c534736&amp;c1c72b56-b467-42d8-8542-4a978e3931c9&amp;0300e904-1798-446e-84ec-778defa51f13&amp;1b5b83fa-dd92-468e-848d-6dce5178969b&amp;5b9678e4-bc8c-4168-83b7-4ec61e96dd9c&amp;f3610083-03d4-450e-8329-df75edff8684&amp;3a84f4cf-8995-438d-818e-bbf14cc2c6b7&amp;f0272c8b-3448-459f-812d-2fc4ba796a48&amp;23285738-8e44-41a9-bfc8-b13e57561548&amp;1fc7154b-e128-488f-be5c-630468c7909e&amp;3c7813ae-6618-48af-be22-8e241d722dd8</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">23285738-8e44-41a9-bfc8-b13e57561548&amp;1fc7154b-e128-488f-be5c-630468c7909e&amp;3c7813ae-6618-48af-be22-8e241d722dd8&amp;91130a6b-ec96-4055-bda2-a48b4584b1af&amp;7bf85eb7-4178-4ed7-bd7e-acaf3bce1b8a&amp;11a6146f-69e3-4c40-bd15-53438a4cc50e&amp;9d3a196c-2415-4811-bd0b-16dd9f1adb8d&amp;b5d8954b-8f9e-4956-bcac-d5ad8a2eeb03&amp;8bf98369-fc7a-4047-bc7f-d2c2fa67ccaf&amp;2a90a944-0daf-4cea-bc65-e8ecd8f6c122&amp;8d0db2e9-0e0b-4450-bc18-886449c858ce&amp;e10aa437-5cd2-4215-bbe4-6fae62c27319&amp;1e72d2ca-c3ef-4c0a-bbc5-20ff13f5f5ce&amp;033e8845-172f-478a-bb82-0ebda6e5abf8&amp;2b2f5600-f0be-4440-bb26-27c427ba10ed&amp;160d5fb9-90dc-46d5-bb02-02d5e537e5c8&amp;9556542e-d058-4cf6-ba14-497461f424d3&amp;238578a9-3e65-4f60-b776-4bffc5efe432&amp;6e08a753-02b3-4524-b771-bb4464c4a3d3&amp;9667661a-9f38-4d65-b743-fd54e888e436&amp;56fc3542-9ef4-4c19-b5cc-793ec350c257&amp;711ad562-dda2-476c-b4b6-e428c332b6e3&amp;b04295d2-41c7-432a-b33f-ce673384c9e5&amp;d6e3e376-bc51-4758-b2bf-0c33b4e1ff47&amp;17318e8f-1900-40fc-b2a8-32fa9dc8ff72&amp;a15c25f8-c317-4213-b1d7-00b232a5968c&amp;32b7dc69-f529-4f15-b1ae-71db4ea56e1a</param>
 				<param name="product_id_n">0000000000000000003562892483</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Rosse</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">виданмо</param>
@@ -10204,7 +10204,7 @@ Peach — обеспечивает мягкое и очень бережное �
 				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM </param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">391d9228-802a-11e8-b78a-9cdc71af0f48&amp;38ed35a6-802a-11e8-b78a-9cdc71af0f48&amp;097b3188-a655-4725-b61a-ed40a70d2bb3&amp;30b254ee-9d23-44cd-b2ba-9c863c0e0583&amp;880e9048-68b2-4f14-b0a9-57253a0e796c&amp;905b8f0d-a137-45b7-b07e-a8273bd9d4ee&amp;3f71a175-4e7d-403a-af8d-d9fe2a2baddb&amp;34f8eb0d-70a4-47ab-ae97-2666c5b27489&amp;72a6870c-03a2-438b-ad87-c80b66b8d56a&amp;a876f7e0-af52-4c00-acfd-ca4f0f74f3c6&amp;9fda4c68-c90d-438e-ab71-94ecf2d5d20c&amp;e32445e8-2539-4d49-a985-21fdbf25671c&amp;969f7805-f2aa-4cd5-a945-a4f690731bb9&amp;32ba80d3-5962-4d1b-a8f9-12e4324ef8c1&amp;fa5a54e0-cee2-4778-a7e9-f82f7c21dd5a&amp;239832ad-5078-47b8-a7a0-392ba70584bd&amp;5563ee5a-f867-4bb8-a66d-cc8e30b4e85b&amp;bc2ce338-5848-4cdf-a3d1-d1db1a475ef0&amp;b909b4a9-1740-4986-a390-f58792c020ff&amp;7863e92c-2f8a-430b-a370-2a7228e97788&amp;e5bdff01-3500-47b3-a34a-05a6e276cdbf&amp;59684c4b-af18-4b39-a2c2-697a31954775&amp;79b6ad9b-0ed9-4fd9-a25a-7bf558bb990a&amp;34ef82fd-4244-40a2-a1e3-d5cbdec91e7f&amp;fc0b0afc-069f-4b2f-a040-483b8c49091b&amp;f60b94cf-5c3c-4e2c-9fa7-f9e9dbe6cc2e&amp;d13378a4-ee6d-4fc7-9df7-62c0df80ad39</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">97dbdb66-42e6-11e8-e08a-9cdc71af0f48&amp;045c062c-f46b-11e8-ce8b-9cdc71af0f48&amp;5b4b6a98-4874-11e8-ce86-9cdc71af0f48&amp;e674dd03-999f-4b05-bf65-f038e6a9d5d9&amp;634192c2-e7e9-47d0-bc05-182a032ff1ed&amp;097cf0bc-5da8-4013-bbb1-6335eb1fa234&amp;f94a96bc-2322-4bb4-ba8b-0b203dd4a79d&amp;f701cd9c-ecc5-11e8-b982-9cdc71af0f48&amp;f66aebde-ecc5-11e8-b982-9cdc71af0f48&amp;4c6e37c9-d9fd-467c-b935-f7b95a3a95a6&amp;391d9228-802a-11e8-b78a-9cdc71af0f48&amp;38ed35a6-802a-11e8-b78a-9cdc71af0f48&amp;097b3188-a655-4725-b61a-ed40a70d2bb3&amp;30b254ee-9d23-44cd-b2ba-9c863c0e0583&amp;880e9048-68b2-4f14-b0a9-57253a0e796c&amp;905b8f0d-a137-45b7-b07e-a8273bd9d4ee&amp;3f71a175-4e7d-403a-af8d-d9fe2a2baddb&amp;34f8eb0d-70a4-47ab-ae97-2666c5b27489&amp;72a6870c-03a2-438b-ad87-c80b66b8d56a&amp;a876f7e0-af52-4c00-acfd-ca4f0f74f3c6&amp;9fda4c68-c90d-438e-ab71-94ecf2d5d20c&amp;e32445e8-2539-4d49-a985-21fdbf25671c&amp;969f7805-f2aa-4cd5-a945-a4f690731bb9&amp;32ba80d3-5962-4d1b-a8f9-12e4324ef8c1&amp;fa5a54e0-cee2-4778-a7e9-f82f7c21dd5a&amp;239832ad-5078-47b8-a7a0-392ba70584bd&amp;5563ee5a-f867-4bb8-a66d-cc8e30b4e85b</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM ,the saem,the sam,зе саем,зе сам</param>
 				<param name="product_id_n">0000000000000000000218227238</param>
 				<param name="Комплектация">1 шт</param>
@@ -10428,7 +10428,7 @@ Peach — обеспечивает мягкое и очень бережное �
 				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Jigott</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Лосьон/молочко для тела</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">908907d1-5af4-4950-bc4e-8f0ec78c4bff&amp;e926e6dc-76cd-4c7f-bba6-b6acfb66fec5&amp;9212570e-8216-4d08-b985-56cda41ca093&amp;e49b3ded-29e9-4b9f-b3a7-3681c19d6fb2&amp;79752a01-db6a-4d17-b188-7d507dece4fe&amp;0931da41-e8da-4c5c-ad4b-b386c97d095b&amp;4496ba54-abb5-4f59-a8e3-69f51ffac1af&amp;f60c0d63-f812-4b79-a6b0-d30bb27c5bc0&amp;6d784104-8ca9-458f-a43d-aff1cd7b957a&amp;46fa82aa-a529-4ddc-a409-5deb180bb835&amp;7b3388a6-1d52-439d-9fa7-8a8333ea5dc3&amp;c8e1816c-fc2c-4df9-9f11-d5fe67521fcd&amp;7a87f088-b1da-464d-9d09-c7cb605969cb&amp;d0e5f533-6546-4dc9-9838-1bfee0410bdf&amp;03abfac2-3296-4b96-9614-6f165f74a851&amp;79625991-a624-46ad-922b-25aeb515d34e&amp;77aed273-d941-41d6-88be-b5dfafa766ef&amp;581fb39b-1a24-43d5-84f9-6fe6939a4098&amp;1566958f-af06-48dd-80e2-275b8150ffa4</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">908907d1-5af4-4950-bc4e-8f0ec78c4bff&amp;e926e6dc-76cd-4c7f-bba6-b6acfb66fec5&amp;9212570e-8216-4d08-b985-56cda41ca093&amp;e49b3ded-29e9-4b9f-b3a7-3681c19d6fb2&amp;79752a01-db6a-4d17-b188-7d507dece4fe&amp;0931da41-e8da-4c5c-ad4b-b386c97d095b&amp;4496ba54-abb5-4f59-a8e3-69f51ffac1af&amp;f60c0d63-f812-4b79-a6b0-d30bb27c5bc0&amp;6d784104-8ca9-458f-a43d-aff1cd7b957a&amp;46fa82aa-a529-4ddc-a409-5deb180bb835&amp;7b3388a6-1d52-439d-9fa7-8a8333ea5dc3&amp;03abfac2-3296-4b96-9614-6f165f74a851&amp;79625991-a624-46ad-922b-25aeb515d34e&amp;77aed273-d941-41d6-88be-b5dfafa766ef&amp;581fb39b-1a24-43d5-84f9-6fe6939a4098&amp;1566958f-af06-48dd-80e2-275b8150ffa4&amp;c8e1816c-fc2c-4df9-9f11-d5fe67521fcd&amp;7a87f088-b1da-464d-9d09-c7cb605969cb&amp;d0e5f533-6546-4dc9-9838-1bfee0410bdf</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">джигот</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">джиго</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">гигот</param>
@@ -10735,7 +10735,7 @@ Peach — обеспечивает мягкое и очень бережное �
 				<param name="Производитель">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;19b09d33-ed8f-443e-a6cd-449faa6c85c4&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;eede25fa-9326-4cbc-a304-a2eca30f0941&amp;cf2ee81f-1a66-4104-a1f1-eb28bd58c2a6&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;65428067-8e5f-4fe8-999d-d38856596757&amp;2d30a221-3216-4642-983b-8463ae7c5732&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;0eed48ef-e6f7-4d70-9723-c848e19c9ca2&amp;5ed9868b-42db-43aa-95fe-7c4bdc411f64&amp;ae85a40f-acd8-460c-95b5-262d85708965&amp;547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;3e813706-6e90-44c7-92c5-bb6966c28b21&amp;d4e710a1-7de2-4107-920f-95a08ec8563e&amp;ce5c5d1e-0cc0-40c5-9162-ff89dbaee511</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand ,cow brand ,CowBrand ,ков бренд ,Ков бренд,ковбренд,боунсиа</param>
 				<param name="product_id_n">0000000000000000000000006098</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ковбренд</param>
@@ -10820,7 +10820,7 @@ SOSU – новое слово в косметологии, разработан
 				<param name="Производитель">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Sosu</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Скрабы/пилинги для тела</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">2f68d3cc-78a0-11e9-e989-9cdc71af0f48&amp;f3854e4c-af3c-4dfa-bf89-f6e0d560de5c&amp;c4302f4b-8f45-424f-b3fc-ae9948eed017&amp;87c94bbc-962b-48a0-afbc-728993fe1c6c&amp;a9a0dcde-a792-41d7-a8be-c8061e5f0908&amp;6ee7279d-bad9-4d70-a30f-47288e82e52c&amp;e9300dba-24ad-46e3-9fa4-d1782b5f7a23&amp;3dbd78c5-5b1f-4241-9a2b-2c307c49ce21&amp;33b7542c-1a96-4856-9569-d7e65b853a2e&amp;5a3857ee-4ac7-4091-9112-e97db91bc74e&amp;22f6fb5b-f640-11e9-8ec4-9cdc71af0f49&amp;ad342b30-bcb6-4187-8e10-c72004e35160&amp;0a81fff7-6d48-49ed-8168-69cccea9c19e&amp;ba647bdd-ce77-4170-801f-c4467ed19874&amp;4a2886d2-5ac1-11e9-179b-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">0a81fff7-6d48-49ed-8168-69cccea9c19e&amp;ba647bdd-ce77-4170-801f-c4467ed19874&amp;4a2886d2-5ac1-11e9-179b-9cdc71af0f48&amp;2f68d3cc-78a0-11e9-e989-9cdc71af0f48&amp;f3854e4c-af3c-4dfa-bf89-f6e0d560de5c&amp;c4302f4b-8f45-424f-b3fc-ae9948eed017&amp;87c94bbc-962b-48a0-afbc-728993fe1c6c&amp;a9a0dcde-a792-41d7-a8be-c8061e5f0908&amp;6ee7279d-bad9-4d70-a30f-47288e82e52c&amp;e9300dba-24ad-46e3-9fa4-d1782b5f7a23&amp;3dbd78c5-5b1f-4241-9a2b-2c307c49ce21&amp;33b7542c-1a96-4856-9569-d7e65b853a2e&amp;5a3857ee-4ac7-4091-9112-e97db91bc74e&amp;22f6fb5b-f640-11e9-8ec4-9cdc71af0f49&amp;ad342b30-bcb6-4187-8e10-c72004e35160</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">сосу,педикюр,носочки ,SOSU,sosu,Sosu</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Sosu</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">SOSU</param>
@@ -11712,7 +11712,7 @@ SOSU – новое слово в косметологии, разработан
 				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kerasys</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;19b09d33-ed8f-443e-a6cd-449faa6c85c4&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;eede25fa-9326-4cbc-a304-a2eca30f0941&amp;cf2ee81f-1a66-4104-a1f1-eb28bd58c2a6&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;65428067-8e5f-4fe8-999d-d38856596757&amp;2d30a221-3216-4642-983b-8463ae7c5732</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">kerasys,керасис,Kerasys,керасус</param>
 				<param name="product_id_n">0000000000000000000044042980</param>
 				<param name="Комплектация">1 шт</param>
@@ -12422,7 +12422,7 @@ SOSU – новое слово в косметологии, разработан
 				<param name="Производитель">КОРЕЯ, РЕСПУБЛИКА</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">PIGEON</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">56dbeda4-893b-4e5e-bd76-4cdc125c34fa&amp;a05a0fad-503c-493b-bcf3-4a90856e233c&amp;c5edda5a-76f4-4236-bc92-c883a9ade845&amp;54b6d852-a133-4c06-ba21-b678f826c60b&amp;774b6d1b-a0e5-419a-b8d4-69682204afd4&amp;df83243a-d69d-4789-b7d8-763c8cd9927a&amp;96cf2989-285a-451e-b7d2-b19b2bff3d7e&amp;6649f4fe-d201-4d4b-b50d-e1d75c2891c6&amp;58463fd4-3090-49bb-b4d3-9368473a8aec&amp;76683c7a-ca84-48a6-b010-64cc02dbb285&amp;1114013b-8ae9-405a-aaac-a351414fcf23&amp;9d741529-3f51-4fe1-a991-177ca56ce516&amp;f196ea22-bd01-4b95-a7f1-92af1266585c&amp;91a1c2b2-d708-40be-a70c-3ed6db89d491&amp;3b48fce0-0008-47a2-a6b4-d156f0431ead&amp;339a06b4-2d1f-4f19-a5ba-1b1c9fc527cc&amp;64768cbd-e817-46c0-a54b-a75a00447823&amp;24598b9d-9ca5-464e-a527-13a3d1d951a7&amp;4f6a5d96-8756-4e60-a414-8c90eb83e564&amp;5bd92223-0e48-4d04-a39c-7c534b3a1470&amp;3166b6c9-124b-4448-a38f-e3b13c686cf8&amp;93110fa6-2946-4ae6-a2d0-f3df074f9ad6&amp;3abf7e53-f6e9-457c-a2c9-00867c23b2d0&amp;5e323fd1-198f-468f-a110-9fda18bf1042&amp;e0d20aa2-1e55-499a-9edf-685542e9ef1b&amp;d74c4c68-6403-4faf-9dc7-73426a411112&amp;0b14991a-2ca7-4bc5-9ca8-2657091e5ce7</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">56dbeda4-893b-4e5e-bd76-4cdc125c34fa&amp;a05a0fad-503c-493b-bcf3-4a90856e233c&amp;c5edda5a-76f4-4236-bc92-c883a9ade845&amp;54b6d852-a133-4c06-ba21-b678f826c60b&amp;774b6d1b-a0e5-419a-b8d4-69682204afd4&amp;df83243a-d69d-4789-b7d8-763c8cd9927a&amp;96cf2989-285a-451e-b7d2-b19b2bff3d7e&amp;6649f4fe-d201-4d4b-b50d-e1d75c2891c6&amp;58463fd4-3090-49bb-b4d3-9368473a8aec&amp;3e4ceea0-f014-4c62-b4ae-09cf67de3a42&amp;164b8822-2a63-47bf-b49d-e6165a039bae&amp;f209a924-61a7-40a3-b238-af4617797ff7&amp;ae8ccfc1-e5dc-4456-b080-6a86c1be7e76&amp;76683c7a-ca84-48a6-b010-64cc02dbb285&amp;1114013b-8ae9-405a-aaac-a351414fcf23&amp;9d741529-3f51-4fe1-a991-177ca56ce516&amp;f196ea22-bd01-4b95-a7f1-92af1266585c&amp;91a1c2b2-d708-40be-a70c-3ed6db89d491&amp;3b48fce0-0008-47a2-a6b4-d156f0431ead&amp;339a06b4-2d1f-4f19-a5ba-1b1c9fc527cc&amp;64768cbd-e817-46c0-a54b-a75a00447823&amp;24598b9d-9ca5-464e-a527-13a3d1d951a7&amp;4f6a5d96-8756-4e60-a414-8c90eb83e564&amp;5bd92223-0e48-4d04-a39c-7c534b3a1470&amp;3166b6c9-124b-4448-a38f-e3b13c686cf8&amp;93110fa6-2946-4ae6-a2d0-f3df074f9ad6&amp;3abf7e53-f6e9-457c-a2c9-00867c23b2d0</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">пиджеон</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Пиджеон</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">pigeon</param>
@@ -13163,7 +13163,7 @@ SOSU – новое слово в косметологии, разработан
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Защита</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">e9cb2860-6e6a-45ad-b4ef-630c8c2d50fd&amp;bcccce2d-9c44-4d62-b2de-5e949bce4763&amp;617c6cb8-d569-4d2e-a37f-0b6da642182d&amp;4e676b72-2d6d-4bac-9ec5-7483127e7b9c&amp;16f29ff2-22b2-4fce-981b-c4cedc429a2d&amp;3a6cdcae-8513-11e0-94df-0015e9411353&amp;3a5a316d-4b00-11e0-94bb-0015e9411353&amp;535284ae-33ac-4517-9030-cff97b20d62f&amp;b7f8f4a2-dc19-11e8-8c8d-9cdc71af0f48&amp;246746ca-46ec-11e8-7f94-9cdc71af0f48&amp;245bbfee-46ec-11e8-7f94-9cdc71af0f48&amp;496ee727-369b-11e9-1995-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">bcccce2d-9c44-4d62-b2de-5e949bce4763&amp;617c6cb8-d569-4d2e-a37f-0b6da642182d&amp;4e676b72-2d6d-4bac-9ec5-7483127e7b9c&amp;16f29ff2-22b2-4fce-981b-c4cedc429a2d&amp;3a6cdcae-8513-11e0-94df-0015e9411353&amp;3a5a316d-4b00-11e0-94bb-0015e9411353&amp;535284ae-33ac-4517-9030-cff97b20d62f&amp;b7f8f4a2-dc19-11e8-8c8d-9cdc71af0f48&amp;246746ca-46ec-11e8-7f94-9cdc71af0f48&amp;245bbfee-46ec-11e8-7f94-9cdc71af0f48&amp;496ee727-369b-11e9-1995-9cdc71af0f48&amp;e9cb2860-6e6a-45ad-b4ef-630c8c2d50fd</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">argan</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Welcos</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">welcos</param>
@@ -13760,7 +13760,7 @@ Purified water, glycerin, butylene glycol, caprylic/capric triglyceride,
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Руки</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4d68502e-77eb-11e9-e989-9cdc71af0f48&amp;97dbdb66-42e6-11e8-e08a-9cdc71af0f48&amp;f94a96bc-2322-4bb4-ba8b-0b203dd4a79d&amp;4c6e37c9-d9fd-467c-b935-f7b95a3a95a6&amp;391d9228-802a-11e8-b78a-9cdc71af0f48&amp;38ed35a6-802a-11e8-b78a-9cdc71af0f48&amp;30b254ee-9d23-44cd-b2ba-9c863c0e0583&amp;880e9048-68b2-4f14-b0a9-57253a0e796c&amp;905b8f0d-a137-45b7-b07e-a8273bd9d4ee&amp;3f71a175-4e7d-403a-af8d-d9fe2a2baddb&amp;34f8eb0d-70a4-47ab-ae97-2666c5b27489&amp;a876f7e0-af52-4c00-acfd-ca4f0f74f3c6&amp;9fda4c68-c90d-438e-ab71-94ecf2d5d20c&amp;e32445e8-2539-4d49-a985-21fdbf25671c&amp;32ba80d3-5962-4d1b-a8f9-12e4324ef8c1&amp;5563ee5a-f867-4bb8-a66d-cc8e30b4e85b&amp;bc2ce338-5848-4cdf-a3d1-d1db1a475ef0&amp;7863e92c-2f8a-430b-a370-2a7228e97788&amp;59684c4b-af18-4b39-a2c2-697a31954775&amp;79b6ad9b-0ed9-4fd9-a25a-7bf558bb990a&amp;fc0b0afc-069f-4b2f-a040-483b8c49091b&amp;8c6bf672-2508-4528-9b1f-12bcde4c7d50&amp;5f797792-ef83-401b-9a62-1457639f6014&amp;a6f16728-3fb1-4914-9900-56e65d534832&amp;c9c2e52a-161f-45c4-947a-e6de3ede234b&amp;9303c590-1308-42a7-9312-6e58f9f8dce6&amp;a22c5c98-f859-11e8-928b-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">79b6ad9b-0ed9-4fd9-a25a-7bf558bb990a&amp;fc0b0afc-069f-4b2f-a040-483b8c49091b&amp;8c6bf672-2508-4528-9b1f-12bcde4c7d50&amp;5f797792-ef83-401b-9a62-1457639f6014&amp;a6f16728-3fb1-4914-9900-56e65d534832&amp;c9c2e52a-161f-45c4-947a-e6de3ede234b&amp;9303c590-1308-42a7-9312-6e58f9f8dce6&amp;a22c5c98-f859-11e8-928b-9cdc71af0f48&amp;3ca6ef36-8f7e-49cc-90ca-a5c7174bd116&amp;ab70917c-11d6-11ea-8ec6-9cdc71af0f49&amp;2e69e751-e127-11e9-8ec3-9cdc71af0f49&amp;925f4e62-a756-48ed-88dc-b43256f78a15&amp;ff59a513-6b58-4972-86b9-d8b51e3cf4af&amp;7dc12f24-6a45-11e9-5d88-9cdc71af0f48&amp;59311aca-6a45-11e9-5d88-9cdc71af0f48&amp;57dca702-6a45-11e9-5d88-9cdc71af0f48&amp;d5127bea-2867-11e9-1e87-9cdc71af0f48&amp;55e70c76-3697-11e9-1995-9cdc71af0f48&amp;4d68502e-77eb-11e9-e989-9cdc71af0f48&amp;97dbdb66-42e6-11e8-e08a-9cdc71af0f48&amp;f94a96bc-2322-4bb4-ba8b-0b203dd4a79d&amp;4c6e37c9-d9fd-467c-b935-f7b95a3a95a6&amp;391d9228-802a-11e8-b78a-9cdc71af0f48&amp;38ed35a6-802a-11e8-b78a-9cdc71af0f48&amp;30b254ee-9d23-44cd-b2ba-9c863c0e0583&amp;880e9048-68b2-4f14-b0a9-57253a0e796c&amp;905b8f0d-a137-45b7-b07e-a8273bd9d4ee</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Himawari </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Ichikami</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ichikami</param>
@@ -14025,7 +14025,7 @@ Purified water, glycerin, butylene glycol, caprylic/capric triglyceride,
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))"/>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Защита</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Organia</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">organia</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">органиа</param>
@@ -15485,7 +15485,7 @@ Baby Foot Easy Pack также способствуют деликатному �
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;19b09d33-ed8f-443e-a6cd-449faa6c85c4&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;eede25fa-9326-4cbc-a304-a2eca30f0941&amp;cf2ee81f-1a66-4104-a1f1-eb28bd58c2a6&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;65428067-8e5f-4fe8-999d-d38856596757&amp;2d30a221-3216-4642-983b-8463ae7c5732&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;0eed48ef-e6f7-4d70-9723-c848e19c9ca2&amp;5ed9868b-42db-43aa-95fe-7c4bdc411f64&amp;ae85a40f-acd8-460c-95b5-262d85708965&amp;547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;3e813706-6e90-44c7-92c5-bb6966c28b21&amp;d4e710a1-7de2-4107-920f-95a08ec8563e</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;19b09d33-ed8f-443e-a6cd-449faa6c85c4&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;eede25fa-9326-4cbc-a304-a2eca30f0941&amp;cf2ee81f-1a66-4104-a1f1-eb28bd58c2a6&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;65428067-8e5f-4fe8-999d-d38856596757&amp;2d30a221-3216-4642-983b-8463ae7c5732&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;0eed48ef-e6f7-4d70-9723-c848e19c9ca2&amp;5ed9868b-42db-43aa-95fe-7c4bdc411f64&amp;ae85a40f-acd8-460c-95b5-262d85708965&amp;547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;3e813706-6e90-44c7-92c5-bb6966c28b21&amp;d4e710a1-7de2-4107-920f-95a08ec8563e&amp;ce5c5d1e-0cc0-40c5-9162-ff89dbaee511&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;08a1aa01-4bd8-11ea-8ec9-9cdc71af0f49</param>
 				<param name="product_id_n">0000000000000000000679210820</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ковбренд</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">боунсиа</param>
@@ -16025,77 +16025,6 @@ SOSU – новое слово в косметологии, разработан
 				<height>1</height>
 				<quantity>0</quantity>
 			</offer>
-			<offer id="0000000000000003751849742001" group_id="0000000000000003751849742001">
-				<name>542656 "YOKOZUNA"  Flower Ball Мочалка для тела в форме шара, зеленая</name>
-				<description>Мочалка в форме шара. Образует обильную пену, очень приятна для тела.</description>
-				<vendor>YOKOZUNA</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">542656</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">22887</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для тела</param>
-				<param name="ЦеноваяГруппа">Для тела</param>
-				<price>553</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ-00003630</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">YOKOZUNA</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мочалки</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">31550588-4dfa-11e8-ce9b-9cdc71af0f48&amp;2368074c-f46a-11e8-ce8b-9cdc71af0f48&amp;22bfb592-f46a-11e8-ce8b-9cdc71af0f48&amp;bbac444c-6369-4edd-bd6f-ddc752e86ded&amp;94ece83f-188c-4753-b4f8-6a214ebb959c&amp;d095b906-051d-4da5-a693-603a17e05b9a&amp;f1011c9e-6698-404d-a212-077c8f6f095f&amp;fab5123e-599d-40a8-9d53-e8e564d6660e&amp;9b36c2b9-40a7-477a-9066-0ceaff3a7629&amp;b4076b2f-1dab-11ea-8ec6-9cdc71af0f49&amp;09958f95-b1cc-11e9-8ebc-9cdc71af0f49&amp;fbad75d2-feb8-4216-8c64-fc44f3013c3c&amp;1ad9d250-e807-11e8-5a94-9cdc71af0f48&amp;693fb6d0-9c7b-11e8-389a-9cdc71af0f48&amp;68cb6e9c-9c7b-11e8-389a-9cdc71af0f48&amp;684690e6-9c7b-11e8-389a-9cdc71af0f48&amp;dd32eefc-5c35-11e9-2e9c-9cdc71af0f48&amp;dbd7d5f4-5c35-11e9-2e9c-9cdc71af0f48&amp;dac09552-5c35-11e9-2e9c-9cdc71af0f48&amp;d9ab5030-5c35-11e9-2e9c-9cdc71af0f48&amp;4a9788d4-30e2-11e8-1d97-9cdc71af0f48</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">йо ко зуна</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">йокозуна</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">YOKOZUNA</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Yokozuna</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">йоко зуна</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">YOKO ZUNA</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">yokozuna</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
-				<param name="product_id_n">0000000000000003751849742001</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>0</quantity>
-			</offer>
 			<offer id="0000000000000000005350278338" group_id="0000000000000000005350278338">
 				<name>146101 Крем для тела с экстрактом авокадо СМ CARE PLUS Care Plus Avocado Body Cream 300мл</name>
 				<description>Сливочная текстура крема дарит коже тела роскошный уход, а также окутывает легким фруктовым ароматом.
@@ -16164,6 +16093,77 @@ SOSU – новое слово в косметологии, разработан
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">зе сам</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM ,the saem,the sam,зе саем,зе сам</param>
 				<param name="product_id_n">0000000000000000005350278338</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000003751849742001" group_id="0000000000000003751849742001">
+				<name>542656 "YOKOZUNA"  Flower Ball Мочалка для тела в форме шара, зеленая</name>
+				<description>Мочалка в форме шара. Образует обильную пену, очень приятна для тела.</description>
+				<vendor>YOKOZUNA</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">542656</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">22887</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для тела</param>
+				<param name="ЦеноваяГруппа">Для тела</param>
+				<price>553</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00003630</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">YOKOZUNA</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мочалки</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">31550588-4dfa-11e8-ce9b-9cdc71af0f48&amp;2368074c-f46a-11e8-ce8b-9cdc71af0f48&amp;22bfb592-f46a-11e8-ce8b-9cdc71af0f48&amp;bbac444c-6369-4edd-bd6f-ddc752e86ded&amp;94ece83f-188c-4753-b4f8-6a214ebb959c&amp;d095b906-051d-4da5-a693-603a17e05b9a&amp;f1011c9e-6698-404d-a212-077c8f6f095f&amp;fab5123e-599d-40a8-9d53-e8e564d6660e&amp;9b36c2b9-40a7-477a-9066-0ceaff3a7629&amp;b4076b2f-1dab-11ea-8ec6-9cdc71af0f49&amp;09958f95-b1cc-11e9-8ebc-9cdc71af0f49&amp;fbad75d2-feb8-4216-8c64-fc44f3013c3c&amp;1ad9d250-e807-11e8-5a94-9cdc71af0f48&amp;693fb6d0-9c7b-11e8-389a-9cdc71af0f48&amp;68cb6e9c-9c7b-11e8-389a-9cdc71af0f48&amp;684690e6-9c7b-11e8-389a-9cdc71af0f48&amp;dd32eefc-5c35-11e9-2e9c-9cdc71af0f48&amp;dbd7d5f4-5c35-11e9-2e9c-9cdc71af0f48&amp;dac09552-5c35-11e9-2e9c-9cdc71af0f48&amp;d9ab5030-5c35-11e9-2e9c-9cdc71af0f48&amp;4a9788d4-30e2-11e8-1d97-9cdc71af0f48</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">йо ко зуна</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">йокозуна</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">YOKOZUNA</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Yokozuna</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">йоко зуна</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">YOKO ZUNA</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">yokozuna</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))"/>
+				<param name="product_id_n">0000000000000003751849742001</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -16383,7 +16383,7 @@ SOSU – новое слово в косметологии, разработан
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Мочалки</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Очищение</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">31550588-4dfa-11e8-ce9b-9cdc71af0f48&amp;2368074c-f46a-11e8-ce8b-9cdc71af0f48&amp;22bfb592-f46a-11e8-ce8b-9cdc71af0f48&amp;bbac444c-6369-4edd-bd6f-ddc752e86ded&amp;d095b906-051d-4da5-a693-603a17e05b9a&amp;f1011c9e-6698-404d-a212-077c8f6f095f&amp;fab5123e-599d-40a8-9d53-e8e564d6660e&amp;7b395e15-526f-413c-9392-585505200039&amp;b4076b2f-1dab-11ea-8ec6-9cdc71af0f49&amp;09958f95-b1cc-11e9-8ebc-9cdc71af0f49&amp;fbad75d2-feb8-4216-8c64-fc44f3013c3c&amp;1ad9d250-e807-11e8-5a94-9cdc71af0f48&amp;693fb6d0-9c7b-11e8-389a-9cdc71af0f48&amp;68cb6e9c-9c7b-11e8-389a-9cdc71af0f48&amp;dac09552-5c35-11e9-2e9c-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">f1011c9e-6698-404d-a212-077c8f6f095f&amp;fab5123e-599d-40a8-9d53-e8e564d6660e&amp;7b395e15-526f-413c-9392-585505200039&amp;b4076b2f-1dab-11ea-8ec6-9cdc71af0f49&amp;09958f95-b1cc-11e9-8ebc-9cdc71af0f49&amp;fbad75d2-feb8-4216-8c64-fc44f3013c3c&amp;1ad9d250-e807-11e8-5a94-9cdc71af0f48&amp;693fb6d0-9c7b-11e8-389a-9cdc71af0f48&amp;68cb6e9c-9c7b-11e8-389a-9cdc71af0f48&amp;dac09552-5c35-11e9-2e9c-9cdc71af0f48&amp;31550588-4dfa-11e8-ce9b-9cdc71af0f48&amp;2368074c-f46a-11e8-ce8b-9cdc71af0f48&amp;22bfb592-f46a-11e8-ce8b-9cdc71af0f48&amp;bbac444c-6369-4edd-bd6f-ddc752e86ded&amp;d095b906-051d-4da5-a693-603a17e05b9a</param>
 				<param name="product_id_n">0000000000000000388873273638</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
@@ -16681,7 +16681,7 @@ SOSU – новое слово в косметологии, разработан
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Защита</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48&amp;5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Roal Skin</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Royal Skin</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">royal skin</param>
@@ -16772,82 +16772,6 @@ SOSU – новое слово в косметологии, разработан
 				<height>1</height>
 				<quantity>0</quantity>
 			</offer>
-			<offer id="0000000000000000005659490261" group_id="0000000000000000005659490261">
-				<name>104130 "Loshi" Смягчающий крем для ухода за сухой кожей пяток Care Cream K 180 г </name>
-				<description>Крем-бальзам с легким охлаждающим эффектом и расслабляющим ароматом тропических фруктов предназначен для смягчения и массажа сухой и огрубевшей кожи ног.
-Активные компоненты в составе крема смягчают и питают кожу ног, обеспечивая расслабляющий массажный эффект:
-- Мочевина глубоко увлажняет и смягчает огрубевшую кожу, способствует сохранению влаги в клетках кожи.
-- Экстракт зеленого чая тонизирует кожу, обладает антисептическим эффектом, способствует заживлению микротрещин.
-- Экстракт имбиря тонизирует и освежает кожу, снимает отечность.
-- Экстракт граната содержит фруктовые кислоты, оказывает легкое охлаждающее и противовоспалительное действие.
-- Сок алоэ вера увлажняет и смягчает кожу, способствует заживлению мелких царапин.</description>
-				<vendor>Roland</vendor>
-				<country_of_origin>Япония</country_of_origin>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="Артикул">104130(101276)</param>
-				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
-				<param name="ВесЕдиницаИзмерения"/>
-				<param name="ВесЗнаменатель">0</param>
-				<param name="ВесИспользовать">Нет</param>
-				<param name="ВесМожноУказыватьВДокументах">Нет</param>
-				<param name="ВесЧислитель">0</param>
-				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
-				<param name="ДлинаЕдиницаИзмерения"/>
-				<param name="ДлинаЗнаменатель">0</param>
-				<param name="ДлинаИспользовать">Нет</param>
-				<param name="ДлинаЧислитель">0</param>
-				<param name="ЕдиницаИзмерения">шт</param>
-				<param name="ИспользованиеХарактеристик">Не используются</param>
-				<param name="Качество">Новый</param>
-				<param name="КиЗГИСМ">Нет</param>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="КиЗГИСМВид"/>
-				<param name="КиЗГИСМРазмер"/>
-				<param name="КиЗГИСМСпособВыпускаВОборот"/>
-				<param name="КодДляПоиска">11122709</param>
-				<param name="КодОКВЭД"/>
-				<param name="КодОКВЭД2"/>
-				<param name="КодОКП"/>
-				<param name="КодОКПД2"/>
-				<param name="КодТНВЭД"/>
-				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
-				<param name="ОбъемЕдиницаИзмерения"/>
-				<param name="ОбъемЗнаменатель">0</param>
-				<param name="ОбъемЧислитель">0</param>
-				<param name="ПодакцизныйТовар">Нет</param>
-				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
-				<param name="СкладскаяГруппа"/>
-				<param name="СрокГодности">0</param>
-				<param name="СтавкаНДС">Без НДС</param>
-				<param name="ТипНоменклатуры">Товар</param>
-				<param name="ТоварнаяКатегория">Косметика для ног</param>
-				<param name="ЦеноваяГруппа">Для ног</param>
-				<price>1365</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>УТ000012537</categoryId>
-				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
-				<param name="Производитель">ЯПОНИЯ</param>
-				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Roland</param>
-				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4d68502e-77eb-11e9-e989-9cdc71af0f48&amp;97dbdb66-42e6-11e8-e08a-9cdc71af0f48&amp;045c062c-f46b-11e8-ce8b-9cdc71af0f48&amp;5b4b6a98-4874-11e8-ce86-9cdc71af0f48&amp;e674dd03-999f-4b05-bf65-f038e6a9d5d9&amp;634192c2-e7e9-47d0-bc05-182a032ff1ed&amp;097cf0bc-5da8-4013-bbb1-6335eb1fa234&amp;f94a96bc-2322-4bb4-ba8b-0b203dd4a79d&amp;f701cd9c-ecc5-11e8-b982-9cdc71af0f48&amp;f66aebde-ecc5-11e8-b982-9cdc71af0f48&amp;4c6e37c9-d9fd-467c-b935-f7b95a3a95a6&amp;391d9228-802a-11e8-b78a-9cdc71af0f48&amp;38ed35a6-802a-11e8-b78a-9cdc71af0f48&amp;097b3188-a655-4725-b61a-ed40a70d2bb3&amp;30b254ee-9d23-44cd-b2ba-9c863c0e0583&amp;880e9048-68b2-4f14-b0a9-57253a0e796c&amp;905b8f0d-a137-45b7-b07e-a8273bd9d4ee&amp;3f71a175-4e7d-403a-af8d-d9fe2a2baddb&amp;34f8eb0d-70a4-47ab-ae97-2666c5b27489&amp;72a6870c-03a2-438b-ad87-c80b66b8d56a&amp;a876f7e0-af52-4c00-acfd-ca4f0f74f3c6&amp;9fda4c68-c90d-438e-ab71-94ecf2d5d20c&amp;e32445e8-2539-4d49-a985-21fdbf25671c&amp;969f7805-f2aa-4cd5-a945-a4f690731bb9&amp;32ba80d3-5962-4d1b-a8f9-12e4324ef8c1&amp;fa5a54e0-cee2-4778-a7e9-f82f7c21dd5a&amp;239832ad-5078-47b8-a7a0-392ba70584bd</param>
-				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Roland,roland,Rolond,раланд,роланд,ролонд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">роланд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">roland</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ролонд</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Rolond</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Roland</param>
-				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">раланд</param>
-				<param name="product_id_n">0000000000000000005659490261</param>
-				<param name="Принципал"/>
-				<param name="Контрагент"/>
-				<param name="КиЗГИСМGTIN"/>
-				<param name="ВидНоменклатуры"/>
-				<weight>1</weight>
-				<length>1</length>
-				<width>1</width>
-				<height>1</height>
-				<quantity>0</quantity>
-			</offer>
 			<offer id="0000000000000000007469615221" group_id="0000000000000000007469615221">
 				<name>149461 СМ TOUCH ON BODY Гель для душа грейпфрутовый TOCH ON BODY Grapefruit Body Wash 300мл</name>
 				<description>Деликатное очищение кожи от ежедневных загрязнений, придание ей гладкости и шелковистости, мягкое отшелушивание ороговевших клеток, поддержание оптимального рН баланса эпидермиса, его питание и увлажнение – все это становится возможным с гелем для душа от южнокорейского производителя The Saem.
@@ -16918,6 +16842,82 @@ SOSU – новое слово в косметологии, разработан
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">THE SAEM </param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">the sam,зе сам,the saem,зе саем,THE SAEM </param>
 				<param name="product_id_n">0000000000000000007469615221</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>0</quantity>
+			</offer>
+			<offer id="0000000000000000005659490261" group_id="0000000000000000005659490261">
+				<name>104130 "Loshi" Смягчающий крем для ухода за сухой кожей пяток Care Cream K 180 г </name>
+				<description>Крем-бальзам с легким охлаждающим эффектом и расслабляющим ароматом тропических фруктов предназначен для смягчения и массажа сухой и огрубевшей кожи ног.
+Активные компоненты в составе крема смягчают и питают кожу ног, обеспечивая расслабляющий массажный эффект:
+- Мочевина глубоко увлажняет и смягчает огрубевшую кожу, способствует сохранению влаги в клетках кожи.
+- Экстракт зеленого чая тонизирует кожу, обладает антисептическим эффектом, способствует заживлению микротрещин.
+- Экстракт имбиря тонизирует и освежает кожу, снимает отечность.
+- Экстракт граната содержит фруктовые кислоты, оказывает легкое охлаждающее и противовоспалительное действие.
+- Сок алоэ вера увлажняет и смягчает кожу, способствует заживлению мелких царапин.</description>
+				<vendor>Roland</vendor>
+				<country_of_origin>Япония</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">104130(101276)</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для тела"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество">Новый</param>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">11122709</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория">Косметика для ног</param>
+				<param name="ЦеноваяГруппа">Для ног</param>
+				<price>1365</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ000012537</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель">ЯПОНИЯ</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Roland</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4d68502e-77eb-11e9-e989-9cdc71af0f48&amp;97dbdb66-42e6-11e8-e08a-9cdc71af0f48&amp;045c062c-f46b-11e8-ce8b-9cdc71af0f48&amp;5b4b6a98-4874-11e8-ce86-9cdc71af0f48&amp;e674dd03-999f-4b05-bf65-f038e6a9d5d9&amp;634192c2-e7e9-47d0-bc05-182a032ff1ed&amp;097cf0bc-5da8-4013-bbb1-6335eb1fa234&amp;f94a96bc-2322-4bb4-ba8b-0b203dd4a79d&amp;f701cd9c-ecc5-11e8-b982-9cdc71af0f48&amp;f66aebde-ecc5-11e8-b982-9cdc71af0f48&amp;4c6e37c9-d9fd-467c-b935-f7b95a3a95a6&amp;391d9228-802a-11e8-b78a-9cdc71af0f48&amp;38ed35a6-802a-11e8-b78a-9cdc71af0f48&amp;097b3188-a655-4725-b61a-ed40a70d2bb3&amp;30b254ee-9d23-44cd-b2ba-9c863c0e0583&amp;880e9048-68b2-4f14-b0a9-57253a0e796c&amp;905b8f0d-a137-45b7-b07e-a8273bd9d4ee&amp;3f71a175-4e7d-403a-af8d-d9fe2a2baddb&amp;34f8eb0d-70a4-47ab-ae97-2666c5b27489&amp;72a6870c-03a2-438b-ad87-c80b66b8d56a&amp;a876f7e0-af52-4c00-acfd-ca4f0f74f3c6&amp;9fda4c68-c90d-438e-ab71-94ecf2d5d20c&amp;e32445e8-2539-4d49-a985-21fdbf25671c&amp;969f7805-f2aa-4cd5-a945-a4f690731bb9&amp;32ba80d3-5962-4d1b-a8f9-12e4324ef8c1&amp;fa5a54e0-cee2-4778-a7e9-f82f7c21dd5a&amp;239832ad-5078-47b8-a7a0-392ba70584bd</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Roland,roland,Rolond,раланд,роланд,ролонд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">роланд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">roland</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ролонд</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Rolond</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Roland</param>
+				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">раланд</param>
+				<param name="product_id_n">0000000000000000005659490261</param>
 				<param name="Принципал"/>
 				<param name="Контрагент"/>
 				<param name="КиЗГИСМGTIN"/>
@@ -17147,7 +17147,7 @@ SOSU – новое слово в косметологии, разработан
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))"/>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">27470278-38b2-48f1-8024-b67f2a0b642d&amp;2444b880-46ec-11e8-7f94-9cdc71af0f48&amp;33633116-6a45-11e9-5d88-9cdc71af0f48&amp;98889536-42e6-11e8-e08a-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;7369520f-d803-11df-a86d-00241d24624d&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;19b09d33-ed8f-443e-a6cd-449faa6c85c4&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;7369520f-d803-11df-a86d-00241d24624d&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;19b09d33-ed8f-443e-a6cd-449faa6c85c4&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;09caf4c5-cd99-43c0-9c35-81e5b7a77a4f&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;547af987-62ca-4e65-94a4-44ae00d077ce&amp;dec7a7e6-16e6-4aa0-94a0-2f27b2cc21b4&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Frudia </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">frudia </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фрудиа</param>
@@ -17685,7 +17685,7 @@ SOSU – новое слово в косметологии, разработан
 				<param name="Производитель">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Kose Cosmeport</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">34f8eb0d-70a4-47ab-ae97-2666c5b27489&amp;72a6870c-03a2-438b-ad87-c80b66b8d56a&amp;a876f7e0-af52-4c00-acfd-ca4f0f74f3c6&amp;9fda4c68-c90d-438e-ab71-94ecf2d5d20c&amp;e32445e8-2539-4d49-a985-21fdbf25671c&amp;969f7805-f2aa-4cd5-a945-a4f690731bb9&amp;32ba80d3-5962-4d1b-a8f9-12e4324ef8c1&amp;fa5a54e0-cee2-4778-a7e9-f82f7c21dd5a&amp;239832ad-5078-47b8-a7a0-392ba70584bd&amp;5563ee5a-f867-4bb8-a66d-cc8e30b4e85b&amp;bc2ce338-5848-4cdf-a3d1-d1db1a475ef0&amp;b909b4a9-1740-4986-a390-f58792c020ff&amp;7863e92c-2f8a-430b-a370-2a7228e97788&amp;e5bdff01-3500-47b3-a34a-05a6e276cdbf&amp;59684c4b-af18-4b39-a2c2-697a31954775&amp;79b6ad9b-0ed9-4fd9-a25a-7bf558bb990a&amp;34ef82fd-4244-40a2-a1e3-d5cbdec91e7f&amp;fc0b0afc-069f-4b2f-a040-483b8c49091b&amp;f60b94cf-5c3c-4e2c-9fa7-f9e9dbe6cc2e&amp;d13378a4-ee6d-4fc7-9df7-62c0df80ad39&amp;e6ff2d72-ef03-419b-9d07-29fd9ca64602&amp;cd2cc2cf-dfce-45df-9cd5-373cd1081c3a&amp;7741bcdf-fb2f-4aec-9b6e-e8d1de07aa23&amp;8c6bf672-2508-4528-9b1f-12bcde4c7d50&amp;5f797792-ef83-401b-9a62-1457639f6014&amp;766cece5-8cfc-4c98-9993-413e334cc6c9&amp;a6f16728-3fb1-4914-9900-56e65d534832</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4d68502e-77eb-11e9-e989-9cdc71af0f48&amp;045c062c-f46b-11e8-ce8b-9cdc71af0f48&amp;5b4b6a98-4874-11e8-ce86-9cdc71af0f48&amp;e674dd03-999f-4b05-bf65-f038e6a9d5d9&amp;634192c2-e7e9-47d0-bc05-182a032ff1ed&amp;097cf0bc-5da8-4013-bbb1-6335eb1fa234&amp;f94a96bc-2322-4bb4-ba8b-0b203dd4a79d&amp;f701cd9c-ecc5-11e8-b982-9cdc71af0f48&amp;f66aebde-ecc5-11e8-b982-9cdc71af0f48&amp;4c6e37c9-d9fd-467c-b935-f7b95a3a95a6&amp;391d9228-802a-11e8-b78a-9cdc71af0f48&amp;38ed35a6-802a-11e8-b78a-9cdc71af0f48&amp;097b3188-a655-4725-b61a-ed40a70d2bb3&amp;30b254ee-9d23-44cd-b2ba-9c863c0e0583&amp;880e9048-68b2-4f14-b0a9-57253a0e796c&amp;905b8f0d-a137-45b7-b07e-a8273bd9d4ee&amp;3f71a175-4e7d-403a-af8d-d9fe2a2baddb&amp;34f8eb0d-70a4-47ab-ae97-2666c5b27489&amp;72a6870c-03a2-438b-ad87-c80b66b8d56a&amp;a876f7e0-af52-4c00-acfd-ca4f0f74f3c6&amp;9fda4c68-c90d-438e-ab71-94ecf2d5d20c&amp;e32445e8-2539-4d49-a985-21fdbf25671c&amp;969f7805-f2aa-4cd5-a945-a4f690731bb9&amp;32ba80d3-5962-4d1b-a8f9-12e4324ef8c1&amp;fa5a54e0-cee2-4778-a7e9-f82f7c21dd5a&amp;239832ad-5078-47b8-a7a0-392ba70584bd&amp;5563ee5a-f867-4bb8-a66d-cc8e30b4e85b</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Kase Cosmeport,Kose Cosmeport,kose cosmeport,касе космепорт,косе космепорт,косе косметик</param>
 				<param name="product_id_n">0000000000000000000046271238</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">kose cosmeport</param>
@@ -18478,7 +18478,7 @@ ON:The body Perfume love me обладает романтическим аром
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Защита</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;640f057e-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">космо</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">космо кос</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Космокос</param>
@@ -18799,7 +18799,7 @@ ON:The body Perfume love me обладает романтическим аром
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Увлажнение</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Питание</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Дезодорирование</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">c8b7b4c3-c471-4fb3-bfda-425c9584ff70&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;23e30e88-ded8-11e0-a6ea-0015e9411353&amp;b86807f3-e637-4e0d-a342-7863733bc92e&amp;1a4b2d27-3172-431d-9ee3-fe6c92e9d233&amp;d48b4202-8f18-4b8c-9c44-d3bed105d93c&amp;230641e4-dc8e-4c69-97ea-ae9613499bec&amp;2bf747e2-893c-46c6-97d2-52b3db55521c&amp;2e3fb2b3-fe4c-4cc1-8f74-473ea2dc9170&amp;d697b777-8156-4ee0-8c57-f6c498eac598&amp;8404b3ed-104e-4e6d-8475-ad056d085f6c&amp;80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Руки</param>
 				<param name="product_id_n">0000000000000000026388994274</param>
 				<param name="Принципал"/>
@@ -19024,7 +19024,7 @@ ON:The body Perfume love me обладает романтическим аром
 				<param name="Производитель">ЯПОНИЯ</param>
 				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand</param>
 				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Гель/мыло для душа</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">80ec50f9-27bf-4334-818f-c935f8031f85&amp;27470278-38b2-48f1-8024-b67f2a0b642d&amp;2444b880-46ec-11e8-7f94-9cdc71af0f48&amp;5d97b812-6a45-11e9-5d88-9cdc71af0f48&amp;5c29b430-6a45-11e9-5d88-9cdc71af0f48&amp;5aa057b8-6a45-11e9-5d88-9cdc71af0f48&amp;33633116-6a45-11e9-5d88-9cdc71af0f48&amp;98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">98889536-42e6-11e8-e08a-9cdc71af0f48&amp;9875ba2e-42e6-11e8-e08a-9cdc71af0f48&amp;9864dc9a-42e6-11e8-e08a-9cdc71af0f48&amp;eb1d0354-4df9-11e8-ce9b-9cdc71af0f48&amp;eb11fa54-4df9-11e8-ce9b-9cdc71af0f48&amp;b8b46196-f2f4-11e8-ce8b-9cdc71af0f48&amp;ebee52d4-eae5-4eee-bed0-3fef143be12c&amp;2fd1a761-e14a-4b6d-ba90-a5391b62f605&amp;83e8e3bc-395b-4591-b993-0121ab687ba7&amp;885b4662-a1fe-440d-b982-a0ad6c93c257&amp;393dfdce-802a-11e8-b78a-9cdc71af0f48&amp;392e6544-802a-11e8-b78a-9cdc71af0f48&amp;9ff72de8-5f2e-48c3-b55f-78a81ce91d11&amp;aa367fe4-2541-423f-b52c-78a3da42563b&amp;e3ed3a00-4207-4cc4-b44d-45cf05298ec5&amp;5bf68813-c531-4aa3-b3aa-c141194225b4&amp;ce91c30c-55be-4ec8-b3a8-93872af8afad&amp;ef49bd49-0e17-41fe-b3a5-c435003206d6&amp;dc3b9f8b-75b4-48a2-b0e4-08756b115c0b&amp;7df20099-f29d-423b-afc2-ca33ada83820&amp;04892e7a-da5b-4ce8-ade5-9e16b7d17dff&amp;378af817-2ae9-43df-acb0-49ae5197fa80&amp;d951a62b-2023-4fa6-ac1c-a6c7a9fd9070&amp;5e4e975d-4b0c-4246-a986-8dc338231a11&amp;36e58c50-0fef-4971-a984-0d0346bbdaae&amp;7369520f-d803-11df-a86d-00241d24624d&amp;736951c9-d803-11df-a86d-00241d24624d</param>
 				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Cow Brand ,cow brand ,CowBrand ,ков бренд ,Ков бренд,ковбренд,боунсиа</param>
 				<param name="product_id_n">0000000000000000000006873929</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">ков бренд </param>
@@ -19803,7 +19803,7 @@ ON:The body Perfume love me обладает романтическим аром
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Восстановление</param>
 				<param name="Эффект (Справочник &quot;Номенклатура&quot; (Общие))">Защита</param>
 				<param name="Зона нанесения (Косметика &quot;Для тела&quot;)">Тело</param>
-				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48&amp;5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">5c3e4064-521a-11e9-fa85-9cdc71af0f48&amp;eadca232-4df9-11e8-ce9b-9cdc71af0f48&amp;64d8ed72-3b1b-47e4-bd15-d04f5f602792&amp;def8eb25-12a8-4904-bb66-c42082291664&amp;b0227326-c898-4fcd-bb58-2219f2f81b77&amp;a7d0b56e-1cce-4b89-b1ed-4c19790a262f&amp;fb75fec1-6042-4cc5-b09e-f47de2fdecd9&amp;8864d02e-5f52-11e8-a493-9cdc71af0f48&amp;885b4446-5f52-11e8-a493-9cdc71af0f48&amp;b07f500c-0ca5-45cb-9f50-84ab96318f7f&amp;d20b8251-8845-4bcb-977f-5ccfffceefb6&amp;4fe72f59-9885-400a-9689-831024516321&amp;b8c03e68-dc19-11e8-8c8d-9cdc71af0f48&amp;b5d6fc50-dc19-11e8-8c8d-9cdc71af0f48&amp;dd626216-7df7-11e9-8a81-9cdc71af0f48&amp;26fcbd02-e4b9-4f01-8861-83b80eebd06b&amp;e9e7453d-b42c-422b-871b-81f4dbb63824&amp;6aabbb4e-6140-4da1-85d3-fa70e8edb128&amp;2450738c-46ec-11e8-7f94-9cdc71af0f48&amp;7a9b935c-6a45-11e9-5d88-9cdc71af0f48&amp;791fbe36-6a45-11e9-5d88-9cdc71af0f48&amp;2652b02c-a5e8-11e8-4a82-9cdc71af0f48&amp;2ce6cdee-a794-11e8-439d-9cdc71af0f48&amp;2c1ced44-a794-11e8-439d-9cdc71af0f48&amp;67fa59fa-7bce-11e9-1c92-9cdc71af0f48&amp;663018a8-7bce-11e9-1c92-9cdc71af0f48&amp;640564f2-7bce-11e9-1c92-9cdc71af0f48</param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">Frudia </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">frudia </param>
 				<param name="Бренд (рус.) (Справочник &quot;Номенклатура&quot; (Общие))">фрудиа</param>
