@@ -2081,7 +2081,7 @@ Ban – один из самых популярных в Японии дезод
 				<param name="ТипНоменклатуры">Товар</param>
 				<param name="ТоварнаяКатегория">Гигиена</param>
 				<param name="ЦеноваяГруппа"/>
-				<price>665</price>
+				<price>693</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>УТ-00000277</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
@@ -5004,7 +5004,7 @@ Ban Premium обладает максимальной защитой от пот
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>10</quantity>
+				<quantity>8</quantity>
 			</offer>
 			<offer id="0000000000000000000578825621" group_id="0000000000000000000578825621">
 				<name>268987 LION Ополаскив-ль д/рта "Dentor systema EX dental rinse" мята д/профил кариеса, 450мл</name>
@@ -5541,7 +5541,7 @@ Ban Premium обладает максимальной защитой от пот
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>7</quantity>
+				<quantity>5</quantity>
 			</offer>
 			<offer id="0000000000000000335195011259" group_id="0000000000000000335195011259">
 				<name>032368 Dentalpro Зубная щетка Black Compact Head средн. жесткость</name>

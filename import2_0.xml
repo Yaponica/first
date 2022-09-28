@@ -1867,7 +1867,7 @@
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>4</quantity>
+				<quantity>3</quantity>
 			</offer>
 			<offer id="0000000000000000000075583539" group_id="0000000000000000000075583539">
 				<name>010933 Средство для очищения кожи головы ESTHETIC HOUSE CP-1 HEAD SPA SCALP SCALER, 250 мл</name>
@@ -6716,7 +6716,7 @@ LPP (природный аминокислотный комплекс) - лип�
 				<param name="ТипНоменклатуры">Товар</param>
 				<param name="ТоварнаяКатегория"/>
 				<param name="ЦеноваяГруппа"/>
-				<price>1113</price>
+				<price>1253</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>УТ-00000297</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
@@ -9831,7 +9831,7 @@ LPP (природный аминокислотный комплекс) - лип�
 				<param name="ТипНоменклатуры">Товар</param>
 				<param name="ТоварнаяКатегория"/>
 				<param name="ЦеноваяГруппа"/>
-				<price>1113</price>
+				<price>1253</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>УТ-00000297</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
@@ -10320,7 +10320,7 @@ Pedison Fresh Парфюмированная сыворотка для воло�
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>9</quantity>
+				<quantity>8</quantity>
 			</offer>
 			<offer id="0000000000000000000031778963" group_id="0000000000000000000031778963">
 				<name>004747 Шампунь для волос Pedison МАНГО Institute-Beaute Mango Rich Protein Hair Shampoo, 500 мл</name>

@@ -3324,7 +3324,7 @@
 				<param name="ТипНоменклатуры">Товар</param>
 				<param name="ТоварнаяКатегория">Бытовая химия</param>
 				<param name="ЦеноваяГруппа"/>
-				<price>385</price>
+				<price>504</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>УТ000008899</categoryId>
 				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
@@ -8244,7 +8244,7 @@
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>7</quantity>
+				<quantity>5</quantity>
 			</offer>
 			<offer id="0000000000000005366629483211" group_id="0000000000000005366629483211">
 				<name>282914 LION Жидкое средство для стирки "ТОР - сухое белье" (Крышка с дозатором) 900 г </name>
@@ -11945,7 +11945,7 @@
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>6</quantity>
+				<quantity>5</quantity>
 			</offer>
 			<offer id="0000000000000000000002842896" group_id="0000000000000000000002842896">
 				<name>288462 KAO Средство для мытья посуды "CuCute" с ароматом грейпфрута 385 мл</name>
@@ -16212,7 +16212,7 @@ Bright стерилизует одежду, нейтрализует микро�
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>7</quantity>
+				<quantity>6</quantity>
 			</offer>
 			<offer id="0000000000000000000426271238" group_id="0000000000000000000426271238">
 				<name>002243 Универсальное моющее средство для стойких загрязнений с любых видов поверхностей YUWA</name>
@@ -29344,7 +29344,7 @@ Cрок службы 5-6 месяцев.
 				<length>1</length>
 				<width>1</width>
 				<height>1</height>
-				<quantity>16</quantity>
+				<quantity>15</quantity>
 			</offer>
 			<offer id="01fe2a5e-7102-4b2f-a83c-cde2b236fadb" group_id="01fe2a5e-7102-4b2f-a83c-cde2b236fadb">
 				<name>381828 Гель для стирки белья высокоэффективный  КАО "Attack" 3Х с освеж. Ароматом МУ 690 г</name>
